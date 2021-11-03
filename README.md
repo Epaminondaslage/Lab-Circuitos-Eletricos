@@ -1,10 +1,10 @@
 # Lab-Circuitos-Eletricos
 Disciplina Laboratório de circuitos elétricos - CEFETMG
-1ª Aula Prática: Lei de Ohm	
-2ª Aula Prática: Circuito Puramente Resistivo Série
-3ª Aula Prática: Circuito Puramente Resistivo Paralelo
-4ª Aula Prática: Circuito Puramente Resistivo misto	
-5ª Aula Prática: Redes de Kirchhoff: Método Corrente de Ramos	
+*1ª Aula Prática: Lei de Ohm	
+*2ª Aula Prática: Circuito Puramente Resistivo Série
+*3ª Aula Prática: Circuito Puramente Resistivo Paralelo
+*4ª Aula Prática: Circuito Puramente Resistivo misto	
+*5ª Aula Prática: Redes de Kirchhoff: Método Corrente de Ramos	
 6ª Aula Prática: Redes de Kirchhoff: Método Corrente Auxiliar	
 7ª Aula Prática: Análise de Redes: Tensão Nodal	
 8ª Aula Prática: Teorema da Superposição	
@@ -37,3 +37,6 @@ Disciplina Laboratório de circuitos elétricos - CEFETMG
 33ª Aula Prática: Ligação Triângulo Desequilibrado com Impedância na Linha	
 34ª Aula Prática: Ligação Estrela Desequilibrado com Impedância na Linha	
 35ª Aula Prática: Ligação Estrela e Triângulo Equilibrado em paralelo na rede
+
+
+* [Site Embarcados](https://www.embarcados.com.br/o-que-escrever-num-readme/)
