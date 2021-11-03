@@ -1,8 +1,8 @@
 # Lab-Circuitos-Eletricos
 Disciplina Laboratório de circuitos elétricos - CEFETMG
-*1ª Aula Prática: Lei de Ohm	
-*2ª Aula Prática: Circuito Puramente Resistivo Série
-*3ª Aula Prática: Circuito Puramente Resistivo Paralelo
+*1ª Aula Prática: Lei de Ohm	</p>
+*2ª Aula Prática: Circuito Puramente Resistivo Série</p>
+*3ª Aula Prática: Circuito Puramente Resistivo Paralelo</p>
 *4ª Aula Prática: Circuito Puramente Resistivo misto	
 *5ª Aula Prática: Redes de Kirchhoff: Método Corrente de Ramos	
 6ª Aula Prática: Redes de Kirchhoff: Método Corrente Auxiliar	
