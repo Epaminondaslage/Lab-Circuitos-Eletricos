@@ -1,4 +1,3 @@
-# Lab-Circuitos-Eletricos
 
 # Disciplina Laboratório de circuitos elétricos - CEFETMG</p>
 1ª  Aula Prática: Lei de Ohm	</p>
