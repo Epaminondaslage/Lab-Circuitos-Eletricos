@@ -1,6 +1,4 @@
-
-# Disciplina Laboratório de circuitos elétricos - CEFETMG</p>
-<td style="width: 20%;"><img src="https://github.com/Epaminondaslage/Lab-IoT-ELE-CEFET/blob/master/img/Logo_CEFET-MG.png" width="20%" /></td>
+___<td style="width: 20%;"><img src="https://github.com/Epaminondaslage/Lab-IoT-ELE-CEFET/blob/master/img/Logo_CEFET-MG.png" width="20%" /></td>
 
 
 <p><strong><span style="color: #0000ff;">Disciplina Laboratório de circuitos elétricos - CEFETMG</span></strong></p>
