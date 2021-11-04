@@ -1,19 +1,25 @@
 
 # Disciplina Laboratório de circuitos elétricos - CEFETMG</p>
 
-*Laboratório de Circuitos elétricos
-*Regras básicas de segurança em laboratórios 
-*Onde encontrar o material didático para download?
-*Ementa do curso
-*Simbologia aplicada no curso
-*Critério de Avaliação
-*Diagrama da bancada 
+* O Laboratório de Circuitos Elétricos</p>
+* Regras básicas de segurança no laboratório </p>
+* Onde encontrar o material didático para download?</p>
+* Ementa da disciplina</p>
+* Critério de avaliação</p>
+* Contéudo das aulas práticas
+* Simbologia elétrica aplicada na disciplona</p>
 
+* Diagrama elétrico da bancada </p>
 
+# O Laboratório de Circuitos Elétricos
 
+# Regras básicas de segurança no laboratório
 
+# Onde encontrar o material didático para download?
 
+# Ementa da disciplina
 
+# Critério de avaliação
 
 # Conteúdo das Aulas Práticas
 
@@ -93,4 +99,4 @@
 35ª Aula Prática: Ligação Estrela e Triângulo Equilibrado em paralelo na rede</p> 
 
 
-* 
+# Simbologia elétrica aplicada na disciplona
