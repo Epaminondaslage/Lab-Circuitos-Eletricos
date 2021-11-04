@@ -1,13 +1,13 @@
 
 # Disciplina Laboratório de circuitos elétricos - CEFETMG</p>
 
-•Laboratório de Circuitos elétricos
-•Regras básicas de segurança em laboratórios 
-•Onde encontrar o material didático para download?
-•Ementa do curso
-•Simbologia aplicada no curso
-•Critério de Avaliação
-•Diagrama da bancada 
+*Laboratório de Circuitos elétricos
+*Regras básicas de segurança em laboratórios 
+*Onde encontrar o material didático para download?
+*Ementa do curso
+*Simbologia aplicada no curso
+*Critério de Avaliação
+*Diagrama da bancada 
 
 
 
@@ -18,9 +18,8 @@
 # Conteúdo das Aulas Práticas
 
 1ª  Aula Prática: Lei de Ohm	</p>
-[Guia da aula](https://docs.google.com/document/d/1VDUIZ9hFikUx1xCilI1BLzU9msECJwP-/edit?usp=sharing&ouid=101750793150395365396&rtpof=true&sd=true)
-[Apresentação](https://docs.google.com/presentation/d/18U4Mq3cdTUUyXg-k43rp86o79WjD7tr7/edit?usp=sharing&ouid=101750793150395365396&rtpof=true&sd=true)
-
+[Guia da aula](https://docs.google.com/document/d/1VDUIZ9hFikUx1xCilI1BLzU9msECJwP-/edit?usp=sharing&ouid=101750793150395365396&rtpof=true&sd=true)</p>
+[Apresentação](https://docs.google.com/presentation/d/18U4Mq3cdTUUyXg-k43rp86o79WjD7tr7/edit?usp=sharing&ouid=101750793150395365396&rtpof=true&sd=true)</p>
 2ª  Aula Prática: Circuito Puramente Resistivo Série</p>
 
 3ª  Aula Prática: Circuito Puramente Resistivo Paralelo</p>
