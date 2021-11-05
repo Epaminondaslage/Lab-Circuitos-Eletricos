@@ -98,7 +98,7 @@ O Guia de Aulas práticas foi desenvolvido pelo Prof.  Célio Sergio Vieira e ec
 </tr>
 <tr>
 <td style="width: 96px;"><img src="https://user-images.githubusercontent.com/44790000/140448624-934b6009-92b1-464c-932d-9b15b100530e.png" alt="" style="display: block; margin-left: auto; margin-right: auto;" width="30" height="39" /></td>
-<td style="text-align: center; width: 301px;">&nbsp;&nbsp; <a href="https://docs.google.com/presentation/d/18U4Mq3cdTUUyXg-k43rp86o79WjD7tr7/edit?usp=sharing&amp;ouid=101750793150395365396&amp;rtpof=true&amp;sd=true)">Slides da Aula</a></td>
+<td style="text-align: center; width: 301px;"> <a href="https://docs.google.com/presentation/d/18U4Mq3cdTUUyXg-k43rp86o79WjD7tr7/edit?usp=sharing&amp;ouid=101750793150395365396&amp;rtpof=true&amp;sd=true)">Slides da Aula</a></td>
 </tr>
 </tbody>
 </table>
@@ -114,7 +114,7 @@ O Guia de Aulas práticas foi desenvolvido pelo Prof.  Célio Sergio Vieira e ec
 </tr>
 <tr>
 <td style="width: 96px;"><img src="https://user-images.githubusercontent.com/44790000/140448624-934b6009-92b1-464c-932d-9b15b100530e.png" alt="" style="display: block; margin-left: auto; margin-right: auto;" width="30" height="39" /></td>
-<td style="text-align: center; width: 301px;">&nbsp;&nbsp; <a href="https://docs.google.com/presentation/d/18U4Mq3cdTUUyXg-k43rp86o79WjD7tr7/edit?usp=sharing&amp;ouid=101750793150395365396&amp;rtpof=true&amp;sd=true)">Slides da Aula</a></td>
+<td style="text-align: center; width: 301px;"><a href="https://docs.google.com/presentation/d/18U4Mq3cdTUUyXg-k43rp86o79WjD7tr7/edit?usp=sharing&amp;ouid=101750793150395365396&amp;rtpof=true&amp;sd=true)">Slides da Aula</a></td>
 </tr>
 </tbody>
 </table>
@@ -130,7 +130,7 @@ O Guia de Aulas práticas foi desenvolvido pelo Prof.  Célio Sergio Vieira e ec
 </tr>
 <tr>
 <td style="width: 96px;"><img src="https://user-images.githubusercontent.com/44790000/140448624-934b6009-92b1-464c-932d-9b15b100530e.png" alt="" style="display: block; margin-left: auto; margin-right: auto;" width="30" height="39" /></td>
-<td style="text-align: center; width: 373px;">&nbsp;&nbsp; <a href="https://docs.google.com/presentation/d/18U4Mq3cdTUUyXg-k43rp86o79WjD7tr7/edit?usp=sharing&amp;ouid=101750793150395365396&amp;rtpof=true&amp;sd=true)">Slides da Aula</a></td>
+<td style="text-align: center; width: 373px;"><a href="https://docs.google.com/presentation/d/18U4Mq3cdTUUyXg-k43rp86o79WjD7tr7/edit?usp=sharing&amp;ouid=101750793150395365396&amp;rtpof=true&amp;sd=true)">Slides da Aula</a></td>
 </tr>
 </tbody>
 </table>
