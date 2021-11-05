@@ -46,7 +46,7 @@ A Norma Regulamentadora nº 10 emitida pelo Ministério do Trabalho e Emprego do
 
 <img width="140" alt="image" src="https://user-images.githubusercontent.com/44790000/140447968-44f892b0-42ef-45bb-95c5-7536336bb5d4.png">
 
-<p>O Guia de Aulas Pr&aacute;ticas foi desenvolvido pelo Prof. C&eacute;lio Sergio Vieira. Clique <a href="https://drive.google.com/file/d/11poV6JEei-Iz9ZQsD36SIz9c1jkQOlLB/view?usp=sharing">aqui</a> para baixar a apostila de toda a disciplina.</p>
+<p>O Guia de Aulas Pr&aacute;ticas foi desenvolvido pelo Prof. C&eacute;lio Sergio Vieira. Clique <a href="https://drive.google.com/file/d/1VItHU2oYPvuvF74gkPy_XsWTBEyPUH2B/view?usp=sharing">aqui</a> para baixar a apostila de toda a disciplina.</p>
 
 # Ementa da disciplina
 <table style="border-collapse: collapse; width: 100%;" border="1">
@@ -130,7 +130,7 @@ A Norma Regulamentadora nº 10 emitida pelo Ministério do Trabalho e Emprego do
 </tr>
 <tr>
 <td><img src="https://user-images.githubusercontent.com/44790000/140448624-934b6009-92b1-464c-932d-9b15b100530e.png" alt="" style="display: block; margin-left: auto; margin-right: auto;" width="30" height="39" /></td>
-<td style="text-align: center;">&nbsp;&nbsp; <a href="https://docs.google.com/presentation/d/1R81WLUmbBiE3P1BFZE7rCLRgfNtIRfSI/edit?usp=sharing&ouid=101750793150395365396&rtpof=true&sd=true">Slides da Aula</a></td>
+<td style="text-align: center;">&nbsp;&nbsp; <a href="https://drive.google.com/file/d/1yHeckOk_LMVFPwKUEPu-W_bR5PqHtDZ_/view?usp=sharing">Slides da Aula</a></td>
 </tr>
 </tbody>
 </table>
