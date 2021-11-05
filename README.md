@@ -126,11 +126,11 @@ A Norma Regulamentadora nº 10 emitida pelo Ministério do Trabalho e Emprego do
 </tr>
 <tr>
 <td><img src="https://user-images.githubusercontent.com/44790000/140449751-0802cbdb-eabc-42ec-8b9d-99b850d8f7b3.png" alt="" style="display: block; margin-left: auto; margin-right: auto;" width="39" height="39" /></td>
-<td style="text-align: center; width: 266px;">&nbsp;<a href="https://drive.google.com/file/d/1yHeckOk_LMVFPwKUEPu-W_bR5PqHtDZ_/view?usp=sharing">Guia de Aula</a></td>
+<td style="text-align: center; width: 266px;">&nbsp;<a href="https://docs.google.com/document/d/1t6lzC3xAJNeE0kHSC44sZB9X00cMj9Oe/edit?usp=sharing&ouid=101750793150395365396&rtpof=true&sd=true">Guia de Aula</a></td>
 </tr>
 <tr>
 <td><img src="https://user-images.githubusercontent.com/44790000/140448624-934b6009-92b1-464c-932d-9b15b100530e.png" alt="" style="display: block; margin-left: auto; margin-right: auto;" width="30" height="39" /></td>
-<td style="text-align: center;">&nbsp;&nbsp; <a href="https://docs.google.com/presentation/d/18U4Mq3cdTUUyXg-k43rp86o79WjD7tr7/edit?usp=sharing&amp;ouid=101750793150395365396&amp;rtpof=true&amp;sd=true)">Slides da Aula</a></td>
+<td style="text-align: center;">&nbsp;&nbsp; <a href="https://docs.google.com/presentation/d/1R81WLUmbBiE3P1BFZE7rCLRgfNtIRfSI/edit?usp=sharing&ouid=101750793150395365396&rtpof=true&sd=true">Slides da Aula</a></td>
 </tr>
 </tbody>
 </table>
@@ -143,11 +143,11 @@ A Norma Regulamentadora nº 10 emitida pelo Ministério do Trabalho e Emprego do
 </tr>
 <tr>
 <td><img src="https://user-images.githubusercontent.com/44790000/140449751-0802cbdb-eabc-42ec-8b9d-99b850d8f7b3.png" alt="" style="display: block; margin-left: auto; margin-right: auto;" width="39" height="39" /></td>
-<td style="text-align: center; width: 266px;">&nbsp;<a href="https://docs.google.com/document/d/1VDUIZ9hFikUx1xCilI1BLzU9msECJwP-/edit?usp=sharing&amp;ouid=101750793150395365396&amp;rtpof=true&amp;sd=true)">Guia de Aula</a></td>
+<td style="text-align: center; width: 266px;">&nbsp;<a href="https://docs.google.com/document/d/1-LhBey0oV9fLtwNeDNTWVA3YxqHhG7Cl/edit?usp=sharing&ouid=101750793150395365396&rtpof=true&sd=true">Guia de Aula</a></td>
 </tr>
 <tr>
 <td><img src="https://user-images.githubusercontent.com/44790000/140448624-934b6009-92b1-464c-932d-9b15b100530e.png" alt="" style="display: block; margin-left: auto; margin-right: auto;" width="30" height="39" /></td>
-<td style="text-align: center;"><a href="https://docs.google.com/presentation/d/18U4Mq3cdTUUyXg-k43rp86o79WjD7tr7/edit?usp=sharing&amp;ouid=101750793150395365396&amp;rtpof=true&amp;sd=true)">Slides da Aula</a></td>
+<td style="text-align: center;"><a href="https://docs.google.com/presentation/d/1tiEHmVVAF6KBv3xG4n8jutmXsTiartaB/edit?usp=sharing&ouid=101750793150395365396&rtpof=true&sd=true">Slides da Aula</a></td>
 </tr>
 </tbody>
 </table>
