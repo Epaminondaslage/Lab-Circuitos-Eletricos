@@ -50,11 +50,6 @@ O Guia de Aulas práticas foi desenvolvido pelo Prof.  Célio Sergio Vieira e ec
 
 # Ementa da disciplina
 
-<h3 class="centeredText"><span style="text-decoration: underline; color: #e34f26;">Click here</span> to edit this demo</h3>
-<!-- This comment is visible only in the source editor -->
-<p><img class="imageRight" style="width: 53px; height: 60px;" src="https://htmleditor.tools/img/html-editor-tools.png" alt="HTML editor tools" />This is a demo text where you can experiment with the <strong class="orangeText">HTML Editor&nbsp;</strong>features. See how the visual and source editors are instantly changing each other.</p>
-<p>Test the cleaning options and the toolbars of the two editors.</p>
-<p>&nbsp;</p>
 <table style="height: 164px;" width="378" border="1">
 <tbody>
 <tr>
@@ -70,7 +65,7 @@ O Guia de Aulas práticas foi desenvolvido pelo Prof.  Célio Sergio Vieira e ec
 </tr>
 </tbody>
 </table>
-<p>Copy-paste any document in the WYSIWYG editor to <span class="orangeText">convert</span> it to HTML code.</p>
+<p>
 
 # Conteúdo das Aulas Práticas
 
