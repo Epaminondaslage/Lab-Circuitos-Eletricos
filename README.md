@@ -19,7 +19,28 @@ ___<td style="width: 20%;"><img src="https://github.com/Epaminondaslage/Lab-IoT-
 
 # Regras básicas de segurança no laboratório
 A palavra “laboratório” significa labor = trabalho + oratium (ou oratorium) = local de reflexão. Portanto, laboratório refere-se a um local de trabalho e concentração, não necessariamente perigoso, desde que sejam tomadas certas precauções.
-<img width="2342" alt="image" src="https://user-images.githubusercontent.com/44790000/140446954-9815f12e-92d3-49c9-a088-307fbd08afc1.png">
+
+*Leia com atenção as instruções abaixo e jamais brinque nestes ambientes. 
+
+ Uso de Equipamentos Elétricos
+ 
+- Nunca ligue equipamentos elétricos sem antes verificar a tensão correta.
+- Só opere equipamentos quando fios, tomadas e plugues estiverem em perfeitas condições; o fio terra deve estar convenientemente conectado;
+- Não opere equipamentos elétricos sobre superfícies úmidas;
+- Não use equipamentos elétricos que não tiverem identificação de tensão. 
+
+
+- Não trabalhe sozinho, principalmente fora do horário de expediente. 
+- Ao ser designado para trabalhar em um determinado laboratório, é imprescindível o conhecimento da localização dos acessórios de segurança. 
+- Procure conhecer o equipamento antes de utiliza-lo. Leia as instruções de uso, manuais, etc. 
+- Certifique-se da tensão de trabalho dos equipamentos antes de conectá-los à rede elétrica. Quando não estiverem em uso, os aparelhos devem permanecer desconectados.
+- Planeje sua experiência, procurando conhecer os riscos envolvidos, precauções a serem tomadas e como descartar corretamente os resíduos. 
+- Use roupas adequadas como calças compridas e sapatos fechados. Se usar cabelos compridos, conserve-os presos.
+- Não são permitidos alimentos nas bancadas, armários e geladeiras dos laboratórios. 
+- Comunique todos os acidentes ao professor.
+
+
+
 
 
 # Onde encontrar o material didático para download?
