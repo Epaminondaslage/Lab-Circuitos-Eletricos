@@ -1,7 +1,7 @@
 ___<td style="width: 20%;"><img src="https://github.com/Epaminondaslage/Lab-IoT-ELE-CEFET/blob/master/img/Logo_CEFET-MG.png" width="20%" /></td>
 
 
-<p><strong><span style="color: #0000ff;">Disciplina Laboratório de circuitos elétricos - CEFETMG</span></strong></p>
+<p><strong><span style="color: #0000ff;">Disciplina Laboratório de Circuitos Elétricos - CEFETMG</span></strong></p>
 <p><strong><span style="color: #0000ff;">Prof Epaminondas Lage</span></strong></p>
 <a href="http://lattes.cnpq.br/7787341723868111"> Currículo Lattes LAGE, E. S.</a> 
 
@@ -18,6 +18,9 @@ ___<td style="width: 20%;"><img src="https://github.com/Epaminondaslage/Lab-IoT-
 # O Laboratório de Circuitos Elétricos
 
 # Regras básicas de segurança no laboratório
+A palavra “laboratório” significa labor = trabalho + oratium (ou oratorium) = local de reflexão. Portanto, laboratório refere-se a um local de trabalho e concentração, não necessariamente perigoso, desde que sejam tomadas certas precauções.
+<img width="2342" alt="image" src="https://user-images.githubusercontent.com/44790000/140446954-9815f12e-92d3-49c9-a088-307fbd08afc1.png">
+
 
 # Onde encontrar o material didático para download?
 
