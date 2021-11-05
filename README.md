@@ -96,7 +96,7 @@ A Norma Regulamentadora nº 10 emitida pelo Ministério do Trabalho e Emprego do
 6. 1. Circuito puramente resistivo série.<br />
 6. 2. Circuito resistivo e indutivo em série.<br />
 6. 3. Circuito resistivo e capacitivo em série.<br />
-6. 4. Circuito resistivo, indutivo e capacitivo em série.</p>
+6. 4. Circuito resistivo, indutivo e capacitivo em série.<br />
 <p>6. 5. Corre&ccedil;&atilde;o do fator de potência Unidade.</p>
 <p>UNIDADE 7: Corrente Alternada Monofásica &ndash; Circuito Paralelo</p>
 7. 1. Circuito resistivo, indutivo e capacitivo paralelo e misto.<br />
