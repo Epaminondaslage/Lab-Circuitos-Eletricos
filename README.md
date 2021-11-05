@@ -8,11 +8,14 @@ ___<td style="width: 20%;"><img src="https://github.com/Epaminondaslage/Lab-IoT-
 # O Laboratório de Circuitos Elétricos
 
 # Regras básicas de segurança no laboratório
+
 A palavra “laboratório” significa labor = trabalho + oratium (ou oratorium) = local de reflexão. Portanto, laboratório refere-se a um local de trabalho e concentração, não necessariamente perigoso, desde que sejam tomadas certas precauções.
+
+<img width="232" alt="image" src="https://user-images.githubusercontent.com/44790000/140447827-92e80ae4-1186-4a67-bf1d-ea25001a0c46.png">
 
 **Leia com atenção as instruções abaixo e jamais brinque nestes ambientes. 
 
- Uso de Equipamentos Elétricos
+ **Uso de Equipamentos Elétricos
  
 - Só opere equipamentos quando fios, tomadas e plugues estiverem em perfeitas condições; o fio terra deve estar convenientemente conectado;
 - Não opere equipamentos elétricos sobre superfícies úmidas;
@@ -26,8 +29,11 @@ A palavra “laboratório” significa labor = trabalho + oratium (ou oratorium)
 - Não são permitidos alimentos nas bancadas, armários e geladeiras dos laboratórios. 
 - Comunique todos os acidentes ao professor.
 
-**Norma Regulamentadora nº 10
 <img width="94" alt="image" src="https://user-images.githubusercontent.com/44790000/140447641-563587b6-714f-4d44-9bd8-491f322697ae.png">
+
+**Norma Regulamentadora nº 10
+
+A NR 10 é uma norma regulamentadora chamada de “Segurança em Instalações e Serviços em Eletricidade”. Ela foi criada em 1978 e passou por algumas atualizações até ser finalizada e publicada em 2004 pelo Ministério do Trabalho.
 
 O principal objetivo da norma regulamentadora NR 10 é minimizar os riscos associados ao uso de energia elétrica para promover segurança e saúde aos colaboradores que trabalham com eletricidade.
 
@@ -35,14 +41,12 @@ A Norma Regulamentadora nº 10 emitida pelo Ministério do Trabalho e Emprego do
 
  O perigo da eletricidade e o risco de acidente causados por ela podem envolver pessoas que trabalham em qualquer área: geração, transmissão, distribuição e, inclusive, pessoas que não trabalham com energia elétrica mas consomem a mesma.
 
-A NR 10 é uma norma regulamentadora chamada de “Segurança em Instalações e Serviços em Eletricidade”. Ela foi criada em 1978 e passou por algumas atualizações até ser finalizada e publicada em 2004 pelo Ministério do Trabalho.
-
-Segundo o texto, todas as instalações elétricas de empresas públicas e privadas devem atender aos requisitos e as normas ABNT (Associação Brasileira de Normas Técnicas). 
-
-
-
 
 # Onde encontrar o material didático para download?
+
+<img width="180" alt="image" src="https://user-images.githubusercontent.com/44790000/140447968-44f892b0-42ef-45bb-95c5-7536336bb5d4.png">
+
+O Guia de Aulas práticas foi desenvolvido pelo Prof.  Célio Sergio Vieira e econtra-se disponível para donwload neste endereço.
 
 # Ementa da disciplina
 
