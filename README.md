@@ -50,6 +50,10 @@ O Guia de Aulas práticas foi desenvolvido pelo Prof.  Célio Sergio Vieira e ec
 
 # Ementa da disciplina
 
+
+
+# Conteúdo das Aulas Práticas
+//1
 <table style="height: 164px;" width="378" border="1">
 <tbody>
 <tr>
@@ -66,12 +70,23 @@ O Guia de Aulas práticas foi desenvolvido pelo Prof.  Célio Sergio Vieira e ec
 </tbody>
 </table>
 <p>
-
-# Conteúdo das Aulas Práticas
-
-1ª  Aula Prática: Lei de Ohm	</p>
-
-2ª  Aula Prática: Circuito Puramente Resistivo Série</p>
+//2
+<table style="height: 164px;" width="378" border="1">
+<tbody>
+<tr>
+<td colspan="2" style="text-align: center;">2&ordf; Aula Pr&aacute;tica: Circuito Puramente Resistivo S&eacute;rie</td>
+</tr>
+<tr>
+<td><img src="https://user-images.githubusercontent.com/44790000/140449751-0802cbdb-eabc-42ec-8b9d-99b850d8f7b3.png" alt="" style="display: block; margin-left: auto; margin-right: auto;" width="39" height="39" /></td>
+<td style="text-align: center; width: 266px;">&nbsp;<a href="https://docs.google.com/document/d/1VDUIZ9hFikUx1xCilI1BLzU9msECJwP-/edit?usp=sharing&amp;ouid=101750793150395365396&amp;rtpof=true&amp;sd=true)">Guia de Aula</a></td>
+</tr>
+<tr>
+<td><img src="https://user-images.githubusercontent.com/44790000/140448624-934b6009-92b1-464c-932d-9b15b100530e.png" alt="" style="display: block; margin-left: auto; margin-right: auto;" width="30" height="39" /></td>
+<td style="text-align: center;">&nbsp;&nbsp; <a href="https://docs.google.com/presentation/d/18U4Mq3cdTUUyXg-k43rp86o79WjD7tr7/edit?usp=sharing&amp;ouid=101750793150395365396&amp;rtpof=true&amp;sd=true)">Slides da Aula</a></td>
+</tr>
+</tbody>
+</table>
+<p><span style="color: #000000;"><strong>
 
 3ª  Aula Prática: Circuito Puramente Resistivo Paralelo</p>
 
