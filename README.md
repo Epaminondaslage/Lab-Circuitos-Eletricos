@@ -41,7 +41,6 @@ A Norma Regulamentadora nº 10 emitida pelo Ministério do Trabalho e Emprego do
 
  O perigo da eletricidade e o risco de acidente causados por ela podem envolver pessoas que trabalham em qualquer área: geração, transmissão, distribuição e, inclusive, pessoas que não trabalham com energia elétrica mas consomem a mesma.
 
-
 # Onde encontrar o material didático para download?
 
 <img width="140" alt="image" src="https://user-images.githubusercontent.com/44790000/140447968-44f892b0-42ef-45bb-95c5-7536336bb5d4.png">
@@ -116,7 +115,6 @@ A Norma Regulamentadora nº 10 emitida pelo Ministério do Trabalho e Emprego do
 <p><br />GUSSOW, M. . Eletricidade básica. S&atilde;o Paulo: Makron Books do Brasil, 1985.aDORF, Richard C. e Svoboda, James A. , Introdução aos Circuitos El&eacute;tricos. 8 ed. S&atilde;o Paulo: LTC, 2012,CRUZ, Eduardo Cesar Alves. Circuitos El&eacute;tricos - Corrente Contínua e Corrente Alternada. 9 ed. S&atilde;o Paulo: Saraiva, 2011.Alexander, Charles; SADIKU,Matthew N. O. . Fundamentos de Circuitos El&eacute;tricos. 5a ed. S&atilde;o Paulo: Saraiva, 2013.</p>
 <p><strong>5- ELABORADO POR:</strong> <br />Prof. : C&eacute;lio S&eacute;rgio Vieira Prof. : Gerson Oliveira Soares <br />DATA:DE ACORDO: Coordena&ccedil;&atilde;o de Curso Coordena&ccedil;&atilde;o Pedag&oacute;gica</p>
 
-
 # Conteúdo das Aulas Práticas
 <table style="height: 164px;" width="378" border="1">
 <tbody>
@@ -164,7 +162,6 @@ A Norma Regulamentadora nº 10 emitida pelo Ministério do Trabalho e Emprego do
 </tr>
 </tbody>
 </table>
-4
 <table style="height: 164px; width: 413px;" border="1">
 <tbody>
 <tr>
@@ -172,15 +169,14 @@ A Norma Regulamentadora nº 10 emitida pelo Ministério do Trabalho e Emprego do
 </tr>
 <tr>
 <td style="width: 96px;"><img src="https://user-images.githubusercontent.com/44790000/140449751-0802cbdb-eabc-42ec-8b9d-99b850d8f7b3.png" alt="" style="display: block; margin-left: auto; margin-right: auto;" width="39" height="39" /></td>
-<td style="text-align: center; width: 301px;">&nbsp;<a href="https://docs.google.com/document/d/1VDUIZ9hFikUx1xCilI1BLzU9msECJwP-/edit?usp=sharing&amp;ouid=101750793150395365396&amp;rtpof=true&amp;sd=true)">Guia de Aula</a></td>
+<td style="text-align: center; width: 301px;">&nbsp;<a href="https://docs.google.com/document/d/18THzb9tjTaQnOG9MSRB_-ICQ7DNv1V7r/edit?usp=sharing&ouid=101750793150395365396&rtpof=true&sd=true">Guia de Aula</a></td>
 </tr>
 <tr>
 <td style="width: 96px;"><img src="https://user-images.githubusercontent.com/44790000/140448624-934b6009-92b1-464c-932d-9b15b100530e.png" alt="" style="display: block; margin-left: auto; margin-right: auto;" width="30" height="39" /></td>
-<td style="text-align: center; width: 301px;"><a href="https://docs.google.com/presentation/d/18U4Mq3cdTUUyXg-k43rp86o79WjD7tr7/edit?usp=sharing&amp;ouid=101750793150395365396&amp;rtpof=true&amp;sd=true)">Slides da Aula</a></td>
+<td style="text-align: center; width: 301px;"><a href="https://drive.google.com/file/d/1jHC-nAlrVzK9iozhI2aWAKL_iEwTNprk/view?usp=sharing">Slides da Aula</a></td>
 </tr>
 </tbody>
 </table>
-5
 <table style="height: 164px; width: 485px;" border="1">
 <tbody>
 <tr>
@@ -188,15 +184,14 @@ A Norma Regulamentadora nº 10 emitida pelo Ministério do Trabalho e Emprego do
 </tr>
 <tr>
 <td style="width: 96px;"><img src="https://user-images.githubusercontent.com/44790000/140449751-0802cbdb-eabc-42ec-8b9d-99b850d8f7b3.png" alt="" style="display: block; margin-left: auto; margin-right: auto;" width="39" height="39" /></td>
-<td style="text-align: center; width: 373px;">&nbsp;<a href="https://docs.google.com/document/d/1VDUIZ9hFikUx1xCilI1BLzU9msECJwP-/edit?usp=sharing&amp;ouid=101750793150395365396&amp;rtpof=true&amp;sd=true)">Guia de Aula</a></td>
+<td style="text-align: center; width: 373px;">&nbsp;<a href="https://docs.google.com/document/d/1_V_DpnUuseFULioBe9KIMuvSy7_dP1t5/edit?usp=sharing&ouid=101750793150395365396&rtpof=true&sd=true">Guia de Aula</a></td>
 </tr>
 <tr>
 <td style="width: 96px;"><img src="https://user-images.githubusercontent.com/44790000/140448624-934b6009-92b1-464c-932d-9b15b100530e.png" alt="" style="display: block; margin-left: auto; margin-right: auto;" width="30" height="39" /></td>
-<td style="text-align: center; width: 373px;"><a href="https://docs.google.com/presentation/d/18U4Mq3cdTUUyXg-k43rp86o79WjD7tr7/edit?usp=sharing&amp;ouid=101750793150395365396&amp;rtpof=true&amp;sd=true)">Slides da Aula</a></td>
+<td style="text-align: center; width: 373px;"><a href="https://drive.google.com/file/d/1e1eEVmp4JR2LjKDTIOlREfN-cfH_Vydh/view?usp=sharing">Slides da Aula</a></td>
 </tr>
 </tbody>
 </table>
-6	
 <table style="height: 164px; width: 485px;" border="1">
 <tbody>
 <tr>
@@ -204,18 +199,44 @@ A Norma Regulamentadora nº 10 emitida pelo Ministério do Trabalho e Emprego do
 </tr>
 <tr>
 <td style="width: 96px;"><img src="https://user-images.githubusercontent.com/44790000/140449751-0802cbdb-eabc-42ec-8b9d-99b850d8f7b3.png" alt="" style="display: block; margin-left: auto; margin-right: auto;" width="39" height="39" /></td>
-<td style="text-align: center; width: 373px;">&nbsp;<a href="https://docs.google.com/document/d/1VDUIZ9hFikUx1xCilI1BLzU9msECJwP-/edit?usp=sharing&amp;ouid=101750793150395365396&amp;rtpof=true&amp;sd=true)">Guia de Aula</a></td>
+<td style="text-align: center; width: 373px;">&nbsp;<a href="https://docs.google.com/document/d/1_TKlMJG0cxCw_SKmso12DP3Ple1Jx0XU/edit?usp=sharing&ouid=101750793150395365396&rtpof=true&sd=true">Guia de Aula</a></td>
 </tr>
 <tr>
 <td style="width: 96px;"><img src="https://user-images.githubusercontent.com/44790000/140448624-934b6009-92b1-464c-932d-9b15b100530e.png" alt="" style="display: block; margin-left: auto; margin-right: auto;" width="30" height="39" /></td>
-<td style="text-align: center; width: 373px;"><a href="https://docs.google.com/presentation/d/18U4Mq3cdTUUyXg-k43rp86o79WjD7tr7/edit?usp=sharing&amp;ouid=101750793150395365396&amp;rtpof=true&amp;sd=true)">Slides da Aula</a></td>
+<td style="text-align: center; width: 373px;"><a href="https://drive.google.com/file/d/1QMkDPuo7CAygELp_RxeajV0wjAvj7zWe/view?usp=sharing">Slides da Aula</a></td>
 </tr>
 </tbody>
 </table>
-
-7ª  Aula Prática: Análise de Redes: Tensão Nodal	</p>
-
-8ª  Aula Prática: Teorema da Superposição	</p>
+<table style="height: 164px; width: 485px;" border="1">
+<tbody>
+<tr>
+<td style="text-align: center; width: 469px;" colspan="2">7&ordf; Aula Pr&aacute;tica: Analise de Redes-Tensao Nodal </td>
+</tr>
+<tr>
+<td style="width: 96px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140449751-0802cbdb-eabc-42ec-8b9d-99b850d8f7b3.png" alt="" width="39" height="39" /></td>
+<td style="text-align: center; width: 373px;">&nbsp;<a href="https://docs.google.com/document/d/1XCLOexL9KMtSPuAXve5h40v-bDAXQCTl/edit?usp=sharing&amp;ouid=101750793150395365396&amp;rtpof=true&amp;sd=true">Guia de Aula</a></td>
+</tr>
+<tr>
+<td style="width: 96px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140448624-934b6009-92b1-464c-932d-9b15b100530e.png" alt="" width="30" height="39" /></td>
+<td style="text-align: center; width: 373px;"><a href="https://drive.google.com/file/d/1NkCtlhyELeM81ksLcUkXheZWPVqVRVYk/view?usp=sharing">Slides da Aula</a></td>
+</tr>
+</tbody>
+</table>
+<table style="height: 164px; width: 485px;" border="1">
+<tbody>
+<tr>
+<td style="text-align: center; width: 469px;" colspan="2">8&ordf; Aula Pr&aacute;tica: Teorema da Superposi&ccedil;&atilde;o </td>
+</tr>
+<tr>
+<td style="width: 96px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140449751-0802cbdb-eabc-42ec-8b9d-99b850d8f7b3.png" alt="" width="39" height="39" /></td>
+<td style="text-align: center; width: 373px;">&nbsp;<a href="https://docs.google.com/document/d/1mRiI8BJvtniJh-Fhd8n1BomRFZOzFHJs/edit?usp=sharing&amp;ouid=101750793150395365396&amp;rtpof=true&amp;sd=true">Guia de Aula</a></td>
+</tr>
+<tr>
+<td style="width: 96px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140448624-934b6009-92b1-464c-932d-9b15b100530e.png" alt="" width="30" height="39" /></td>
+<td style="text-align: center; width: 373px;"><a href="https://drive.google.com/file/d/1VO8jUQ3HJbil9ZYUJrF_jMBLz-JW7k87/view?usp=sharing">Slides da Aula</a></td>
+</tr>
+</tbody>
+</table>
 
 9ª  Aula Prática: Análise de Redes: Teorema de Thévenin e Norton	</p>
 
