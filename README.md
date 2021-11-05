@@ -56,8 +56,7 @@ O Guia de Aulas práticas foi desenvolvido pelo Prof.  Célio Sergio Vieira e ec
 
 1ª  Aula Prática: Lei de Ohm	</p>
 [Guia da aula](https://docs.google.com/document/d/1VDUIZ9hFikUx1xCilI1BLzU9msECJwP-/edit?usp=sharing&ouid=101750793150395365396&rtpof=true&sd=true)</p>
-![image](https://user-images.githubusercontent.com/44790000/140448412-70e4b360-3a77-4881-a533-68660e4ee31d.png)
-[Apresentação](https://docs.google.com/presentation/d/18U4Mq3cdTUUyXg-k43rp86o79WjD7tr7/edit?usp=sharing&ouid=101750793150395365396&rtpof=true&sd=true)</p>
+<img width="31" alt="image" src="https://user-images.githubusercontent.com/44790000/140448624-934b6009-92b1-464c-932d-9b15b100530e.png">[Apresentação](https://docs.google.com/presentation/d/18U4Mq3cdTUUyXg-k43rp86o79WjD7tr7/edit?usp=sharing&ouid=101750793150395365396&rtpof=true&sd=true)</p>
 2ª  Aula Prática: Circuito Puramente Resistivo Série</p>
 
 3ª  Aula Prática: Circuito Puramente Resistivo Paralelo</p>
