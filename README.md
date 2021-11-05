@@ -267,12 +267,51 @@ A Norma Regulamentadora nº 10 emitida pelo Ministério do Trabalho e Emprego do
 </tr>
 </tbody>
 </table>
-
-11ª Aula Prática: Transformação Triangulo --> Estrela (∆/Y)	</p>
-
-12ª Aula Prática: Circuito Resistivo e Capacitivo Misto - CC	</p>
-
-13ª Aula Prática: Transitório da Carga e Descarga do Capacitor  em C.C.	</p>
+<table style="height: 164px; width: 485px;" border="1">
+<tbody>
+<tr>
+<td style="text-align: center; width: 469px;" colspan="2">11&ordf; Aula Pr&aacute;tica: Transforma&ccedil;&atilde;o Triangulo --&gt; Estrela (∆/Y)</td>
+</tr>
+<tr>
+<td style="width: 96px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140449751-0802cbdb-eabc-42ec-8b9d-99b850d8f7b3.png" alt="" width="39" height="39" /></td>
+<td style="text-align: center; width: 373px;"><a href="https://docs.google.com/document/d/1Xq5qtjzRM_3ws7ccM7nxQ3LGqJFgdk-X/edit?usp=sharing&amp;ouid=101750793150395365396&amp;rtpof=true&amp;sd=true">Guia de Aula</a></td>
+</tr>
+<tr>
+<td style="width: 96px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140448624-934b6009-92b1-464c-932d-9b15b100530e.png" alt="" width="30" height="39" /></td>
+<td style="text-align: center; width: 373px;"><a href="https://drive.google.com/file/d/1EpMeaQBNpY03ya4nlZIUOy6LRy6v9owO/view?usp=sharing">Slides da Aula</a></td>
+</tr>
+</tbody>
+</table>
+<table style="height: 164px; width: 485px;" border="1">
+<tbody>
+<tr>
+<td style="text-align: center; width: 469px;" colspan="2">12&ordf; Aula Pr&aacute;tica: Circuito Resistivo e Capacitivo Misto - CC</td>
+</tr>
+<tr>
+<td style="width: 96px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140449751-0802cbdb-eabc-42ec-8b9d-99b850d8f7b3.png" alt="" width="39" height="39" /></td>
+<td style="text-align: center; width: 373px;"><a href="https://docs.google.com/document/d/1gWRaPi1kYz0_wKekWnBs2Ov7o27J0SFA/edit?usp=sharing&amp;ouid=101750793150395365396&amp;rtpof=true&amp;sd=true">Guia de Aula</a></td>
+</tr>
+<tr>
+<td style="width: 96px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140448624-934b6009-92b1-464c-932d-9b15b100530e.png" alt="" width="30" height="39" /></td>
+<td style="text-align: center; width: 373px;"><a href="https://drive.google.com/file/d/135BtOSb44y_Zz3QAi-RhvjH25jKV0Dww/view?usp=sharing">Slides da Aula</a></td>
+</tr>
+</tbody>
+</table>
+<table style="height: 164px; width: 473px;" border="1">
+<tbody>
+<tr>
+<td style="text-align: center; width: 463px;" colspan="2">13&ordf; Aula Pr&aacute;tica: Transit&oacute;rio da Carga e Descarga do Capacitor em C.C. </td>
+</tr>
+<tr>
+<td style="width: 90.8px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140449751-0802cbdb-eabc-42ec-8b9d-99b850d8f7b3.png" alt="" width="39" height="39" /></td>
+<td style="text-align: center; width: 366.2px;"><a href="https://docs.google.com/document/d/1RBmFoN6RXx1laCFAaxKKBcbmu1nnWImc/edit?usp=sharing&amp;ouid=101750793150395365396&amp;rtpof=true&amp;sd=true">Guia de Aula</a></td>
+</tr>
+<tr>
+<td style="width: 90.8px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140448624-934b6009-92b1-464c-932d-9b15b100530e.png" alt="" width="30" height="39" /></td>
+<td style="text-align: center; width: 366.2px;"><a href="https://drive.google.com/file/d/1jFEEjHsoNILFBA_mxuUelAsIvfnMGjB3/view?usp=sharing">Slides da Aula</a></td>
+</tr>
+</tbody>
+</table>
 
 14ª Aula Prática: Levantamento da Curva de Magnetização ou Saturação Magnética	</p>
 
