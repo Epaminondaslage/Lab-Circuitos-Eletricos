@@ -5,31 +5,18 @@ ___<td style="width: 20%;"><img src="https://github.com/Epaminondaslage/Lab-IoT-
 <p><strong><span style="color: #0000ff;">Prof Epaminondas Lage</span></strong></p>
 <a href="http://lattes.cnpq.br/7787341723868111"> Currículo Lattes LAGE, E. S.</a> 
 
-* O Laboratório de Circuitos Elétricos</p>
-* Regras básicas de segurança no laboratório </p>
-* Onde encontrar o material didático para download?</p>
-* Ementa da disciplina</p>
-* Critério de avaliação</p>
-* Contéudo das aulas práticas
-* Simbologia elétrica aplicada na disciplona</p>
-
-* Diagrama elétrico da bancada </p>
-
 # O Laboratório de Circuitos Elétricos
 
 # Regras básicas de segurança no laboratório
 A palavra “laboratório” significa labor = trabalho + oratium (ou oratorium) = local de reflexão. Portanto, laboratório refere-se a um local de trabalho e concentração, não necessariamente perigoso, desde que sejam tomadas certas precauções.
 
-*Leia com atenção as instruções abaixo e jamais brinque nestes ambientes. 
+**Leia com atenção as instruções abaixo e jamais brinque nestes ambientes. 
 
  Uso de Equipamentos Elétricos
  
-- Nunca ligue equipamentos elétricos sem antes verificar a tensão correta.
 - Só opere equipamentos quando fios, tomadas e plugues estiverem em perfeitas condições; o fio terra deve estar convenientemente conectado;
 - Não opere equipamentos elétricos sobre superfícies úmidas;
 - Não use equipamentos elétricos que não tiverem identificação de tensão. 
-
-
 - Não trabalhe sozinho, principalmente fora do horário de expediente. 
 - Ao ser designado para trabalhar em um determinado laboratório, é imprescindível o conhecimento da localização dos acessórios de segurança. 
 - Procure conhecer o equipamento antes de utiliza-lo. Leia as instruções de uso, manuais, etc. 
@@ -39,6 +26,18 @@ A palavra “laboratório” significa labor = trabalho + oratium (ou oratorium)
 - Não são permitidos alimentos nas bancadas, armários e geladeiras dos laboratórios. 
 - Comunique todos os acidentes ao professor.
 
+**Norma Regulamentadora nº 10
+<img width="94" alt="image" src="https://user-images.githubusercontent.com/44790000/140447641-563587b6-714f-4d44-9bd8-491f322697ae.png">
+
+O principal objetivo da norma regulamentadora NR 10 é minimizar os riscos associados ao uso de energia elétrica para promover segurança e saúde aos colaboradores que trabalham com eletricidade.
+
+A Norma Regulamentadora nº 10 emitida pelo Ministério do Trabalho e Emprego do Brasil tem o objetivo de assegurar a saúde e segurança dos trabalhadores que exercem cargos que envolvam instalações e serviços em eletricidade.
+
+ O perigo da eletricidade e o risco de acidente causados por ela podem envolver pessoas que trabalham em qualquer área: geração, transmissão, distribuição e, inclusive, pessoas que não trabalham com energia elétrica mas consomem a mesma.
+
+A NR 10 é uma norma regulamentadora chamada de “Segurança em Instalações e Serviços em Eletricidade”. Ela foi criada em 1978 e passou por algumas atualizações até ser finalizada e publicada em 2004 pelo Ministério do Trabalho.
+
+Segundo o texto, todas as instalações elétricas de empresas públicas e privadas devem atender aos requisitos e as normas ABNT (Associação Brasileira de Normas Técnicas). 
 
 
 
