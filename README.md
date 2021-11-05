@@ -15,7 +15,7 @@ A palavra “laboratório” significa labor = trabalho + oratium (ou oratorium)
 
 <p><strong>Leia com aten&ccedil;&atilde;o as instru&ccedil;&otilde;es abaixo e jamais brinque nestes ambientes</strong></p>
 
- **Uso de Equipamentos Elétricos
+<p><span style="background-color: #ff0000; color: #ffffff;"><strong>Uso de Equipamentos El&eacute;tricos</strong></span></p>
  
 - Só opere equipamentos quando fios, tomadas e plugues estiverem em perfeitas condições; o fio terra deve estar convenientemente conectado;
 - Não opere equipamentos elétricos sobre superfícies úmidas;
