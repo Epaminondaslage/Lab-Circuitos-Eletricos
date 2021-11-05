@@ -13,7 +13,7 @@ A palavra “laboratório” significa labor = trabalho + oratium (ou oratorium)
 
 <img width="232" alt="image" src="https://user-images.githubusercontent.com/44790000/140447827-92e80ae4-1186-4a67-bf1d-ea25001a0c46.png">
 
-**Leia com atenção as instruções abaixo e jamais brinque nestes ambientes. 
+<p><strong>Leia com aten&ccedil;&atilde;o as instru&ccedil;&otilde;es abaixo e jamais brinque nestes ambientes</strong></p>
 
  **Uso de Equipamentos Elétricos
  
