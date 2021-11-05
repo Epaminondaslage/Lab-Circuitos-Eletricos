@@ -57,7 +57,7 @@ O Guia de Aulas práticas foi desenvolvido pelo Prof.  Célio Sergio Vieira e ec
 <table style="height: 164px;" width="378" border="1">
 <tbody>
 <tr>
-<td colspan="2" style="text-align: center;"><strong>1&ordf; Aula Pr&aacute;tica: Lei de Ohm</strong></td>
+<td colspan="2" style="text-align: center;">1&ordf; Aula Pr&aacute;tica: Lei de Ohm</td>
 </tr>
 <tr>
 <td><img src="https://user-images.githubusercontent.com/44790000/140449751-0802cbdb-eabc-42ec-8b9d-99b850d8f7b3.png" alt="" style="display: block; margin-left: auto; margin-right: auto;" width="39" height="39" /></td>
@@ -86,7 +86,6 @@ O Guia de Aulas práticas foi desenvolvido pelo Prof.  Célio Sergio Vieira e ec
 </tr>
 </tbody>
 </table>
-<p><span style="color: #000000;"><strong>
 3
 <table style="height: 164px; width: 413px;" border="1">
 <tbody>
@@ -103,7 +102,6 @@ O Guia de Aulas práticas foi desenvolvido pelo Prof.  Célio Sergio Vieira e ec
 </tr>
 </tbody>
 </table>
-<p><span style="color: #000000;"><strong></strong></span></p>
 4
 <table style="height: 164px; width: 413px;" border="1">
 <tbody>
@@ -120,7 +118,6 @@ O Guia de Aulas práticas foi desenvolvido pelo Prof.  Célio Sergio Vieira e ec
 </tr>
 </tbody>
 </table>
-<p><span style="color: #000000;"><strong></strong></span></p>
 5
 <table style="height: 164px; width: 485px;" border="1">
 <tbody>
@@ -137,7 +134,6 @@ O Guia de Aulas práticas foi desenvolvido pelo Prof.  Célio Sergio Vieira e ec
 </tr>
 </tbody>
 </table>
-<p><span style="color: #000000;"><strong></strong></span></p>
 6	
 <table style="height: 164px; width: 485px;" border="1">
 <tbody>
@@ -150,11 +146,10 @@ O Guia de Aulas práticas foi desenvolvido pelo Prof.  Célio Sergio Vieira e ec
 </tr>
 <tr>
 <td style="width: 96px;"><img src="https://user-images.githubusercontent.com/44790000/140448624-934b6009-92b1-464c-932d-9b15b100530e.png" alt="" style="display: block; margin-left: auto; margin-right: auto;" width="30" height="39" /></td>
-<td style="text-align: center; width: 373px;">&nbsp;&nbsp; <a href="https://docs.google.com/presentation/d/18U4Mq3cdTUUyXg-k43rp86o79WjD7tr7/edit?usp=sharing&amp;ouid=101750793150395365396&amp;rtpof=true&amp;sd=true)">Slides da Aula</a></td>
+<td style="text-align: center; width: 373px;"><a href="https://docs.google.com/presentation/d/18U4Mq3cdTUUyXg-k43rp86o79WjD7tr7/edit?usp=sharing&amp;ouid=101750793150395365396&amp;rtpof=true&amp;sd=true)">Slides da Aula</a></td>
 </tr>
 </tbody>
 </table>
-<p><span style="color: #000000;"><strong></strong></span></p>
 
 7ª  Aula Prática: Análise de Redes: Tensão Nodal	</p>
 
