@@ -237,10 +237,36 @@ A Norma Regulamentadora nº 10 emitida pelo Ministério do Trabalho e Emprego do
 </tr>
 </tbody>
 </table>
-
-9ª  Aula Prática: Análise de Redes: Teorema de Thévenin e Norton	</p>
-
-10ª Aula Prática: Teorema da Máxima Transferência de Potência	</p>
+<table style="height: 164px; width: 485px;" border="1">
+<tbody>
+<tr>
+<td style="text-align: center; width: 469px;" colspan="2">9&ordf; Aula Pr&aacute;tica: An&aacute;lise de Redes: Teorema de Th&eacute;venin e Norton </td>
+</tr>
+<tr>
+<td style="width: 96px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140449751-0802cbdb-eabc-42ec-8b9d-99b850d8f7b3.png" alt="" width="39" height="39" /></td>
+<td style="text-align: center; width: 373px;"><a href="https://docs.google.com/document/d/111lmprhQIGqu_X2iywEeK7lay5QVrSY4/edit?usp=sharing&amp;ouid=101750793150395365396&amp;rtpof=true&amp;sd=true">&nbsp;Guia de Aula</a></td>
+</tr>
+<tr>
+<td style="width: 96px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140448624-934b6009-92b1-464c-932d-9b15b100530e.png" alt="" width="30" height="39" /></td>
+<td style="text-align: center; width: 373px;"><a href="https://drive.google.com/file/d/1tiR9L8OOLGS7Yy1b8oIK8sG26cH4SCIu/view?usp=sharing">Slides da Aula</a></td>
+</tr>
+</tbody>
+</table>
+<table style="height: 164px; width: 485px;" border="1">
+<tbody>
+<tr>
+<td style="text-align: center; width: 469px;" colspan="2">10&ordf; Aula Pr&aacute;tica: Teorema da M&aacute;xima Transfer&ecirc;ncia de Pot&ecirc;ncia</td>
+</tr>
+<tr>
+<td style="width: 96px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140449751-0802cbdb-eabc-42ec-8b9d-99b850d8f7b3.png" alt="" width="39" height="39" /></td>
+<td style="text-align: center; width: 373px;"><a href="https://docs.google.com/document/d/1boNek0yyhtBfEm0g_nOJs1qEXr6RjQRP/edit?usp=sharing&amp;ouid=101750793150395365396&amp;rtpof=true&amp;sd=true">Guia de Aula</a></td>
+</tr>
+<tr>
+<td style="width: 96px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140448624-934b6009-92b1-464c-932d-9b15b100530e.png" alt="" width="30" height="39" /></td>
+<td style="text-align: center; width: 373px;"><a href="https://drive.google.com/file/d/1snLiFJmIsB-t-Br25rAd5KuoKOwFyqDi/view?usp=sharing">Slides da Aula</a></td>
+</tr>
+</tbody>
+</table>
 
 11ª Aula Prática: Transformação Triangulo --> Estrela (∆/Y)	</p>
 
