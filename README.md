@@ -46,10 +46,39 @@ A Norma Regulamentadora nº 10 emitida pelo Ministério do Trabalho e Emprego do
 
 <img width="140" alt="image" src="https://user-images.githubusercontent.com/44790000/140447968-44f892b0-42ef-45bb-95c5-7536336bb5d4.png">
 
-O Guia de Aulas práticas foi desenvolvido pelo Prof.  Célio Sergio Vieira e econtra-se disponível para donwload neste endereço.
+<p>O Guia de Aulas Pr&aacute;ticas foi desenvolvido pelo Prof. C&eacute;lio Sergio Vieira. Clique <a href="https://drive.google.com/file/d/11poV6JEei-Iz9ZQsD36SIz9c1jkQOlLB/view?usp=sharing">aqui</a> para baixar a apostila de toda a disciplina.</p>
 
 # Ementa da disciplina
-
+<p>Disciplina: Laborat&oacute;rio de Eletrot&eacute;cnica </p>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 50%;">Carga hor&aacute;ria semanal: 2 horas‐aula&nbsp; </td>
+<td style="width: 50%;">Carga hor&aacute;ria total: 80 hora‐aula</td>
+</tr>
+<tr>
+<td style="width: 50%;">Série:2a</td>
+<td style="width: 50%;">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<p><br /><strong>1 &ndash; Objetivos</strong></p>
+<p>Ao final da 2a s&eacute;rie, o aluno deverá ser capaz de:</p>
+<p><br />* Identificar e analisar fenômenos básicos de eletricidade.<br />* Analisar circuitos el&eacute;tricos em corrente contínua e alternada e suas grandezas.<br />* Elaborar diagrama de montagem com instrumentos de medidas e proceder sua leitura. <br />* Calcular parâmetros dos circuitos de corrente contínua e circuitos magnéticos.<br />* Calcular parâmetros dos circuitos de corrente alternada.<br />* Montar circuitos trifásicos. <br />* Simular o funcionamento de circuito no microcomputador usando o software EWB.</p>
+<p><strong>2 &ndash; Conteúdo Programático</strong></p>
+<p>UNIDADE 1: Circuitos Resistivos em Corrente Contínua<br />1. 1. Noções gerais de medição e segurança 1. 2. Medição de tensão, corrente, resistência e potência de um resistor. 1. 3. Circuito puramente resistivo série 1. 4. Circuito puramente resistivo paralelo<br />1. 5. Circuito puramente resistivo misto<br />1. 6. Simulação com o software EWB</p>
+<p>UNIDADE 2: Circuitos Resistivos em Rede <br />2. 1. Lei de Kirchhoff: solução de rede por corrente de malha 2. 2. Lei de Kirchhoff: solução de rede por corrente auxiliar ou nodal</p>
+<p>UNIDADE 3: Teoremas de Circuitos em Corrente Contínua <br />3. 1. Circuito equivalente de Thévenin e Norton 3. 2. Análise do circuito para determinação da máxima potência transferida</p>
+<p>UNIDADE 4: Circuitos Resistivos e Capacitivos <br />4. 1. Circuito resistivo e capacitivo misto: regime permanente <br />4. 2. Circuito resistivo e capacitivo em série: regime transitório</p>
+<p>UNIDADE 5: Magnetismo e Eletromagnetismo <br />5. 1. Levantamento das curvas de magnetização 5. 2. Estudo dos circuitos magnéticos com e sem entreferro 5. 3. Circuito resistivo e indutivo em série: regime transitório (simulação)</p>
+<p>UNIDADE 6: Corrente Alternada Monofásica &ndash; Circuito Série <br />6. 1. Circuito puramente resistivo série 6. 2. Circuito resistivo e indutivo em série 6. 3. Circuito resistivo e capacitivo em série <br />6. 4. Circuito resistivo, indutivo e capacitivo em série. 6. 5. Corre&ccedil;&atilde;o do fator de potência Unidade</p>
+<p>UNIDADE 7: Corrente Alternada Monofásica &ndash; Circuito Paralelo <br />7. 1. Circuito resistivo, indutivo e capacitivo paralelo e misto. <br />7. 2. Resson&acirc;ncia em circuitos RLC paralelo</p>
+<p>UNIDADE 8: Corrente Alternada Polif&aacute;sica <br />8. 1. Liga&ccedil;&atilde;o estrela equilibrado 8. 2. Ligação triângulo equilibrado 8. 3. Ligação estrela desequilibrado a 04 (quatro) fios 8. 4. Ligação triângulo desequilibrado 8. 5. Ligação estrela desequilibrado a 03 (três) fios com deslocamento de neutro <br />8. 6. Ligação triângulo desequilibrado com impedância na linha 8. 7. Ligação de dois circuitos trifásicos em paralelo</p>
+<p><strong>3 &ndash; Metodologia de Ensino</strong> <br />Lousa branca, filmes, painel did&aacute;ticos para montagens, box did&aacute;tico, apostila, avalia&ccedil;&atilde;o pr&aacute;tica/te&oacute;rica.</p>
+<p><strong>4 &ndash; Bibliografia</strong></p>
+<p>Bibliografia B&aacute;sica: <br />BARTKOWIAK, R. A. . Circuitos el&eacute;tricos. S&atilde;o Paulo: Makron Books do Brasil, 1995. O&rsquo; MALLEY, J. . Análise de circuitos. S&atilde;o Paulo: Makron Books do Brasil, 1994. EDMINISTER, J. . Circuitos el&eacute;tricos, S&atilde;o Paulo: Makron Books do Brasil, 1991.</p>
+<p>Bibliografia Complementar: <br />GUSSOW, M. . Eletricidade básica. S&atilde;o Paulo: Makron Books do Brasil, 1985.a DORF, Richard C. e Svoboda, James A. , Introdução aos Circuitos El&eacute;tricos. 8 ed. S&atilde;o Paulo: LTC, 2012, CRUZ, Eduardo Cesar Alves. Circuitos El&eacute;tricos - Corrente Contínua e Corrente Alternada. 9 ed. S&atilde;o Paulo: Saraiva, 2011. Alexander, Charles; SADIKU,Matthew N. O. . Fundamentos de Circuitos El&eacute;tricos. 5a ed. S&atilde;o Paulo: Saraiva, 2013.</p>
+<p><strong>5- ELABORADO POR:</strong> <br />Prof. : C&eacute;lio S&eacute;rgio Vieira Prof. : Gerson Oliveira Soares <br />DATA: DE ACORDO: Coordena&ccedil;&atilde;o de Curso Coordena&ccedil;&atilde;o Pedag&oacute;gica</p>
 
 
 # Conteúdo das Aulas Práticas
