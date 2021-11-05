@@ -73,12 +73,12 @@ A Norma Regulamentadora nº 10 emitida pelo Ministério do Trabalho e Emprego do
 <p>* Identificar e analisar fenômenos básicos de eletricidade.<br />* Analisar circuitos el&eacute;tricos em corrente contínua e alternada e suas grandezas.<br />* Elaborar diagrama de montagem com instrumentos de medidas e proceder sua leitura. <br />* Calcular parâmetros dos circuitos de corrente contínua e circuitos magnéticos.<br />* Calcular parâmetros dos circuitos de corrente alternada.<br />* Montar circuitos trifásicos. <br />* Simular o funcionamento de circuito no microcomputador usando o software EWB.</p>
 <p><strong>2 &ndash; Conteúdo Programático</strong></p>
 <p>UNIDADE 1: Circuitos Resistivos em Corrente Contínua</p>
-<p>1. 1. Noções gerais de medição e segurança</p>
-<p>1. 2. Medição de tensão, corrente, resistência e potência de um resistor.</p>
-<p>1. 3. Circuito puramente resistivo série</p>
-<p>1. 4. Circuito puramente resistivo paralelo</p>
-<p>1. 5. Circuito puramente resistivo misto</p>
-<p>1. 6. Simulação com o software EWB</p>
+1. 1. Noções gerais de medição e segurança<br />
+1. 2. Medição de tensão, corrente, resistência e potência de um resistor.<br />
+1. 3. Circuito puramente resistivo série<br />
+1. 4. Circuito puramente resistivo paralelo<br />
+1. 5. Circuito puramente resistivo misto<br />
+1. 6. Simulação com o software EWB<br />
 <p>UNIDADE 2: Circuitos Resistivos em Rede</p>
 <p>2. 1. Lei de Kirchhoff: solução de rede por corrente de malha</p>
 <p>2. 2. Lei de Kirchhoff: solução de rede por corrente auxiliar ou nodal</p>
