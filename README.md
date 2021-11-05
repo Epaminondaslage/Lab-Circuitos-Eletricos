@@ -73,42 +73,42 @@ A Norma Regulamentadora nº 10 emitida pelo Ministério do Trabalho e Emprego do
 <p>* Identificar e analisar fenômenos básicos de eletricidade.<br />* Analisar circuitos el&eacute;tricos em corrente contínua e alternada e suas grandezas.<br />* Elaborar diagrama de montagem com instrumentos de medidas e proceder sua leitura. <br />* Calcular parâmetros dos circuitos de corrente contínua e circuitos magnéticos.<br />* Calcular parâmetros dos circuitos de corrente alternada.<br />* Montar circuitos trifásicos. <br />* Simular o funcionamento de circuito no microcomputador usando o software EWB.</p>
 <p><strong>2 &ndash; Conteúdo Programático</strong></p>
 <p>UNIDADE 1: Circuitos Resistivos em Corrente Contínua</p>
-1. 1. Noções gerais de medição e segurança<br />
+1. 1. Noções gerais de medição e segurança.<br />
 1. 2. Medição de tensão, corrente, resistência e potência de um resistor.<br />
 1. 3. Circuito puramente resistivo série<br />
-1. 4. Circuito puramente resistivo paralelo<br />
-1. 5. Circuito puramente resistivo misto<br />
-1. 6. Simulação com o software EWB<br />
+1. 4. Circuito puramente resistivo paralelo.<br />
+1. 5. Circuito puramente resistivo misto.<br />
+<p>1. 6. Simulação com  software.</p>
 <p>UNIDADE 2: Circuitos Resistivos em Rede</p>
-<p>2. 1. Lei de Kirchhoff: solução de rede por corrente de malha</p>
-<p>2. 2. Lei de Kirchhoff: solução de rede por corrente auxiliar ou nodal</p>
+2. 1. Lei de Kirchhoff: solução de rede por corrente de malha.<br />
+<p>2. 2. Lei de Kirchhoff: solução de rede por corrente auxiliar ou nodal.</p>
 <p>UNIDADE 3: Teoremas de Circuitos em Corrente Contínua</p>
-<p>3. 1. Circuito equivalente de Thévenin e Norton</p>
-<p>3. 2. Análise do circuito para determinação da máxima potência transferida</p>
+3. 1. Circuito equivalente de Thévenin e Norton.<br />
+<p>3. 2. Análise do circuito para determinação da máxima potência transferida.</p>
 <p>UNIDADE 4: Circuitos Resistivos e Capacitivos</p>
-<p>4. 1. Circuito resistivo e capacitivo misto: regime permanente</p>
-<p>4. 2. Circuito resistivo e capacitivo em série: regime transitório</p>
+4. 1. Circuito resistivo e capacitivo misto: regime permanente.<br />
+<p>4. 2. Circuito resistivo e capacitivo em série: regime transitório.</p>
 <p>UNIDADE 5: Magnetismo e Eletromagnetismo</p>
-<p>5. 1. Levantamento das curvas de magnetização</p>
-<p>5. 2. Estudo dos circuitos magnéticos com e sem entreferro </p>
-<p>5. 3. Circuito resistivo e indutivo em série: regime transitório (simulação)</p>
+5. 1. Levantamento das curvas de magnetização.<br />
+5. 2. Estudo dos circuitos magnéticos com e sem entreferro.<br />
+<p>5. 3. Circuito resistivo e indutivo em série: regime transitório (simulação).</p>
 <p>UNIDADE 6: Corrente Alternada Monofásica &ndash; Circuito Série</p>
-<p>6. 1. Circuito puramente resistivo série</p>
-<p>6. 2. Circuito resistivo e indutivo em série</p>
-<p>6. 3. Circuito resistivo e capacitivo em série.</p>
-<p>6. 4. Circuito resistivo, indutivo e capacitivo em série.</p>
-<p>6. 5. Corre&ccedil;&atilde;o do fator de potência Unidade</p>
+6. 1. Circuito puramente resistivo série.<br />
+6. 2. Circuito resistivo e indutivo em série.<br />
+6. 3. Circuito resistivo e capacitivo em série.<br />
+6. 4. Circuito resistivo, indutivo e capacitivo em série.</p>
+<p>6. 5. Corre&ccedil;&atilde;o do fator de potência Unidade.</p>
 <p>UNIDADE 7: Corrente Alternada Monofásica &ndash; Circuito Paralelo</p>
-<p>7. 1. Circuito resistivo, indutivo e capacitivo paralelo e misto.</p>
-<p>7. 2. Resson&acirc;ncia em circuitos RLC paralelo</p>
+7. 1. Circuito resistivo, indutivo e capacitivo paralelo e misto.<br />
+<p>7. 2. Resson&acirc;ncia em circuitos RLC paralelo.</p>
 <p>UNIDADE 8: Corrente Alternada Polif&aacute;sica</p>
-<p>8. 1. Liga&ccedil;&atilde;o estrela equilibrado</p>
-<p>8. 2. Ligação triângulo equilibrado</p>
-<p>8. 3. Ligação estrela desequilibrado a 04 (quatro) fios</p>
-<p>8. 4. Ligação triângulo desequilibrado</p>
-<p>8. 5. Ligação estrela desequilibrado a 03 (três) fios com deslocamento de neutro</p>
-<p>8. 6. Ligação triângulo desequilibrado com impedância na linha</p>
-<p>8. 7. Ligação de dois circuitos trifásicos em paralelo</p>
+8. 1. Liga&ccedil;&atilde;o estrela equilibrado.<br />
+8. 2. Ligação triângulo equilibrado.<br />
+8. 3. Ligação estrela desequilibrado a 04 (quatro) fios.<br />
+8. 4. Ligação triângulo desequilibrado.<br />
+8. 5. Ligação estrela desequilibrado a 03 (três) fios com deslocamento de neutro.<br />
+8. 6. Ligação triângulo desequilibrado com impedância na linha.<br />
+<p>8. 7. Ligação de dois circuitos trifásicos em paralelo.</p>
 <p><strong>3 &ndash; Metodologia de Ensino</strong> <br />Lousa branca, filmes, painel did&aacute;ticos para montagens, box did&aacute;tico, apostila, avalia&ccedil;&atilde;o pr&aacute;tica/te&oacute;rica.</p>
 <p><strong>4 &ndash; Bibliografia</strong></p>
 <p><strong>Bibliografia B&aacute;sica:</strong> <br />BARTKOWIAK, R. A. . Circuitos el&eacute;tricos. S&atilde;o Paulo: Makron Books do Brasil, 1995. O&rsquo; MALLEY, J. . Análise de circuitos. S&atilde;o Paulo: Makron Books do Brasil, 1994. EDMINISTER, J. . Circuitos el&eacute;tricos, S&atilde;o Paulo: Makron Books do Brasil, 1991.</p>
