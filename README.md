@@ -31,7 +31,7 @@ A palavra “laboratório” significa labor = trabalho + oratium (ou oratorium)
 
 <img width="94" alt="image" src="https://user-images.githubusercontent.com/44790000/140447641-563587b6-714f-4d44-9bd8-491f322697ae.png">
 
-**Norma Regulamentadora nº 10
+<p><span style="color: #000000;"><strong>Norma Regulamentadora n&ordm; 10</strong></span></p>
 
 A NR 10 é uma norma regulamentadora chamada de “Segurança em Instalações e Serviços em Eletricidade”. Ela foi criada em 1978 e passou por algumas atualizações até ser finalizada e publicada em 2004 pelo Ministério do Trabalho.
 
