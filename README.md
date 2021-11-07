@@ -70,7 +70,8 @@ A Norma Regulamentadora nº 10 emitida pelo Ministério do Trabalho e Emprego do
 <div class="page" title="Page 4">
 <div class="layoutArea">
 <div class="column">
-<p style="text-align: justify;"><strong>Falstad</strong><strong><img style="display: block; margin-left: auto; margin-right: auto;" src="https://github.com/Epaminondaslage/Lab-Circuitos-Eletricos/blob/main/img/falstad.png" alt="https://github.com/Epaminondaslage/Lab-Circuitos-Eletricos/blob/main/img/falstad.png" width="166" height="166" /></strong></p>
+<p style="text-align: justify;"><strong>Falstad</strong></p>
+<p style="text-align: justify;"><strong><img style="display: block; margin-left: auto; margin-right: auto;" src="https://github.com/Epaminondaslage/Lab-Circuitos-Eletricos/blob/main/img/falstad.png" alt="https://github.com/Epaminondaslage/Lab-Circuitos-Eletricos/blob/main/img/falstad.png" width="166" height="166" /></strong></p>
 <p style="text-align: justify;">Circuit Simulator Applet (CSA), uma poderosa ferramenta que cont&eacute;m simula&ccedil;&otilde;es computacionais para experimentos de eletrodin&acirc;mica e trata-se de um software aberto, que possui uma interface gr&aacute;fica simples, mas com uma grande variedade de simula&ccedil;&otilde;es.</p>
 <p style="text-align: justify;">&nbsp;<br />Nos meuns superiors encontram-se as ferramentas que v&atilde;o permitir alterar os par&acirc;metros da aplica&ccedil;&atilde;o, desenhar os circuitos, visualizar diversas simula&ccedil;&otilde;es j&aacute; prontas e at&eacute; mesmo exportar e importar projetos feitos no CSA. N&atilde;o existe&nbsp; dificuldade em desenhar circuitos pr&oacute;prios da criatividade do usu&aacute;rio.</p>
 <p style="text-align: justify;">Link para utilizar :<a href="http://falstad.com/circuit/">http://falstad.com/circuit/</a></p>
@@ -85,7 +86,7 @@ A Norma Regulamentadora nº 10 emitida pelo Ministério do Trabalho e Emprego do
 <div class="layoutArea">
 <div class="column">
 <p style="text-align: justify;"><strong>Scilab</strong></p>
-<p><strong><img style="display: block; margin-left: auto; margin-right: auto;" src="https://github.com/Epaminondaslage/Lab-Circuitos-Eletricos/blob/main/img/scilab-logo.png" alt="https://github.com/Epaminondaslage/Lab-Circuitos-Eletricos/blob/main/img/scilab-logo.png" width="250" height="" /></strong></p>
+<p><strong><img style="display: block; margin-left: auto; margin-right: auto;" src="https://github.com/Epaminondaslage/Lab-Circuitos-Eletricos/blob/main/img/scilab-logo.png" alt="https://github.com/Epaminondaslage/Lab-Circuitos-Eletricos/blob/main/img/scilab-logo.png" width="200" height="" /></strong></p>
 <p style="text-align: justify;">O Scilab &eacute; um software cient&iacute;fico para computa&ccedil;&atilde;o num&eacute;rica, de codigo aberto, semelhante ao MATLAB que fornece um poderoso ambiente computacional aberto para aplica&ccedil;&otilde;es cient&iacute;ficas.</p>
 <p style="text-align: justify;">linguagem de programa&ccedil;&atilde;o de alto n&iacute;vel, orientada &agrave; an&aacute;lise num&eacute;rica. A linguagem prov&ecirc; um ambiente para interpreta&ccedil;&atilde;o, com diversas ferramentas num&eacute;ricas. Algoritmos complexos podem ser criados em poucas linhas de c&oacute;digo, em compara&ccedil;&atilde;o com outras linguagens como C ou C++.</p>
 <p style="text-align: justify;">Link para donwload: <a href="https://www.scilab.org/">https://www.scilab.org/</a></p>
