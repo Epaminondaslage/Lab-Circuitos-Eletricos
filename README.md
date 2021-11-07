@@ -425,45 +425,327 @@ A Norma Regulamentadora nº 10 emitida pelo Ministério do Trabalho e Emprego do
 </tr>
 </tbody>
 </table>
-18ª Aula Prática: Circuito Puramente Resistivo série - CA	</p>
-
-19ª Aula Prática: Circuito Resistivo e Indutivo Série - CA	</p>
-
-20ª Aula Prática: Circuito Resistivo e Capacitivo Série - CA	</p>
-
-21ª Aula Prática: Circuito Resistivo, Indutivo e Capacitivo Série - CA	</p>
-
-22ª Aula Prática: Correção do Fator de Potência	</p>
-
-23ª Aula Prática: Circuito Resistivo( R ), Indutivo( L ) e Capacitivo( C )  Paralelo - CA</p>
-
-24ª Aula Prática: Circuito Resistivo( R ), Indutivo( L ) e Capacitivo( C )  Misto - CA</p>
-
-25ª Aula Prática: Ressonância do circuito RLC – Paralelo - CA</p>
-
-26ª Aula Prática: Análise de Redes Complexa com 3 fontes CA	</p>
-
-27ª Aula Prática: Análise de Redes em Circuito RLC usando Tensão Nodal	</p>
-
-28ª Aula Prática: Análise de Redes CA usando Teorema de Thévenin e Norton	</p>
-
-29ª Aula Prática: Teorema da Máxima Transferência de Potência - CA	</p>
-
-30ª Aula Prática: Ligação Estrela Equilibrado a 4 fios	</p>
-
-29ª Aula Prática: Ligação Triângulo Equilibrado	</p>
-
-30ª Aula Ligação Estrela Desequilibrado a 4 fios	</p>
-
-31ª Aula Prática: Ligação Triângulo Desequilibrado	</p>
-
-32ª Aula Prática: Ligação Estrela Desequilibrado a 3 fios	</p>
-
-33ª Aula Prática: Ligação Triângulo Desequilibrado com Impedância na Linha	</p>
-
-34ª Aula Prática: Ligação Estrela Desequilibrado com Impedância na Linha	</p>
-
-35ª Aula Prática: Ligação Estrela e Triângulo Equilibrado em paralelo na rede</p> 
-
+<table style="height: 164px; width: 485px;" border="1">
+<tbody>
+<tr>
+<td style="text-align: center; width: 469px;" colspan="2">18&ordf; Aula Pr&aacute;tica: Circuito Puramente Resistivo s&eacute;rie - CA</td>
+</tr>
+<tr>
+<td style="width: 96px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140449751-0802cbdb-eabc-42ec-8b9d-99b850d8f7b3.png" alt="" width="39" height="39" /></td>
+<td style="text-align: center; width: 373px;">&nbsp;<a href="https://docs.google.com/document/d/1x6GieTi3nclLl_uAdFT4mmpbV3vBQDLn/edit?usp=sharing&amp;ouid=101750793150395365396&amp;rtpof=true&amp;sd=true">Guia de Aula</a></td>
+</tr>
+<tr>
+<td style="width: 96px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140448624-934b6009-92b1-464c-932d-9b15b100530e.png" alt="" width="30" height="39" /></td>
+<td style="text-align: center; width: 373px;"><a href="https://github.com/Epaminondaslage/Lab-Circuitos-Eletricos/blob/main/img/Aula%20em%20desenvolvimento.pdf">Slides da aula em desenvolvimento</a></td>
+</tr>
+</tbody>
+</table>
+<table style="height: 164px; width: 485px;" border="1">
+<tbody>
+<tr>
+<td style="text-align: center; width: 469px;" colspan="2">19&ordf; Aula Pr&aacute;tica: Circuito Resistivo e Indutivo S&eacute;rie - CA</td>
+</tr>
+<tr>
+<td style="width: 96px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140449751-0802cbdb-eabc-42ec-8b9d-99b850d8f7b3.png" alt="" width="39" height="39" /></td>
+<td style="text-align: center; width: 373px;">&nbsp;<a href="https://docs.google.com/document/d/1dnYqUdxNG6hRErwgxySUIJo_aGDlgFKU/edit?usp=sharing&amp;ouid=101750793150395365396&amp;rtpof=true&amp;sd=true">Guia de Aula</a></td>
+</tr>
+<tr>
+<td style="width: 96px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140448624-934b6009-92b1-464c-932d-9b15b100530e.png" alt="" width="30" height="39" /></td>
+<td style="text-align: center; width: 373px;"><a href="https://github.com/Epaminondaslage/Lab-Circuitos-Eletricos/blob/main/img/Aula%20em%20desenvolvimento.pdf">Slides da aula em desenvolvimento</a></td>
+</tr>
+</tbody>
+</table>
+<table style="height: 164px; width: 485px;" border="1">
+<tbody>
+<tr>
+<td style="text-align: center; width: 469px;" colspan="2">20&ordf; Aula Pr&aacute;tica: Circuito Resistivo e Capacitivo S&eacute;rie - CA</td>
+</tr>
+<tr>
+<td style="width: 96px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140449751-0802cbdb-eabc-42ec-8b9d-99b850d8f7b3.png" alt="" width="39" height="39" /></td>
+<td style="text-align: center; width: 373px;">&nbsp;<a href="https://docs.google.com/document/d/1dhoZfbdYb0WSB-9ZHCxzFEwvyp0DXnY9/edit?usp=sharing&amp;ouid=101750793150395365396&amp;rtpof=true&amp;sd=true">Guia de Aula</a></td>
+</tr>
+<tr>
+<td style="width: 96px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140448624-934b6009-92b1-464c-932d-9b15b100530e.png" alt="" width="30" height="39" /></td>
+<td style="text-align: center; width: 373px;"><a href="https://github.com/Epaminondaslage/Lab-Circuitos-Eletricos/blob/main/img/Aula%20em%20desenvolvimento.pdf">Slides da aula em desenvolvimento</a></td>
+</tr>
+</tbody>
+</table>
+<table style="height: 164px; width: 485px;" border="1">
+<tbody>
+<tr>
+<td style="text-align: center; width: 469px;" colspan="2">21&ordf; Aula Pr&aacute;tica: Circuito Resistivo, Indutivo e Capacitivo S&eacute;rie - CA</td>
+</tr>
+<tr>
+<td style="width: 96px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140449751-0802cbdb-eabc-42ec-8b9d-99b850d8f7b3.png" alt="" width="39" height="39" /></td>
+<td style="text-align: center; width: 373px;">&nbsp;<a href="https://docs.google.com/document/d/1YpiU5nwfVPTFZ4jZqWE4Zi9Tb45UVujZ/edit?usp=sharing&amp;ouid=101750793150395365396&amp;rtpof=true&amp;sd=true">Guia de Aula</a></td>
+</tr>
+<tr>
+<td style="width: 96px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140448624-934b6009-92b1-464c-932d-9b15b100530e.png" alt="" width="30" height="39" /></td>
+<td style="text-align: center; width: 373px;"><a href="https://github.com/Epaminondaslage/Lab-Circuitos-Eletricos/blob/main/img/Aula%20em%20desenvolvimento.pdf">Slides da aula em desenvolvimento</a></td>
+</tr>
+</tbody>
+</table>
+<table style="height: 164px; width: 485px;" border="1">
+<tbody>
+<tr>
+<td style="text-align: center; width: 469px;" colspan="2">22&ordf; Aula Pr&aacute;tica: Corre&ccedil;&atilde;o do Fator de Pot&ecirc;ncia</td>
+</tr>
+<tr>
+<td style="width: 96px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140449751-0802cbdb-eabc-42ec-8b9d-99b850d8f7b3.png" alt="" width="39" height="39" /></td>
+<td style="text-align: center; width: 373px;">&nbsp;<a href="22&ordf; Aula Pr&aacute;tica: Corre&ccedil;&atilde;o do Fator de Pot&ecirc;ncia">Guia de Aula</a></td>
+</tr>
+<tr>
+<td style="width: 96px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140448624-934b6009-92b1-464c-932d-9b15b100530e.png" alt="" width="30" height="39" /></td>
+<td style="text-align: center; width: 373px;"><a href="https://github.com/Epaminondaslage/Lab-Circuitos-Eletricos/blob/main/img/Aula%20em%20desenvolvimento.pdf">Slides da aula em desenvolvimento</a></td>
+</tr>
+</tbody>
+</table>
+<table style="height: 164px; width: 485px;" border="1">
+<tbody>
+<tr>
+<td style="text-align: center; width: 469px;" colspan="2">23&ordf; Aula Pr&aacute;tica: Circuito Resistivo( R ), Indutivo( L ) e Capacitivo( C ) Paralelo - CA</td>
+</tr>
+<tr>
+<td style="width: 96px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140449751-0802cbdb-eabc-42ec-8b9d-99b850d8f7b3.png" alt="" width="39" height="39" /></td>
+<td style="text-align: center; width: 373px;">&nbsp;<a href="https://docs.google.com/document/d/1xcV4TDI4GHzGpCUBWe3YiUtSqePsyv49/edit?usp=sharing&amp;ouid=101750793150395365396&amp;rtpof=true&amp;sd=true">Guia de Aula</a></td>
+</tr>
+<tr>
+<td style="width: 96px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140448624-934b6009-92b1-464c-932d-9b15b100530e.png" alt="" width="30" height="39" /></td>
+<td style="text-align: center; width: 373px;"><a href="https://github.com/Epaminondaslage/Lab-Circuitos-Eletricos/blob/main/img/Aula%20em%20desenvolvimento.pdf">Slides da aula em desenvolvimento</a></td>
+</tr>
+</tbody>
+</table>
+<table style="height: 164px; width: 485px;" border="1">
+<tbody>
+<tr>
+<td style="text-align: center; width: 469px;" colspan="2">24&ordf; Aula Pr&aacute;tica: Circuito Resistivo( R ), Indutivo( L ) e Capacitivo ( C ) Misto - CA</td>
+</tr>
+<tr>
+<td style="width: 96px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140449751-0802cbdb-eabc-42ec-8b9d-99b850d8f7b3.png" alt="" width="39" height="39" /></td>
+<td style="text-align: center; width: 373px;">&nbsp;<a href="https://docs.google.com/document/d/1d-1rJdbkM1Q1qquP-2dvSJK7LVVESFiZ/edit?usp=sharing&amp;ouid=101750793150395365396&amp;rtpof=true&amp;sd=true">Guia de Aula</a></td>
+</tr>
+<tr>
+<td style="width: 96px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140448624-934b6009-92b1-464c-932d-9b15b100530e.png" alt="" width="30" height="39" /></td>
+<td style="text-align: center; width: 373px;"><a href="https://github.com/Epaminondaslage/Lab-Circuitos-Eletricos/blob/main/img/Aula%20em%20desenvolvimento.pdf">Slides da aula em desenvolvimento</a></td>
+</tr>
+</tbody>
+</table>
+<table style="height: 164px; width: 485px;" border="1">
+<tbody>
+<tr>
+<td style="text-align: center; width: 469px;" colspan="2">25&ordf; Aula Pr&aacute;tica: Resson&acirc;ncia do circuito RLC &ndash; Paralelo - CA</td>
+</tr>
+<tr>
+<td style="width: 96px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140449751-0802cbdb-eabc-42ec-8b9d-99b850d8f7b3.png" alt="" width="39" height="39" /></td>
+<td style="text-align: center; width: 373px;">&nbsp;<a href="https://docs.google.com/document/d/1qmF0wSD9SatWIhxg08LVJCC1sSIcIKeE/edit?usp=sharing&amp;ouid=101750793150395365396&amp;rtpof=true&amp;sd=true">Guia de Aula</a></td>
+</tr>
+<tr>
+<td style="width: 96px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140448624-934b6009-92b1-464c-932d-9b15b100530e.png" alt="" width="30" height="39" /></td>
+<td style="text-align: center; width: 373px;"><a href="https://github.com/Epaminondaslage/Lab-Circuitos-Eletricos/blob/main/img/Aula%20em%20desenvolvimento.pdf">Slides da aula em desenvolvimento</a></td>
+</tr>
+</tbody>
+</table>
+<table style="height: 164px; width: 485px;" border="1">
+<tbody>
+<tr>
+<td style="text-align: center; width: 469px;" colspan="2">26&ordf; Aula Pr&aacute;tica: An&aacute;lise de Redes Complexa com 3 fontes CA</td>
+</tr>
+<tr>
+<td style="width: 96px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140449751-0802cbdb-eabc-42ec-8b9d-99b850d8f7b3.png" alt="" width="39" height="39" /></td>
+<td style="text-align: center; width: 373px;">&nbsp;<a href="https://docs.google.com/document/d/1lhsMszKIRhlUyqQ7Cupia7ZfhzX8tOIQ/edit?usp=sharing&amp;ouid=101750793150395365396&amp;rtpof=true&amp;sd=true">Guia de Aula</a></td>
+</tr>
+<tr>
+<td style="width: 96px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140448624-934b6009-92b1-464c-932d-9b15b100530e.png" alt="" width="30" height="39" /></td>
+<td style="text-align: center; width: 373px;"><a href="https://github.com/Epaminondaslage/Lab-Circuitos-Eletricos/blob/main/img/Aula%20em%20desenvolvimento.pdf">Slides da aula em desenvolvimento</a></td>
+</tr>
+</tbody>
+</table>
+<table style="height: 164px; width: 485px;" border="1">
+<tbody>
+<tr>
+<td style="text-align: center; width: 469px;" colspan="2">
+<p>27&ordf; Aula Pr&aacute;tica: An&aacute;lise de Redes em Circuito RLC usando Tens&atilde;o Nodal</p>
+</td>
+</tr>
+<tr>
+<td style="width: 96px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140449751-0802cbdb-eabc-42ec-8b9d-99b850d8f7b3.png" alt="" width="39" height="39" /></td>
+<td style="text-align: center; width: 373px;">&nbsp;<a href="https://docs.google.com/document/d/1n5i3DlLjVUrp2vhxuh-cBCCkAcwxxn9g/edit?usp=sharing&amp;ouid=101750793150395365396&amp;rtpof=true&amp;sd=true">Guia de Aula</a></td>
+</tr>
+<tr>
+<td style="width: 96px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140448624-934b6009-92b1-464c-932d-9b15b100530e.png" alt="" width="30" height="39" /></td>
+<td style="text-align: center; width: 373px;"><a href="https://github.com/Epaminondaslage/Lab-Circuitos-Eletricos/blob/main/img/Aula%20em%20desenvolvimento.pdf">Slides da aula em desenvolvimento</a></td>
+</tr>
+</tbody>
+</table>
+<table style="height: 164px; width: 485px;" border="1">
+<tbody>
+<tr>
+<td style="text-align: center; width: 469px;" colspan="2">
+<p>28&ordf; Aula Pr&aacute;tica: An&aacute;lise de Redes CA usando Teorema de Th&eacute;venin e Norton</p>
+</td>
+</tr>
+<tr>
+<td style="width: 96px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140449751-0802cbdb-eabc-42ec-8b9d-99b850d8f7b3.png" alt="" width="39" height="39" /></td>
+<td style="text-align: center; width: 373px;">&nbsp;<a href="https://docs.google.com/document/d/15ZC1JXt6atjlsUdKMz6uXU0xg9tLJ-_p/edit?usp=sharing&amp;ouid=101750793150395365396&amp;rtpof=true&amp;sd=true">Guia de Aula</a></td>
+</tr>
+<tr>
+<td style="width: 96px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140448624-934b6009-92b1-464c-932d-9b15b100530e.png" alt="" width="30" height="39" /></td>
+<td style="text-align: center; width: 373px;"><a href="https://github.com/Epaminondaslage/Lab-Circuitos-Eletricos/blob/main/img/Aula%20em%20desenvolvimento.pdf">Slides da aula em desenvolvimento</a></td>
+</tr>
+</tbody>
+</table>
+<table style="height: 164px; width: 485px;" border="1">
+<tbody>
+<tr>
+<td style="text-align: center; width: 469px;" colspan="2">
+<p>29&ordf; Aula Pr&aacute;tica: Teorema da M&aacute;xima Transfer&ecirc;ncia de Pot&ecirc;ncia - CA</p>
+</td>
+</tr>
+<tr>
+<td style="width: 96px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140449751-0802cbdb-eabc-42ec-8b9d-99b850d8f7b3.png" alt="" width="39" height="39" /></td>
+<td style="text-align: center; width: 373px;">&nbsp;<a href="https://docs.google.com/document/d/1-5EWV4rI7mADln57cgn_0tOzkAzPszed/edit?usp=sharing&amp;ouid=101750793150395365396&amp;rtpof=true&amp;sd=true">Guia de Aula</a></td>
+</tr>
+<tr>
+<td style="width: 96px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140448624-934b6009-92b1-464c-932d-9b15b100530e.png" alt="" width="30" height="39" /></td>
+<td style="text-align: center; width: 373px;"><a href="https://github.com/Epaminondaslage/Lab-Circuitos-Eletricos/blob/main/img/Aula%20em%20desenvolvimento.pdf">Slides da aula em desenvolvimento</a></td>
+</tr>
+</tbody>
+</table>
+<table style="height: 164px; width: 485px;" border="1">
+<tbody>
+<tr>
+<td style="text-align: center; width: 469px;" colspan="2">
+<p>30&ordf; Aula Pr&aacute;tica: Liga&ccedil;&atilde;o Estrela Equilibrado a 4 fios</p>
+</td>
+</tr>
+<tr>
+<td style="width: 96px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140449751-0802cbdb-eabc-42ec-8b9d-99b850d8f7b3.png" alt="" width="39" height="39" /></td>
+<td style="text-align: center; width: 373px;">&nbsp;<a href="https://docs.google.com/document/d/1Yjofgwf10Km5P782SxPXSXvy-NDRVM5H/edit?usp=sharing&amp;ouid=101750793150395365396&amp;rtpof=true&amp;sd=true">Guia de Aula</a></td>
+</tr>
+<tr>
+<td style="width: 96px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140448624-934b6009-92b1-464c-932d-9b15b100530e.png" alt="" width="30" height="39" /></td>
+<td style="text-align: center; width: 373px;"><a href="https://github.com/Epaminondaslage/Lab-Circuitos-Eletricos/blob/main/img/Aula%20em%20desenvolvimento.pdf">Slides da aula em desenvolvimento</a></td>
+</tr>
+</tbody>
+</table>
+<table style="height: 164px; width: 485px;" border="1">
+<tbody>
+<tr>
+<td style="text-align: center; width: 469px;" colspan="2">
+<p>31&ordf; Aula Pr&aacute;tica: Liga&ccedil;&atilde;o Tri&acirc;ngulo Desequilibrado</p>
+</td>
+</tr>
+<tr>
+<td style="width: 96px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140449751-0802cbdb-eabc-42ec-8b9d-99b850d8f7b3.png" alt="" width="39" height="39" /></td>
+<td style="text-align: center; width: 373px;">&nbsp;<a href="https://docs.google.com/document/d/1-7kpnkHkwSg7JCnUVGNuK5jWS7kVJte3/edit?usp=sharing&amp;ouid=101750793150395365396&amp;rtpof=true&amp;sd=true">Guia de Aula</a></td>
+</tr>
+<tr>
+<td style="width: 96px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140448624-934b6009-92b1-464c-932d-9b15b100530e.png" alt="" width="30" height="39" /></td>
+<td style="text-align: center; width: 373px;"><a href="https://github.com/Epaminondaslage/Lab-Circuitos-Eletricos/blob/main/img/Aula%20em%20desenvolvimento.pdf">Slides da aula em desenvolvimento</a></td>
+</tr>
+</tbody>
+</table>
+<table style="height: 164px; width: 485px;" border="1">
+<tbody>
+<tr>
+<td style="text-align: center; width: 469px;" colspan="2">
+<p>32&ordf; Aula Pr&aacute;tica: Liga&ccedil;&atilde;o Estrela Desequilibrado a 3 fios</p>
+</td>
+</tr>
+<tr>
+<td style="width: 96px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140449751-0802cbdb-eabc-42ec-8b9d-99b850d8f7b3.png" alt="" width="39" height="39" /></td>
+<td style="text-align: center; width: 373px;">&nbsp;<a href="https://docs.google.com/document/d/1pn96yC3zJi-IATbwTYEAQi3q_VaMWqU8/edit?usp=sharing&amp;ouid=101750793150395365396&amp;rtpof=true&amp;sd=true">Guia de Aula</a></td>
+</tr>
+<tr>
+<td style="width: 96px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140448624-934b6009-92b1-464c-932d-9b15b100530e.png" alt="" width="30" height="39" /></td>
+<td style="text-align: center; width: 373px;"><a href="https://github.com/Epaminondaslage/Lab-Circuitos-Eletricos/blob/main/img/Aula%20em%20desenvolvimento.pdf">Slides da aula em desenvolvimento</a></td>
+</tr>
+</tbody>
+</table>
+<table style="height: 164px; width: 485px;" border="1">
+<tbody>
+<tr>
+<td style="text-align: center; width: 469px;" colspan="2">
+<p>33&ordf; Aula Pr&aacute;tica: Liga&ccedil;&atilde;o Tri&acirc;ngulo Desequilibrado com Imped&acirc;ncia na Linha</p>
+</td>
+</tr>
+<tr>
+<td style="width: 96px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140449751-0802cbdb-eabc-42ec-8b9d-99b850d8f7b3.png" alt="" width="39" height="39" /></td>
+<td style="text-align: center; width: 373px;">&nbsp;<a href="https://docs.google.com/document/d/1jSpb7gleUSt6rebDtn25ygkp_KajZfKT/edit?usp=sharing&amp;ouid=101750793150395365396&amp;rtpof=true&amp;sd=true">Guia de Aula</a></td>
+</tr>
+<tr>
+<td style="width: 96px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140448624-934b6009-92b1-464c-932d-9b15b100530e.png" alt="" width="30" height="39" /></td>
+<td style="text-align: center; width: 373px;"><a href="https://github.com/Epaminondaslage/Lab-Circuitos-Eletricos/blob/main/img/Aula%20em%20desenvolvimento.pdf">Slides da aula em desenvolvimento</a></td>
+</tr>
+</tbody>
+</table>
+<table style="height: 164px; width: 485px;" border="1">
+<tbody>
+<tr>
+<td style="text-align: center; width: 469px;" colspan="2">
+<p>34&ordf; Aula Pr&aacute;tica: Liga&ccedil;&atilde;o Estrela Desequilibrado com Imped&acirc;ncia na Linha</p>
+</td>
+</tr>
+<tr>
+<td style="width: 96px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140449751-0802cbdb-eabc-42ec-8b9d-99b850d8f7b3.png" alt="" width="39" height="39" /></td>
+<td style="text-align: center; width: 373px;">&nbsp;<a href="https://docs.google.com/document/d/19TTsyy3A397qols65fqYYnKouDR0Sslr/edit?usp=sharing&amp;ouid=101750793150395365396&amp;rtpof=true&amp;sd=true">Guia de Aula</a></td>
+</tr>
+<tr>
+<td style="width: 96px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140448624-934b6009-92b1-464c-932d-9b15b100530e.png" alt="" width="30" height="39" /></td>
+<td style="text-align: center; width: 373px;"><a href="https://github.com/Epaminondaslage/Lab-Circuitos-Eletricos/blob/main/img/Aula%20em%20desenvolvimento.pdf">Slides da aula em desenvolvimento</a></td>
+</tr>
+</tbody>
+</table>
+<table style="height: 164px; width: 485px;" border="1">
+<tbody>
+<tr>
+<td style="text-align: center; width: 469px;" colspan="2">
+<p>35&ordf; Aula Pr&aacute;tica: Liga&ccedil;&atilde;o Estrela e Tri&acirc;ngulo Equilibrado em paralelo na rede</p>
+</td>
+</tr>
+<tr>
+<td style="width: 96px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140449751-0802cbdb-eabc-42ec-8b9d-99b850d8f7b3.png" alt="" width="39" height="39" /></td>
+<td style="text-align: center; width: 373px;">&nbsp;<a href="https://docs.google.com/document/d/1mDtNVFLAnM5_Pv22Z5JpZcp-rh5TcVxm/edit?usp=sharing&amp;ouid=101750793150395365396&amp;rtpof=true&amp;sd=true">Guia de Aula</a></td>
+</tr>
+<tr>
+<td style="width: 96px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140448624-934b6009-92b1-464c-932d-9b15b100530e.png" alt="" width="30" height="39" /></td>
+<td style="text-align: center; width: 373px;"><a href="https://github.com/Epaminondaslage/Lab-Circuitos-Eletricos/blob/main/img/Aula%20em%20desenvolvimento.pdf">Slides da aula em desenvolvimento</a></td>
+</tr>
+</tbody>
+</table>
+<table style="height: 164px; width: 485px;" border="1">
+<tbody>
+<tr>
+<td style="text-align: center; width: 469px;" colspan="2">
+<p>36&ordf; Aula Pr&aacute;tica - Ligação Estrela Desequilibrado com Impedância na Linha</p>
+</td>
+</tr>
+<tr>
+<td style="width: 96px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140449751-0802cbdb-eabc-42ec-8b9d-99b850d8f7b3.png" alt="" width="39" height="39" /></td>
+<td style="text-align: center; width: 373px;">&nbsp;<a href="https://docs.google.com/document/d/1ihx1rLeydzgt_h1XAvoSLE8H2Hhu8Hnh/edit?usp=sharing&amp;ouid=101750793150395365396&amp;rtpof=true&amp;sd=true">Guia de Aula</a></td>
+</tr>
+<tr>
+<td style="width: 96px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140448624-934b6009-92b1-464c-932d-9b15b100530e.png" alt="" width="30" height="39" /></td>
+<td style="text-align: center; width: 373px;"><a href="https://github.com/Epaminondaslage/Lab-Circuitos-Eletricos/blob/main/img/Aula%20em%20desenvolvimento.pdf">Slides da aula em desenvolvimento</a></td>
+</tr>
+</tbody>
+</table>
+<table style="height: 164px; width: 485px;" border="1">
+<tbody>
+<tr>
+<td style="text-align: center; width: 469px;" colspan="2">
+<p>37&ordf; Aula Pr&aacute;tica -&nbsp; Ligação Estrela e Triângulo Equilibrado em paralelo na rede</p>
+</td>
+</tr>
+<tr>
+<td style="width: 96px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140449751-0802cbdb-eabc-42ec-8b9d-99b850d8f7b3.png" alt="" width="39" height="39" /></td>
+<td style="text-align: center; width: 373px;">&nbsp;<a href="https://docs.google.com/document/d/1xhkb6-T5AsocibdegPAM8gd0EXRK_GDu/edit?usp=sharing&amp;ouid=101750793150395365396&amp;rtpof=true&amp;sd=true">Guia de Aula</a></td>
+</tr>
+<tr>
+<td style="width: 96px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140448624-934b6009-92b1-464c-932d-9b15b100530e.png" alt="" width="30" height="39" /></td>
+<td style="text-align: center; width: 373px;"><a href="https://github.com/Epaminondaslage/Lab-Circuitos-Eletricos/blob/main/img/Aula%20em%20desenvolvimento.pdf">Slides da aula em desenvolvimento</a></td>
+</tr>
+</tbody>
+</table>
 
 # Simbologia elétrica aplicada na disciplona
