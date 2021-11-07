@@ -750,4 +750,4 @@ A Norma Regulamentadora nº 10 emitida pelo Ministério do Trabalho e Emprego do
 </tbody>
 </table>
 
-# Simbologia elétrica aplicada na disciplona
+# Simbologia elétrica aplicada na disciplina
