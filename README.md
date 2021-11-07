@@ -5,8 +5,6 @@ ___<td style="width: 20%;"><img src="https://github.com/Epaminondaslage/Lab-IoT-
 <p><strong><span style="color: #0000ff;">Prof Epaminondas Lage</span></strong></p>
 <a href="http://lattes.cnpq.br/7787341723868111"> Currículo Lattes LAGE, E. S.</a> 
 
-# O Laboratório de Circuitos Elétricos
-
 # Regras básicas de segurança no laboratório
 
 A palavra “laboratório” significa labor = trabalho + oratium (ou oratorium) = local de reflexão. Portanto, laboratório refere-se a um local de trabalho e concentração, não necessariamente perigoso, desde que sejam tomadas certas precauções.
@@ -795,3 +793,4 @@ A Norma Regulamentadora nº 10 emitida pelo Ministério do Trabalho e Emprego do
 </table>
 
 # Simbologia elétrica aplicada na disciplina
+___<td style="width: 60%;"><img src="https://github.com/Epaminondaslage/Lab-Circuitos-Eletricos/blob/main/img/simbologia.png" width="60%" /></td>
