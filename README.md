@@ -54,7 +54,7 @@ A Norma Regulamentadora nº 10 emitida pelo Ministério do Trabalho e Emprego do
 <td style="text-align: center; width: 463px;" colspan="2">Softwares</td>
 </tr>
 <tr>
-<td style="width: 200px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://github.com/Epaminondaslage/Lab-Circuitos-Eletricos/blob/main/img/scilab-logo.png" alt="" /></td>
+<td style="width: 90.8px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://github.com/Epaminondaslage/Lab-Circuitos-Eletricos/blob/main/img/scilab-logo.png" alt="https://github.com/Epaminondaslage/Lab-Circuitos-Eletricos/blob/main/img/scilab-logo.png" width="118" height="118" /></td>
 <td style="text-align: center; width: 366.2px;">
 <div class="page" title="Page 4">
 <div class="layoutArea">
@@ -69,7 +69,7 @@ A Norma Regulamentadora nº 10 emitida pelo Ministério do Trabalho e Emprego do
 </td>
 </tr>
 <tr>
-<td style="width: 200px;"><img src="https://github.com/Epaminondaslage/Lab-Circuitos-Eletricos/blob/main/img/scilab-logo.png" width="150" /></td>
+<td style="width: 90.8px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://github.com/Epaminondaslage/Lab-Circuitos-Eletricos/blob/main/img/scilab-logo.png" alt="https://github.com/Epaminondaslage/Lab-Circuitos-Eletricos/blob/main/img/scilab-logo.png" width="118" height="118" /></td>
 <td style="text-align: center; width: 366.2px;">
 <div class="page" title="Page 4">
 <div class="layoutArea">
@@ -84,7 +84,7 @@ A Norma Regulamentadora nº 10 emitida pelo Ministério do Trabalho e Emprego do
 </td>
 </tr>
 <tr>
-<td style="width: 200px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://github.com/Epaminondaslage/Lab-Circuitos-Eletricos/blob/main/img/scilab-logo.png" alt="" width="150" /></td>
+<td style="width: 90.8px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://github.com/Epaminondaslage/Lab-Circuitos-Eletricos/blob/main/img/scilab-logo.png" alt="https://github.com/Epaminondaslage/Lab-Circuitos-Eletricos/blob/main/img/scilab-logo.png" width="111" height="111" /></td>
 <td style="text-align: center; width: 366.2px;">
 <div class="page" title="Page 4">
 <div class="layoutArea">
