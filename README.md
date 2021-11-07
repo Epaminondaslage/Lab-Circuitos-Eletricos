@@ -376,7 +376,7 @@ A Norma Regulamentadora nº 10 emitida pelo Ministério do Trabalho e Emprego do
 </tr>
 <tr>
 <td style="width: 96px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140448624-934b6009-92b1-464c-932d-9b15b100530e.png" alt="" width="30" height="39" /></td>
-<td style="text-align: center; width: 373px;"><a href="https://drive.google.com/file/d/1TBKm-TqKG8h_Er0JK8wpgVIXJmCriejS/view?usp=sharing">Slides da Aula</a></td>
+<td style="text-align: center; width: 373px;"><a href="https://drive.google.com/file/d/1RN3LS_YEI7xiCN_YH3CzL7tclGXvHRRH/view?usp=sharing">Slides da Aula</a></td>
 </tr>
 </tbody>
 </table>
