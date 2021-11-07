@@ -48,6 +48,7 @@ A Norma Regulamentadora nº 10 emitida pelo Ministério do Trabalho e Emprego do
 <p>O Guia de Aulas Pr&aacute;ticas foi desenvolvido pelo Prof. C&eacute;lio Sergio Vieira. Clique <a href="https://drive.google.com/file/d/1VItHU2oYPvuvF74gkPy_XsWTBEyPUH2B/view?usp=sharing">aqui</a> para baixar a apostila de toda a disciplina.</p>
 
 # Softwares utilizados na disciplina
+
 <table style="width: 461px;" border="1">
 <tbody>
 <tr>
@@ -97,7 +98,9 @@ A Norma Regulamentadora nº 10 emitida pelo Ministério do Trabalho e Emprego do
 </tr>
 </tbody>
 </table>
+
 # Ementa da disciplina
+
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
