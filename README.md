@@ -48,33 +48,30 @@ A Norma Regulamentadora nº 10 emitida pelo Ministério do Trabalho e Emprego do
 <p>O Guia de Aulas Pr&aacute;ticas foi desenvolvido pelo Prof. C&eacute;lio Sergio Vieira. Clique <a href="https://drive.google.com/file/d/1VItHU2oYPvuvF74gkPy_XsWTBEyPUH2B/view?usp=sharing">aqui</a> para baixar a apostila de toda a disciplina.</p>
 
 # Softwares utilizados na disciplina
-<table border="1">
+<table style="width: 461px;" border="1">
 <tbody>
 <tr>
-<td style="text-align: center; width: 454px;" colspan="2">Softwares</td>
-</tr>
-<tr>
-<td style="width: 229px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://github.com/Epaminondaslage/Lab-Circuitos-Eletricos/blob/main/img/scilab-logo.png" alt="https://github.com/Epaminondaslage/Lab-Circuitos-Eletricos/blob/main/img/scilab-logo.png" width="118" height="118" /></td>
-<td style="text-align: center; width: 219px;">
+<td style="text-align: center; width: 451px;">
 <div class="page" title="Page 4">
 <div class="layoutArea">
 <div class="column">
 <p style="text-align: justify;"><strong>EveryCircuit</strong></p>
+<p><strong><img style="display: block; margin-left: auto; margin-right: auto;" src="https://github.com/Epaminondaslage/Lab-Circuitos-Eletricos/blob/main/img/scilab-logo.png" alt="https://github.com/Epaminondaslage/Lab-Circuitos-Eletricos/blob/main/img/scilab-logo.png" width="155" height="155" /></strong></p>
 <p style="text-align: justify;">O programa EveryCircuit &eacute; um software simulador de circuitos el&eacute;tricos desenvolvido principalmente para fins educacionais. Ele possui uma plataforma que permite a utiliza&ccedil;&atilde;o online sem a necessidade de instala&ccedil;&atilde;o via computador ou tamb&eacute;m para dispositivos m&oacute;veis como tablets e smartphones, via aplicativos que podem ser adquiridos em lojas virtuais como googleplay e applestore. O programa possui uma vers&atilde;o demonstrativa gratuita com algumas funcionalidades limitadas e tamb&eacute;m possui uma vers&atilde;o paga que d&aacute; acesso a todas as funcionalidades do programa.</p>
 <p style="text-align: justify;">Link para utilizar :<a href="https://everycircuit.com/">http://everycircuit.com/</a></p>
-<p style="text-align: justify;">Oo usu&aacute;rio pode fazer o uso do programa, construir e explorar os circuitos el&eacute;tricos a partir dos elementos dispon&iacute;veis.</p>
+<p style="text-align: justify;">O usu&aacute;rio pode fazer o uso do programa, construir e explorar os circuitos el&eacute;tricos a partir dos elementos dispon&iacute;veis.</p>
 </div>
 </div>
 </div>
 </td>
 </tr>
 <tr>
-<td style="width: 229px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://github.com/Epaminondaslage/Lab-Circuitos-Eletricos/blob/main/img/scilab-logo.png" alt="https://github.com/Epaminondaslage/Lab-Circuitos-Eletricos/blob/main/img/scilab-logo.png" width="118" height="118" /></td>
-<td style="text-align: center; width: 219px;">
+<td style="text-align: center; width: 451px;">
 <div class="page" title="Page 4">
 <div class="layoutArea">
 <div class="column">
 <p style="text-align: justify;"><strong>Falstad</strong></p>
+<p><strong><img style="display: block; margin-left: auto; margin-right: auto;" src="https://github.com/Epaminondaslage/Lab-Circuitos-Eletricos/blob/main/img/scilab-logo.png" alt="https://github.com/Epaminondaslage/Lab-Circuitos-Eletricos/blob/main/img/scilab-logo.png" width="155" height="155" /></strong></p>
 <p style="text-align: justify;">Circuit Simulator Applet (CSA), uma poderosa ferramenta que cont&eacute;m simula&ccedil;&otilde;es computacionais para experimentos de eletrodin&acirc;mica e trata-se de um software aberto, que possui uma interface gr&aacute;fica simples, mas com uma grande variedade de simula&ccedil;&otilde;es.</p>
 <p style="text-align: justify;">&nbsp;<br />Nos meuns superiors encontram-se as ferramentas que v&atilde;o permitir alterar os par&acirc;metros da aplica&ccedil;&atilde;o, desenhar os circuitos, visualizar diversas simula&ccedil;&otilde;es j&aacute; prontas e at&eacute; mesmo exportar e importar projetos feitos no CSA. N&atilde;o existe&nbsp; dificuldade em desenhar circuitos pr&oacute;prios da criatividade do usu&aacute;rio.</p>
 <p style="text-align: justify;">Link para utilizar :<a href="http://falstad.com/circuit/">http://falstad.com/circuit/</a></p>
@@ -84,12 +81,12 @@ A Norma Regulamentadora nº 10 emitida pelo Ministério do Trabalho e Emprego do
 </td>
 </tr>
 <tr>
-<td style="width: 229px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://github.com/Epaminondaslage/Lab-Circuitos-Eletricos/blob/main/img/scilab-logo.png" alt="https://github.com/Epaminondaslage/Lab-Circuitos-Eletricos/blob/main/img/scilab-logo.png" width="111" height="111" /></td>
-<td style="text-align: center; width: 219px;">
+<td style="text-align: center; width: 451px;">
 <div class="page" title="Page 4">
 <div class="layoutArea">
 <div class="column">
 <p style="text-align: justify;"><strong>Scilab</strong></p>
+<p><strong><img style="display: block; margin-left: auto; margin-right: auto;" src="https://github.com/Epaminondaslage/Lab-Circuitos-Eletricos/blob/main/img/scilab-logo.png" alt="https://github.com/Epaminondaslage/Lab-Circuitos-Eletricos/blob/main/img/scilab-logo.png" width="155" height="155" /></strong></p>
 <p style="text-align: justify;">O Scilab &eacute; um software cient&iacute;fico para computa&ccedil;&atilde;o num&eacute;rica, de codigo aberto, semelhante ao MATLAB que fornece um poderoso ambiente computacional aberto para aplica&ccedil;&otilde;es cient&iacute;ficas.</p>
 <p style="text-align: justify;">linguagem de programa&ccedil;&atilde;o de alto n&iacute;vel, orientada &agrave; an&aacute;lise num&eacute;rica. A linguagem prov&ecirc; um ambiente para interpreta&ccedil;&atilde;o, com diversas ferramentas num&eacute;ricas. Algoritmos complexos podem ser criados em poucas linhas de c&oacute;digo, em compara&ccedil;&atilde;o com outras linguagens como C ou C++.</p>
 <p style="text-align: justify;">Link para donwload: <a href="https://www.scilab.org/">https://www.scilab.org/</a></p>
