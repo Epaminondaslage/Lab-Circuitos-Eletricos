@@ -48,33 +48,31 @@ A Norma Regulamentadora nº 10 emitida pelo Ministério do Trabalho e Emprego do
 <p>O Guia de Aulas Pr&aacute;ticas foi desenvolvido pelo Prof. C&eacute;lio Sergio Vieira. Clique <a href="https://drive.google.com/file/d/1VItHU2oYPvuvF74gkPy_XsWTBEyPUH2B/view?usp=sharing">aqui</a> para baixar a apostila de toda a disciplina.</p>
 
 # Softwares utilizados na disciplina
-<table border="1">
+
+<table style="width: 461px;" border="1">
 <tbody>
 <tr>
-<td style="text-align: center; width: 463px;" colspan="2">Softwares</td>
-</tr>
-<tr>
-<td style="width: 200px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://github.com/Epaminondaslage/Lab-Circuitos-Eletricos/blob/main/img/scilab-logo.png" alt="" /></td>
-<td style="text-align: center; width: 366.2px;">
+<td style="text-align: center; width: 451px;">
 <div class="page" title="Page 4">
 <div class="layoutArea">
 <div class="column">
 <p style="text-align: justify;"><strong>EveryCircuit</strong></p>
+<p><strong><img style="display: block; margin-left: auto; margin-right: auto;" src="https://github.com/Epaminondaslage/Lab-Circuitos-Eletricos/blob/main/img/everycircuit.png" alt="https://github.com/Epaminondaslage/Lab-Circuitos-Eletricos/blob/main/img/everycircuit.png" width="155" height="155" /></strong></p>
 <p style="text-align: justify;">O programa EveryCircuit &eacute; um software simulador de circuitos el&eacute;tricos desenvolvido principalmente para fins educacionais. Ele possui uma plataforma que permite a utiliza&ccedil;&atilde;o online sem a necessidade de instala&ccedil;&atilde;o via computador ou tamb&eacute;m para dispositivos m&oacute;veis como tablets e smartphones, via aplicativos que podem ser adquiridos em lojas virtuais como googleplay e applestore. O programa possui uma vers&atilde;o demonstrativa gratuita com algumas funcionalidades limitadas e tamb&eacute;m possui uma vers&atilde;o paga que d&aacute; acesso a todas as funcionalidades do programa.</p>
 <p style="text-align: justify;">Link para utilizar :<a href="https://everycircuit.com/">http://everycircuit.com/</a></p>
-<p style="text-align: justify;">Oo usu&aacute;rio pode fazer o uso do programa, construir e explorar os circuitos el&eacute;tricos a partir dos elementos dispon&iacute;veis.</p>
+<p style="text-align: justify;">O usu&aacute;rio pode fazer o uso do programa, construir e explorar os circuitos el&eacute;tricos a partir dos elementos dispon&iacute;veis.</p>
 </div>
 </div>
 </div>
 </td>
 </tr>
 <tr>
-<td style="width: 200px;"><img src="https://github.com/Epaminondaslage/Lab-Circuitos-Eletricos/blob/main/img/scilab-logo.png" width="150" /></td>
-<td style="text-align: center; width: 366.2px;">
+<td style="text-align: center; width: 451px;">
 <div class="page" title="Page 4">
 <div class="layoutArea">
 <div class="column">
 <p style="text-align: justify;"><strong>Falstad</strong></p>
+<p style="text-align: justify;"><strong><img style="display: block; margin-left: auto; margin-right: auto;" src="https://github.com/Epaminondaslage/Lab-Circuitos-Eletricos/blob/main/img/falstad.png" alt="https://github.com/Epaminondaslage/Lab-Circuitos-Eletricos/blob/main/img/falstad.png" width="166" height="166" /></strong></p>
 <p style="text-align: justify;">Circuit Simulator Applet (CSA), uma poderosa ferramenta que cont&eacute;m simula&ccedil;&otilde;es computacionais para experimentos de eletrodin&acirc;mica e trata-se de um software aberto, que possui uma interface gr&aacute;fica simples, mas com uma grande variedade de simula&ccedil;&otilde;es.</p>
 <p style="text-align: justify;">&nbsp;<br />Nos meuns superiors encontram-se as ferramentas que v&atilde;o permitir alterar os par&acirc;metros da aplica&ccedil;&atilde;o, desenhar os circuitos, visualizar diversas simula&ccedil;&otilde;es j&aacute; prontas e at&eacute; mesmo exportar e importar projetos feitos no CSA. N&atilde;o existe&nbsp; dificuldade em desenhar circuitos pr&oacute;prios da criatividade do usu&aacute;rio.</p>
 <p style="text-align: justify;">Link para utilizar :<a href="http://falstad.com/circuit/">http://falstad.com/circuit/</a></p>
@@ -84,12 +82,12 @@ A Norma Regulamentadora nº 10 emitida pelo Ministério do Trabalho e Emprego do
 </td>
 </tr>
 <tr>
-<td style="width: 200px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://github.com/Epaminondaslage/Lab-Circuitos-Eletricos/blob/main/img/scilab-logo.png" alt="" width="150" /></td>
-<td style="text-align: center; width: 366.2px;">
+<td style="text-align: center; width: 451px;">
 <div class="page" title="Page 4">
 <div class="layoutArea">
 <div class="column">
 <p style="text-align: justify;"><strong>Scilab</strong></p>
+<p><strong><img style="display: block; margin-left: auto; margin-right: auto;" src="https://github.com/Epaminondaslage/Lab-Circuitos-Eletricos/blob/main/img/scilab-logo.png" alt="https://github.com/Epaminondaslage/Lab-Circuitos-Eletricos/blob/main/img/scilab-logo.png" width="200" height="" /></strong></p>
 <p style="text-align: justify;">O Scilab &eacute; um software cient&iacute;fico para computa&ccedil;&atilde;o num&eacute;rica, de codigo aberto, semelhante ao MATLAB que fornece um poderoso ambiente computacional aberto para aplica&ccedil;&otilde;es cient&iacute;ficas.</p>
 <p style="text-align: justify;">linguagem de programa&ccedil;&atilde;o de alto n&iacute;vel, orientada &agrave; an&aacute;lise num&eacute;rica. A linguagem prov&ecirc; um ambiente para interpreta&ccedil;&atilde;o, com diversas ferramentas num&eacute;ricas. Algoritmos complexos podem ser criados em poucas linhas de c&oacute;digo, em compara&ccedil;&atilde;o com outras linguagens como C ou C++.</p>
 <p style="text-align: justify;">Link para donwload: <a href="https://www.scilab.org/">https://www.scilab.org/</a></p>
@@ -102,6 +100,7 @@ A Norma Regulamentadora nº 10 emitida pelo Ministério do Trabalho e Emprego do
 </table>
 
 # Ementa da disciplina
+
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
@@ -366,12 +365,51 @@ A Norma Regulamentadora nº 10 emitida pelo Ministério do Trabalho e Emprego do
 </tr>
 </tbody>
 </table>
-
-14ª Aula Prática: Levantamento da Curva de Magnetização ou Saturação Magnética	</p>
-
-15ª Aula Prática: Estudo dos Circuitos Magnéticos com Entreferro	</p>
-
-16ª Aula Prática: Circuito Resistivo e Indutivo série – Transitório da carga - CC	</p>
+<table style="height: 164px; width: 485px;" border="1">
+<tbody>
+<tr>
+<td style="text-align: center; width: 469px;" colspan="2">14&ordf; Aula Pr&aacute;tica: Levantamento da Curva de Magnetiza&ccedil;&atilde;o ou Satura&ccedil;&atilde;o Magn&eacute;tica</td>
+</tr>
+<tr>
+<td style="width: 96px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140449751-0802cbdb-eabc-42ec-8b9d-99b850d8f7b3.png" alt="" width="39" height="39" /></td>
+<td style="text-align: center; width: 373px;">&nbsp;<a href="https://docs.google.com/document/d/1XkGVtEFKp5RwZvUs0vodDyKqw9UzbZAX/edit?usp=sharing&amp;ouid=101750793150395365396&amp;rtpof=true&amp;sd=true">Guia de Aula</a></td>
+</tr>
+<tr>
+<td style="width: 96px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140448624-934b6009-92b1-464c-932d-9b15b100530e.png" alt="" width="30" height="39" /></td>
+<td style="text-align: center; width: 373px;"><a href="https://drive.google.com/file/d/1RN3LS_YEI7xiCN_YH3CzL7tclGXvHRRH/view?usp=sharing">Slides da Aula</a></td>
+</tr>
+</tbody>
+</table>
+<table style="height: 164px; width: 485px;" border="1">
+<tbody>
+<tr>
+<td style="text-align: center; width: 469px;" colspan="2">15&ordf; Aula Pr&aacute;tica: Estudo dos Circuitos Magn&eacute;ticos com Entreferro</td>
+</tr>
+<tr>
+<td style="width: 96px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140449751-0802cbdb-eabc-42ec-8b9d-99b850d8f7b3.png" alt="" width="39" height="39" /></td>
+<td style="text-align: center; width: 373px;">&nbsp;<a href="https://docs.google.com/document/d/1sKOwQKaKCS-T-nOXtonJG05lW_KGUaBh/edit?usp=sharing&amp;ouid=101750793150395365396&amp;rtpof=true&amp;sd=true">Guia de Aula</a></td>
+</tr>
+<tr>
+<td style="width: 96px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140448624-934b6009-92b1-464c-932d-9b15b100530e.png" alt="" width="30" height="39" /></td>
+<td style="text-align: center; width: 373px;"><a href="https://drive.google.com/file/d/1uF9o76ER2ZeM3udJYPmQp5TA_m6u9CU9/view?usp=sharing">Slides da Aula</a></td>
+</tr>
+</tbody>
+</table>
+<table style="height: 164px; width: 485px;" border="1">
+<tbody>
+<tr>
+<td style="text-align: center; width: 469px;" colspan="2">16&ordf; Aula Pr&aacute;tica: Circuito Resistivo e Indutivo s&eacute;rie &ndash; Transit&oacute;rio da carga - CC</td>
+</tr>
+<tr>
+<td style="width: 96px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140449751-0802cbdb-eabc-42ec-8b9d-99b850d8f7b3.png" alt="" width="39" height="39" /></td>
+<td style="text-align: center; width: 373px;">&nbsp;<a href="https://docs.google.com/document/d/1ah8KiUQhuvlzmJdPt3FftiWxBOt8w5UZ/edit?usp=sharing&amp;ouid=101750793150395365396&amp;rtpof=true&amp;sd=true">Guia de Aula</a></td>
+</tr>
+<tr>
+<td style="width: 96px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140448624-934b6009-92b1-464c-932d-9b15b100530e.png" alt="" width="30" height="39" /></td>
+<td style="text-align: center; width: 373px;"><a href="https://drive.google.com/file/d/1rLCseLUtRY6kM5eIMkhVv3cFtFBWaBiH/view?usp=sharing">Slides da Aula</a></td>
+</tr>
+</tbody>
+</table>
 
 17ª Aula Prática: Transitório da Carga e Descarga do circuito RL - CC	</p>
 
