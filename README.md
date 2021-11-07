@@ -1,13 +1,11 @@
-___<td style="width: 20%;"><img src="https://github.com/Epaminondaslage/Lab-IoT-ELE-CEFET/blob/master/img/Logo_CEFET-MG.png" width="20%" /></td>
-
-
-<p><strong><span style="color: #0000ff;">Disciplina Laboratório de Circuitos Elétricos - CEFETMG</span></strong></p>
+<td style="width: 30%;"><img src="https://github.com/Epaminondaslage/Lab-IoT-ELE-CEFET/blob/master/img/Logo_CEFET-MG.png" width="30%" /></td>
+<p><strong><span style="color: #0000ff;">Departamento de Engenharia Elétrica - CEFETMG</span></strong></p>
+<p><strong><span style="color: #0000ff;">Coordenação do Curso de Eletrotécnica</span></strong></p>
+<p><strong><span style="color: #0000ff;">Disciplina Prática de Laboratório de Circuitos Elétricos</span></strong></p>
 <p><strong><span style="color: #0000ff;">Prof Epaminondas Lage</span></strong></p>
 <a href="http://lattes.cnpq.br/7787341723868111"> Currículo Lattes LAGE, E. S.</a> 
 
-# O Laboratório de Circuitos Elétricos
-
-# Regras básicas de segurança no laboratório
+# Regras básicas de segurança do Laboratório de Circuitos Elétricos
 
 A palavra “laboratório” significa labor = trabalho + oratium (ou oratorium) = local de reflexão. Portanto, laboratório refere-se a um local de trabalho e concentração, não necessariamente perigoso, desde que sejam tomadas certas precauções.
 
@@ -46,6 +44,7 @@ A Norma Regulamentadora nº 10 emitida pelo Ministério do Trabalho e Emprego do
 <img width="140" alt="image" src="https://user-images.githubusercontent.com/44790000/140447968-44f892b0-42ef-45bb-95c5-7536336bb5d4.png">
 
 <p>O Guia de Aulas Pr&aacute;ticas foi desenvolvido pelo Prof. C&eacute;lio Sergio Vieira. Clique <a href="https://drive.google.com/file/d/1VItHU2oYPvuvF74gkPy_XsWTBEyPUH2B/view?usp=sharing">aqui</a> para baixar a apostila de toda a disciplina.</p>
+<p>Os Slides com  o conteúdo das aulas foram desenvolvidos pelo Prof. Epaminondas Lage e encontram-se abaixo os links para download. 
 
 # Softwares utilizados na disciplina
 
@@ -795,3 +794,4 @@ A Norma Regulamentadora nº 10 emitida pelo Ministério do Trabalho e Emprego do
 </table>
 
 # Simbologia elétrica aplicada na disciplina
+___<td style="width: 60%;"><img src="https://github.com/Epaminondaslage/Lab-Circuitos-Eletricos/blob/main/img/simbologia.png" width="60%" /></td>
