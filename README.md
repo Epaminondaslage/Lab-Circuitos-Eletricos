@@ -251,7 +251,7 @@ A Norma Regulamentadora nº 10 emitida pelo Ministério do Trabalho e Emprego do
 <tbody>
 <tr style="height: 18px;">
 <td style="text-align: center; width: 475px; height: 18px;" colspan="2">
-<p>Aula Pr&aacute;tica 04A - Divisor de tensão e de corrente</p>
+<p>Aula Pr&aacute;tica 04A: Divisores de tensão e de corrente</p>
 </td>
 </tr>
 <tr style="height: 55px;">
