@@ -47,6 +47,37 @@ A Norma Regulamentadora nº 10 emitida pelo Ministério do Trabalho e Emprego do
 
 <p>O Guia de Aulas Pr&aacute;ticas foi desenvolvido pelo Prof. C&eacute;lio Sergio Vieira. Clique <a href="https://drive.google.com/file/d/1VItHU2oYPvuvF74gkPy_XsWTBEyPUH2B/view?usp=sharing">aqui</a> para baixar a apostila de toda a disciplina.</p>
 
+# Software utilizados na disciplina
+<table border="1">
+<tbody>
+<tr>
+<td style="text-align: center; width: 463px;" colspan="2">Software</td>
+</tr>
+<tr>
+<td style="width: 90.8px;">&nbsp;</td>
+<td style="text-align: center; width: 366.2px; padding-left: 40px;">
+<p style="text-align: justify;">O <strong>Scilab</strong> &eacute; um software cient&iacute;fico para computa&ccedil;&atilde;o num&eacute;rica, de codigo aberto, semelhante ao MATLAB que fornece um poderoso ambiente computacional aberto para aplica&ccedil;&otilde;es cient&iacute;ficas.</p>
+<p style="text-align: justify;">linguagem de programa&ccedil;&atilde;o de alto n&iacute;vel, orientada &agrave; an&aacute;lise num&eacute;rica. A linguagem prov&ecirc; um ambiente para interpreta&ccedil;&atilde;o, com diversas ferramentas num&eacute;ricas. Algoritmos complexos podem ser criados em poucas linhas de c&oacute;digo, em compara&ccedil;&atilde;o com outras linguagens como C ou C++.</p>
+<p style="text-align: justify;">Link para donwload: <a href="https://www.scilab.org/">https://www.scilab.org/</a></p>
+</td>
+</tr>
+<tr>
+<td style="width: 90.8px;">&nbsp;</td>
+<td style="text-align: center; width: 366.2px;">
+<div class="page" title="Page 4">
+<div class="layoutArea">
+<div class="column">
+<p>O programa EveryCircuit é um software simulador de circuitos elétricos desenvolvido principalmente para fins educacionais. Ele possui uma plataforma que permite a utilização online sem a necessidade de instalação via computador ou também para dispositivos móveis como tablets e smartphones, via aplicativos que podem ser adquiridos em lojas virtuais como googleplay e applestore. O programa possui uma versão demonstrativa gratuita com algumas funcionalidades limitadas e também possui uma versão paga que dá acesso a todas as funcionalidades do programa.</p>
+<p>Link para utilizar :<a href="https://everycircuit.com/">http://everycircuit.com/</a></p>
+<p>Oo usuário pode fazer o uso do programa, construir e explorar os circuitos elétricos a partir dos elementos disponíveis.</p>
+</div>
+</div>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+
 # Ementa da disciplina
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
