@@ -1,5 +1,4 @@
 <td style="width: 30%;"><img src="https://github.com/Epaminondaslage/Lab-IoT-ELE-CEFET/blob/master/img/Logo_CEFET-MG.png" width="30%" /></td>
-
 <p><strong><span style="color: #0000ff;">Departamento de Engenharia Elétrica - CEFETMG</span></strong></p>
 <p><strong><span style="color: #0000ff;">Coordenação do Curso de Eletrotécnica</span></strong></p>
 <p><strong><span style="color: #0000ff;">Disciplina Laboratório de Circuitos Elétricos - CEFETMG</span></strong></p>
