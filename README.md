@@ -169,6 +169,23 @@ A Norma Regulamentadora nº 10 emitida pelo Ministério do Trabalho e Emprego do
 <p><strong>5- ELABORADO POR:</strong> <br />Prof. : C&eacute;lio S&eacute;rgio Vieira Prof. : Gerson Oliveira Soares <br />DATA:DE ACORDO: Coordena&ccedil;&atilde;o de Curso Coordena&ccedil;&atilde;o Pedag&oacute;gica</p>
 
 # Conteúdo das Aulas Práticas
+<table style="height: 164px; width: 485px;" border="1">
+<tbody>
+<tr>
+<td style="text-align: center; width: 469px;" colspan="2">
+<p>Aula Introdut&oacute;ria - Laborat&oacute;rio de Circuitos El&eacute;tricos </p>
+</td>
+</tr>
+<tr>
+<td style="width: 96px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140448624-934b6009-92b1-464c-932d-9b15b100530e.png" alt="" width="30" height="39" /></td>
+<td style="text-align: center; width: 373px;">&nbsp;<a href="https://drive.google.com/file/d/1Jam5WOrMupbiF1XVdmIrHyqQD9K0u4-g/view?usp=sharing">Normas de uso do laboratório</a></td>
+</tr>
+<tr>
+<td style="width: 96px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140448624-934b6009-92b1-464c-932d-9b15b100530e.png" alt="" width="30" height="39" /></td>
+<td style="text-align: center; width: 373px;"><a href="https://drive.google.com/file/d/15-e8w66IDW6GQ7uLKFE-W6ClPJs2jThm/view?usp=sharing">Conceitos Fundamentais de instumentos de medidas el&eacute;tricas</a></td>
+</tr>
+</tbody>
+</table>
 <table style="height: 164px;" width="378" border="1">
 <tbody>
 <tr>
