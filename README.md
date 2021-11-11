@@ -193,7 +193,7 @@ A Norma Regulamentadora nº 10 emitida pelo Ministério do Trabalho e Emprego do
 <li><p>Armários contendo fontes de CC, resistores, bobinas, reostatos.</p></li>
 </ul>
 </ul>
-<td style="width: 30%;"><img src="https://github.com/Epaminondaslage/Lab-Circuitos-Eletricos/blob/main/img/equipam 2.jpg" width="30%" /></td>
+<td style="width: 20%;"><img src="https://github.com/Epaminondaslage/Lab-Circuitos-Eletricos/blob/main/img/equipam 2.jpg" width="20%" /></td>
 <ul>
 <li><p>Armário contendo capacitores e instrumentos analógicos.</p></li>
 </ul>
