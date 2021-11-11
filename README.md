@@ -169,13 +169,11 @@ A Norma Regulamentadora nº 10 emitida pelo Ministério do Trabalho e Emprego do
 
 # Localização e espaço físico
 
-<img width="140" alt="image" src="https://github.com/Epaminondaslage/Lab-Circuitos-Eletricos/blob/main/img/lab1.png">
-
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
 <td style="width: 33.3333%; text-align: center;">
-<img width="140" alt="image" src="https://github.com/Epaminondaslage/Lab-Circuitos-Eletricos/blob/main/img/lab1.png">/></td>
+<img width="300" alt="image" src="https://github.com/Epaminondaslage/Lab-Circuitos-Eletricos/blob/main/img/lab1.png"></td>
 <td style="width: 33.3333%; text-align: center;"><img src="https://github.com/Epaminondaslage/Lab-Circuitos-Eletricos/blob/main/img/predio%2019.png" alt="" /></td>
 <td style="width: 33.3333%; text-align: center;"><img src="sdsds" alt="" /></td>
 </tr>
