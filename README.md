@@ -44,9 +44,9 @@ A Norma Regulamentadora nº 10 emitida pelo Ministério do Trabalho e Emprego do
 <img width="140" alt="image" src="https://user-images.githubusercontent.com/44790000/140447968-44f892b0-42ef-45bb-95c5-7536336bb5d4.png">
 
 <p>O Guia de Aulas Pr&aacute;ticas foi desenvolvido pelo Prof. C&eacute;lio Sergio Vieira. Clique <a href="https://drive.google.com/file/d/1VItHU2oYPvuvF74gkPy_XsWTBEyPUH2B/view?usp=sharing">aqui</a> para baixar a apostila de toda a disciplina.</p>
-<p>Os Slides com  o conteúdo das aulas foram desenvolvidos pelo Prof. Epaminondas Lage e encontram-se abaixo os links para download. 
+<p>Os Slides com  o conteúdo das aulas foram desenvolvidos pelo Prof. Epaminondas Lage e encontram-se abaixo os links para download. </p>
 
-# Softwares utilizados na disciplina
+ # Softwares utilizados na disciplina
 
 <table style="width: 461px;" border="1">
 <tbody>
@@ -168,7 +168,7 @@ A Norma Regulamentadora nº 10 emitida pelo Ministério do Trabalho e Emprego do
 <p><strong>5- ELABORADO POR:</strong> <br />Prof. : C&eacute;lio S&eacute;rgio Vieira Prof. : Gerson Oliveira Soares <br />DATA:DE ACORDO: Coordena&ccedil;&atilde;o de Curso Coordena&ccedil;&atilde;o Pedag&oacute;gica</p>
 
 # Localização e espaço físico
-
+<p>CEFETMG - Campus 2 - Prédio 19 sala 303</p>
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
@@ -188,6 +188,11 @@ A Norma Regulamentadora nº 10 emitida pelo Ministério do Trabalho e Emprego do
 <ul>
 <li><p>Alicate Wattímetro Digital - MINIPA-ET-4091. Clique <a href="https://github.com/Epaminondaslage/Lab-Circuitos-Eletricos/blob/main/img/ET-4091-1100-BR.pdf">aqui</a> para baixar o manual de utilização.</p></li>
 </ul>
+<td style="width: 20%;"><img src="https://github.com/Epaminondaslage/Lab-Circuitos-Eletricos/blob/main/img/equipam 1.png" width="20%" /></td>
+<ul>
+<li><p>Armários contendo fontes de CC, resistores, bobinas, reostatos.</p></li>
+</ul>
+
 
 # Painel Elétrico da Bancada
 <td style="width: 50%;"><img src="https://github.com/Epaminondaslage/Lab-Circuitos-Eletricos/blob/main/img/bancada.jpg" width="50%" /></td>
