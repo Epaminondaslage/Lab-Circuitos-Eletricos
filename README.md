@@ -167,6 +167,14 @@ A Norma Regulamentadora nº 10 emitida pelo Ministério do Trabalho e Emprego do
 <p><br />GUSSOW, M. . Eletricidade básica. S&atilde;o Paulo: Makron Books do Brasil, 1985.aDORF, Richard C. e Svoboda, James A. , Introdução aos Circuitos El&eacute;tricos. 8 ed. S&atilde;o Paulo: LTC, 2012,CRUZ, Eduardo Cesar Alves. Circuitos El&eacute;tricos - Corrente Contínua e Corrente Alternada. 9 ed. S&atilde;o Paulo: Saraiva, 2011.Alexander, Charles; SADIKU,Matthew N. O. . Fundamentos de Circuitos El&eacute;tricos. 5a ed. S&atilde;o Paulo: Saraiva, 2013.</p>
 <p><strong>5- ELABORADO POR:</strong> <br />Prof. : C&eacute;lio S&eacute;rgio Vieira Prof. : Gerson Oliveira Soares <br />DATA:DE ACORDO: Coordena&ccedil;&atilde;o de Curso Coordena&ccedil;&atilde;o Pedag&oacute;gica</p>
 
+# Principais Instrumentos de Medidas
+* <p>Multímetro Fluke 179 ESFP True RMS. Clique <a href="https://github.com/Epaminondaslage/Lab-Circuitos-Eletricos/blob/main/img/manual_170.pdf">aqui</a> para baixar o manual de utilização.</p>
+* <p>Alicate Wattímetro Digital - MINIPA-ET-4091. Clique <a href="https://github.com/Epaminondaslage/Lab-Circuitos-Eletricos/blob/main/img/ET-4091-1100-BR.pdf">aqui</a> para baixar o manual de utilização.</p>
+* 
+# Painel Elétrico da Bancada
+<td style="width: 50%;"><img src="<td style="width: 30%;"><img src="<td style="width: 30%;"><img src="https://github.com/Epaminondaslage/Lab-Circuitos-Eletricos/blob/main/img/bancada.jpg" width="50%" /></td>" width="30%" /></td>" width="50%" /></td>
+
+
 # Conteúdo das Aulas Práticas
 <table style="height: 164px; width: 485px;" border="1">
 <tbody>
