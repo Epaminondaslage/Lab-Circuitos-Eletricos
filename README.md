@@ -188,11 +188,15 @@ A Norma Regulamentadora nº 10 emitida pelo Ministério do Trabalho e Emprego do
 <ul>
 <li><p>Alicate Wattímetro Digital - MINIPA-ET-4091. Clique <a href="https://github.com/Epaminondaslage/Lab-Circuitos-Eletricos/blob/main/img/ET-4091-1100-BR.pdf">aqui</a> para baixar o manual de utilização.</p></li>
 </ul>
-<td style="width: 20%;"><img src="https://github.com/Epaminondaslage/Lab-Circuitos-Eletricos/blob/main/img/equipam 1.png" width="20%" /></td>
+<td style="width: 30%;"><img src="https://github.com/Epaminondaslage/Lab-Circuitos-Eletricos/blob/main/img/equipam 1.png" width="30%" /></td>
 <ul>
 <li><p>Armários contendo fontes de CC, resistores, bobinas, reostatos.</p></li>
 </ul>
-
+</ul>
+<td style="width: 30%;"><img src="https://github.com/Epaminondaslage/Lab-Circuitos-Eletricos/blob/main/img/equipam 2.jpg" width="30%" /></td>
+<ul>
+<li><p>Armário contendo capacitores e instrumentos analógicos.</p></li>
+</ul>
 
 # Painel Elétrico da Bancada
 <td style="width: 50%;"><img src="https://github.com/Epaminondaslage/Lab-Circuitos-Eletricos/blob/main/img/bancada.jpg" width="50%" /></td>
