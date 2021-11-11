@@ -167,6 +167,18 @@ A Norma Regulamentadora nº 10 emitida pelo Ministério do Trabalho e Emprego do
 <p><br />GUSSOW, M. . Eletricidade básica. S&atilde;o Paulo: Makron Books do Brasil, 1985.aDORF, Richard C. e Svoboda, James A. , Introdução aos Circuitos El&eacute;tricos. 8 ed. S&atilde;o Paulo: LTC, 2012,CRUZ, Eduardo Cesar Alves. Circuitos El&eacute;tricos - Corrente Contínua e Corrente Alternada. 9 ed. S&atilde;o Paulo: Saraiva, 2011.Alexander, Charles; SADIKU,Matthew N. O. . Fundamentos de Circuitos El&eacute;tricos. 5a ed. S&atilde;o Paulo: Saraiva, 2013.</p>
 <p><strong>5- ELABORADO POR:</strong> <br />Prof. : C&eacute;lio S&eacute;rgio Vieira Prof. : Gerson Oliveira Soares <br />DATA:DE ACORDO: Coordena&ccedil;&atilde;o de Curso Coordena&ccedil;&atilde;o Pedag&oacute;gica</p>
 
+# Localização e espaço físico
+
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 33.3333%; text-align: center;"><img src="https://github.com/Epaminondaslage/Lab-Circuitos-Eletricos/blob/main/img/lab1.png" alt="" /></td>
+<td style="width: 33.3333%; text-align: center;"><img src="https://github.com/Epaminondaslage/Lab-Circuitos-Eletricos/blob/main/img/predio%2019.png" alt="" /></td>
+<td style="width: 33.3333%; text-align: center;"><img src="sdsds" alt="" /></td>
+</tr>
+</tbody>
+</table>
+
 # Principais Instrumentos de Medidas
 <td style="width: 10%;"><img src="https://github.com/Epaminondaslage/Lab-Circuitos-Eletricos/blob/main/img/fluke%20179.png" width="10%" /></td>
 <ul>
