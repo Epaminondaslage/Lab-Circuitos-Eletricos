@@ -169,9 +169,9 @@ A Norma Regulamentadora nº 10 emitida pelo Ministério do Trabalho e Emprego do
 
 # Principais Instrumentos de Medidas
 <td style="width: 10%;"><img src="https://github.com/Epaminondaslage/Lab-Circuitos-Eletricos/blob/main/img/fluke%20179.png" width="10%" /></td>
-*<p>Multímetro Fluke 179 ESFP True RMS. Clique <a href="https://github.com/Epaminondaslage/Lab-Circuitos-Eletricos/blob/main/img/manual_170.pdf">aqui</a> para baixar o manual de utilização.</p>
+- <p>Multímetro Fluke 179 ESFP True RMS. Clique <a href="https://github.com/Epaminondaslage/Lab-Circuitos-Eletricos/blob/main/img/manual_170.pdf">aqui</a> para baixar o manual de utilização.</p>
 <td style="width: 10%;"><img src="https://github.com/Epaminondaslage/Lab-Circuitos-Eletricos/blob/main/img/minipa%204091.png" width="10%" /></td>
-*<p>Alicate Wattímetro Digital - MINIPA-ET-4091. Clique <a href="https://github.com/Epaminondaslage/Lab-Circuitos-Eletricos/blob/main/img/ET-4091-1100-BR.pdf">aqui</a> para baixar o manual de utilização.</p>
+- <p>Alicate Wattímetro Digital - MINIPA-ET-4091. Clique <a href="https://github.com/Epaminondaslage/Lab-Circuitos-Eletricos/blob/main/img/ET-4091-1100-BR.pdf">aqui</a> para baixar o manual de utilização.</p>
 
 # Painel Elétrico da Bancada
 <td style="width: 50%;"><img src="https://github.com/Epaminondaslage/Lab-Circuitos-Eletricos/blob/main/img/bancada.jpg" width="50%" /></td>
