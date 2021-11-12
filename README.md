@@ -513,7 +513,7 @@ A Norma Regulamentadora nº 10 emitida pelo Ministério do Trabalho e Emprego do
 </tr>
 <tr>
 <td style="width: 96px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140448624-934b6009-92b1-464c-932d-9b15b100530e.png" alt="" width="30" height="39" /></td>
-<td style="text-align: center; width: 373px;"><a href="https://drive.google.com/file/d/1VtRcw0OVZN7nEPpzcXWx1AcGvimuLG2J/view?usp=sharing">Slides da aula</a></td>
+<td style="text-align: center; width: 373px;"><a href="https://drive.google.com/file/d/1yMtSHC07y9KzfXzFMVSXk0hJ1CWSpxak/view?usp=sharing">Slides da aula</a></td>
 </tr>
 </tbody>
 </table>
@@ -528,7 +528,7 @@ A Norma Regulamentadora nº 10 emitida pelo Ministério do Trabalho e Emprego do
 </tr>
 <tr>
 <td style="width: 96px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140448624-934b6009-92b1-464c-932d-9b15b100530e.png" alt="" width="30" height="39" /></td>
-<td style="text-align: center; width: 373px;"><a href="https://github.com/Epaminondaslage/Lab-Circuitos-Eletricos/blob/main/img/Aula%20em%20desenvolvimento.pdf">Slides da aula em desenvolvimento</a></td>
+<td style="text-align: center; width: 373px;"><a href="https://drive.google.com/file/d/180aUz1-B-XfsV321SgCHVc_WZmr1nmAk/view?usp=sharing">Slides da aula</a></td>
 </tr>
 </tbody>
 </table>
@@ -543,7 +543,7 @@ A Norma Regulamentadora nº 10 emitida pelo Ministério do Trabalho e Emprego do
 </tr>
 <tr>
 <td style="width: 96px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140448624-934b6009-92b1-464c-932d-9b15b100530e.png" alt="" width="30" height="39" /></td>
-<td style="text-align: center; width: 373px;"><a href="https://github.com/Epaminondaslage/Lab-Circuitos-Eletricos/blob/main/img/Aula%20em%20desenvolvimento.pdf">Slides da aula em desenvolvimento</a></td>
+<td style="text-align: center; width: 373px;"><a href="https://drive.google.com/file/d/10P2kb2qXdpBm3poxU7aMaJgwv3ROXNK1/view?usp=sharing">Slides da aula</a></td>
 </tr>
 </tbody>
 </table>
