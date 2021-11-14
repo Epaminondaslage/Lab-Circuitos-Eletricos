@@ -509,11 +509,11 @@ A Norma Regulamentadora nº 10 emitida pelo Ministério do Trabalho e Emprego do
 </tr>
 <tr>
 <td style="width: 96px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140449751-0802cbdb-eabc-42ec-8b9d-99b850d8f7b3.png" alt="" width="39" height="39" /></td>
-<td style="text-align: center; width: 373px;">&nbsp;<a href="https://docs.google.com/document/d/1x6GieTi3nclLl_uAdFT4mmpbV3vBQDLn/edit?usp=sharing&amp;ouid=101750793150395365396&amp;rtpof=true&amp;sd=true">Guia de Aula</a></td>
+<td style="text-align: center; width: 373px;">&nbsp;<a href="https://docs.google.com/document/d/1OcGk4HC5Md8U_FY_wCUPb4fH4gIfSQsW/edit?usp=sharing&ouid=101750793150395365396&rtpof=true&sd=true">Guia de Aula</a></td>
 </tr>
 <tr>
 <td style="width: 96px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140448624-934b6009-92b1-464c-932d-9b15b100530e.png" alt="" width="30" height="39" /></td>
-<td style="text-align: center; width: 373px;"><a href="https://drive.google.com/file/d/1yMtSHC07y9KzfXzFMVSXk0hJ1CWSpxak/view?usp=sharing">Slides da aula</a></td>
+<td style="text-align: center; width: 373px;"><a href="https://drive.google.com/file/d/1sBNje5byRhXfZZuSzM-7vRu05DipG6BF/view?usp=sharing">Slides da aula</a></td>
 </tr>
 </tbody>
 </table>
@@ -524,11 +524,11 @@ A Norma Regulamentadora nº 10 emitida pelo Ministério do Trabalho e Emprego do
 </tr>
 <tr>
 <td style="width: 96px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140449751-0802cbdb-eabc-42ec-8b9d-99b850d8f7b3.png" alt="" width="39" height="39" /></td>
-<td style="text-align: center; width: 373px;">&nbsp;<a href="https://docs.google.com/document/d/1dnYqUdxNG6hRErwgxySUIJo_aGDlgFKU/edit?usp=sharing&amp;ouid=101750793150395365396&amp;rtpof=true&amp;sd=true">Guia de Aula</a></td>
+<td style="text-align: center; width: 373px;">&nbsp;<a href="https://docs.google.com/document/d/1UauAF17ZDveYz_U_-K16WoyAFxLotb-B/edit?usp=sharing&ouid=101750793150395365396&rtpof=true&sd=true">Guia de Aula</a></td>
 </tr>
 <tr>
 <td style="width: 96px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140448624-934b6009-92b1-464c-932d-9b15b100530e.png" alt="" width="30" height="39" /></td>
-<td style="text-align: center; width: 373px;"><a href="https://drive.google.com/file/d/180aUz1-B-XfsV321SgCHVc_WZmr1nmAk/view?usp=sharing">Slides da aula</a></td>
+<td style="text-align: center; width: 373px;"><a href="https://drive.google.com/file/d/1362to6xlPQNJ2n6DDUbN8jbJ9dcVd3Nk/view?usp=sharing">Slides da aula</a></td>
 </tr>
 </tbody>
 </table>
@@ -539,14 +539,15 @@ A Norma Regulamentadora nº 10 emitida pelo Ministério do Trabalho e Emprego do
 </tr>
 <tr>
 <td style="width: 96px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140449751-0802cbdb-eabc-42ec-8b9d-99b850d8f7b3.png" alt="" width="39" height="39" /></td>
-<td style="text-align: center; width: 373px;">&nbsp;<a href="https://docs.google.com/document/d/1dhoZfbdYb0WSB-9ZHCxzFEwvyp0DXnY9/edit?usp=sharing&amp;ouid=101750793150395365396&amp;rtpof=true&amp;sd=true">Guia de Aula</a></td>
+<td style="text-align: center; width: 373px;">&nbsp;<a href="https://docs.google.com/document/d/1XPNvwdtahFpw-KPK-agXPP4vlWyp4K6r/edit?usp=sharing&ouid=101750793150395365396&rtpof=true&sd=true">Guia de Aula</a></td>
 </tr>
 <tr>
 <td style="width: 96px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140448624-934b6009-92b1-464c-932d-9b15b100530e.png" alt="" width="30" height="39" /></td>
-<td style="text-align: center; width: 373px;"><a href="https://drive.google.com/file/d/10P2kb2qXdpBm3poxU7aMaJgwv3ROXNK1/view?usp=sharing">Slides da aula</a></td>
+<td style="text-align: center; width: 373px;"><a href="https://drive.google.com/file/d/1dDW8JZyyMsdQVzYoIoefLYEBFUxGkHUU/view?usp=sharing">Slides da aula</a></td>
 </tr>
 </tbody>
 </table>
+-----> 21
 <table style="height: 164px; width: 485px;" border="1">
 <tbody>
 <tr>
