@@ -647,7 +647,8 @@ A Norma Regulamentadora nº 10 emitida pelo Ministério do Trabalho e Emprego do
 <tbody>
 <tr>
 <td style="text-align: center; width: 469px;" colspan="2">
-<p>27&ordf; Aula Pr&aacute;tica: An&aacute;lise de Redes em Circuito RLC usando Tens&atilde;o Nodal</p>
+<p>27&ordf; Aula Pr&aacute;tica: Análise de Redes em Circuito RLC usando Corrente Laço>
+</p>
 </td>
 </tr>
 <tr>
