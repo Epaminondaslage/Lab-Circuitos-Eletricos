@@ -753,7 +753,7 @@ A Norma Regulamentadora nº 10 emitida pelo Ministério do Trabalho e Emprego do
 <tbody>
 <tr>
 <td style="text-align: center; width: 469px;" colspan="2">
-<p>33&ordf; Aula Pr&aacute;tica: Liga&ccedil;&atilde;o Tri&acirc;ngulo Desequilibrado com Imped&acirc;ncia na Linha</p>
+<p>33&ordf; Aula Pr&aacute;tica:  Ligação Triângulo Desequilibrado</p>
 </td>
 </tr>
 <tr>
@@ -770,7 +770,7 @@ A Norma Regulamentadora nº 10 emitida pelo Ministério do Trabalho e Emprego do
 <tbody>
 <tr>
 <td style="text-align: center; width: 469px;" colspan="2">
-<p>34&ordf; Aula Pr&aacute;tica: Liga&ccedil;&atilde;o Estrela Desequilibrado com Imped&acirc;ncia na Linha</p>
+<p>34&ordf; Aula Pr&aacute;tica: Ligação Estrela Desequilibrado a 3 fios </p>
 </td>
 </tr>
 <tr>
@@ -787,7 +787,7 @@ A Norma Regulamentadora nº 10 emitida pelo Ministério do Trabalho e Emprego do
 <tbody>
 <tr>
 <td style="text-align: center; width: 469px;" colspan="2">
-<p>35&ordf; Aula Pr&aacute;tica: Liga&ccedil;&atilde;o Estrela e Tri&acirc;ngulo Equilibrado em paralelo na rede</p>
+<p>35&ordf; Aula Pr&aacute;tica: Ligação Triângulo Desequilibrado com Impedância na Linha </p>
 </td>
 </tr>
 <tr>
