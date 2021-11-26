@@ -736,7 +736,7 @@ A Norma Regulamentadora nº 10 emitida pelo Ministério do Trabalho e Emprego do
 <tbody>
 <tr>
 <td style="text-align: center; width: 469px;" colspan="2">
-<p>32&ordf; Aula Pr&aacute;tica: Liga&ccedil;&atilde;o Estrela Desequilibrado a 3 fios</p>
+<p>32&ordf; Aula Pr&aacute;tica: Liga&ccedil;&atilde;o Estrela Desequilibrado a 4 fios</p>
 </td>
 </tr>
 <tr>
