@@ -199,7 +199,7 @@ A Norma Regulamentadora nº 10 emitida pelo Ministério do Trabalho e Emprego do
 </ul>
 
 # Painel Elétrico da Bancada
-<td style="width: 50%;"><img src="https://github.com/Epaminondaslage/Lab-Circuitos-Eletricos/blob/main/img/bancada.jpg" width="50%" /></td>
+<td style="width: 50%;"><img src="https://github.com/Epaminondaslage/Lab-Circuitos-Eletricos/blob/main/img/bancada.png" width="50%" /></td>
 
 # Conteúdo das Aulas Práticas
 <table style="height: 164px; width: 485px;" border="1">
