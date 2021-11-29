@@ -188,14 +188,18 @@ A Norma Regulamentadora nº 10 emitida pelo Ministério do Trabalho e Emprego do
 <ul>
 <li><p>Alicate Wattímetro Digital - MINIPA-ET-4091. Clique <a href="https://github.com/Epaminondaslage/Lab-Circuitos-Eletricos/blob/main/img/ET-4091-1100-BR.pdf">aqui</a> para baixar o manual de utilização.</p></li>
 </ul>
-<td style="width: 20%;"><img src="https://github.com/Epaminondaslage/Lab-Circuitos-Eletricos/blob/main/img/equipam 1.png" width="20%" /></td>
+<td style="width: 30%;"><img src="https://github.com/Epaminondaslage/Lab-Circuitos-Eletricos/blob/main/img/equipam 1.png" width="30%" /></td>
 <ul>
 <li><p>Armários contendo fontes de CC, resistores, bobinas, reostatos.</p></li>
 </ul>
-
+</ul>
+<td style="width: 20%;"><img src="https://github.com/Epaminondaslage/Lab-Circuitos-Eletricos/blob/main/img/equipam 2.jpg" width="20%" /></td>
+<ul>
+<li><p>Armário contendo capacitores e instrumentos analógicos.</p></li>
+</ul>
 
 # Painel Elétrico da Bancada
-<td style="width: 50%;"><img src="https://github.com/Epaminondaslage/Lab-Circuitos-Eletricos/blob/main/img/bancada.jpg" width="50%" /></td>
+<td style="width: 50%;"><img src="https://github.com/Epaminondaslage/Lab-Circuitos-Eletricos/blob/main/img/bancada.png" width="50%" /></td>
 
 # Conteúdo das Aulas Práticas
 <table style="height: 164px; width: 485px;" border="1">
@@ -447,6 +451,10 @@ A Norma Regulamentadora nº 10 emitida pelo Ministério do Trabalho e Emprego do
 <td style="width: 96px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140449751-0802cbdb-eabc-42ec-8b9d-99b850d8f7b3.png" alt="" width="39" height="39" /></td>
 <td style="text-align: center; width: 373px;">&nbsp;<a href="https://docs.google.com/document/d/1XkGVtEFKp5RwZvUs0vodDyKqw9UzbZAX/edit?usp=sharing&amp;ouid=101750793150395365396&amp;rtpof=true&amp;sd=true">Guia de Aula</a></td>
 </tr>
+ <tr>
+<td style="width: 96px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140449751-0802cbdb-eabc-42ec-8b9d-99b850d8f7b3.png" alt="" width="39" height="39" /></td>
+<td style="text-align: center; width: 373px;">&nbsp;<a href="https://docs.google.com/document/d/1yBOSdGnp9GLFGNZS7gdMI1AqpDBGq8vM/edit?usp=sharing&ouid=101750793150395365396&rtpof=true&sd=true">Levantamento de dados práticos para montagem do relatório</a></td>
+</tr>
 <tr>
 <td style="width: 96px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140448624-934b6009-92b1-464c-932d-9b15b100530e.png" alt="" width="30" height="39" /></td>
 <td style="text-align: center; width: 373px;"><a href="https://drive.google.com/file/d/1RN3LS_YEI7xiCN_YH3CzL7tclGXvHRRH/view?usp=sharing">Slides da Aula</a></td>
@@ -505,11 +513,15 @@ A Norma Regulamentadora nº 10 emitida pelo Ministério do Trabalho e Emprego do
 </tr>
 <tr>
 <td style="width: 96px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140449751-0802cbdb-eabc-42ec-8b9d-99b850d8f7b3.png" alt="" width="39" height="39" /></td>
-<td style="text-align: center; width: 373px;">&nbsp;<a href="https://docs.google.com/document/d/1x6GieTi3nclLl_uAdFT4mmpbV3vBQDLn/edit?usp=sharing&amp;ouid=101750793150395365396&amp;rtpof=true&amp;sd=true">Guia de Aula</a></td>
+<td style="text-align: center; width: 373px;">&nbsp;<a href="https://docs.google.com/document/d/1OcGk4HC5Md8U_FY_wCUPb4fH4gIfSQsW/edit?usp=sharing&ouid=101750793150395365396&rtpof=true&sd=true">Guia de Aula</a></td>
 </tr>
 <tr>
 <td style="width: 96px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140448624-934b6009-92b1-464c-932d-9b15b100530e.png" alt="" width="30" height="39" /></td>
-<td style="text-align: center; width: 373px;"><a href="https://drive.google.com/file/d/1VtRcw0OVZN7nEPpzcXWx1AcGvimuLG2J/view?usp=sharing">Slides da aula</a></td>
+<td style="text-align: center; width: 373px;"><a href="https://drive.google.com/file/d/1sBNje5byRhXfZZuSzM-7vRu05DipG6BF/view?usp=sharing">Slides da aula</a></td>
+</tr>
+<tr>
+<td style="width: 96px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140448624-934b6009-92b1-464c-932d-9b15b100530e.png" alt="" width="30" height="39" /></td>
+<td style="text-align: center; width: 373px;"><a href="https://drive.google.com/file/d/10dHGxDO74CdbxnocBfidNqf-JT3PJT8W/view?usp=sharing">Revisão: Números Complexos</a></td>
 </tr>
 </tbody>
 </table>
@@ -520,11 +532,11 @@ A Norma Regulamentadora nº 10 emitida pelo Ministério do Trabalho e Emprego do
 </tr>
 <tr>
 <td style="width: 96px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140449751-0802cbdb-eabc-42ec-8b9d-99b850d8f7b3.png" alt="" width="39" height="39" /></td>
-<td style="text-align: center; width: 373px;">&nbsp;<a href="https://docs.google.com/document/d/1dnYqUdxNG6hRErwgxySUIJo_aGDlgFKU/edit?usp=sharing&amp;ouid=101750793150395365396&amp;rtpof=true&amp;sd=true">Guia de Aula</a></td>
+<td style="text-align: center; width: 373px;">&nbsp;<a href="https://docs.google.com/document/d/1VbRvvhpUGktB3QWQZWbVe6Bo14yxIS4c/edit?usp=sharing&ouid=101750793150395365396&rtpof=true&sd=true">Guia de Aula</a></td>
 </tr>
 <tr>
 <td style="width: 96px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140448624-934b6009-92b1-464c-932d-9b15b100530e.png" alt="" width="30" height="39" /></td>
-<td style="text-align: center; width: 373px;"><a href="https://github.com/Epaminondaslage/Lab-Circuitos-Eletricos/blob/main/img/Aula%20em%20desenvolvimento.pdf">Slides da aula em desenvolvimento</a></td>
+<td style="text-align: center; width: 373px;"><a href="https://drive.google.com/file/d/1nl2whFQ1YTSdFLzx-zpBI--gu_j8kP4V/view?usp=sharing">Slides da aula</a></td>
 </tr>
 </tbody>
 </table>
@@ -535,11 +547,11 @@ A Norma Regulamentadora nº 10 emitida pelo Ministério do Trabalho e Emprego do
 </tr>
 <tr>
 <td style="width: 96px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140449751-0802cbdb-eabc-42ec-8b9d-99b850d8f7b3.png" alt="" width="39" height="39" /></td>
-<td style="text-align: center; width: 373px;">&nbsp;<a href="https://docs.google.com/document/d/1dhoZfbdYb0WSB-9ZHCxzFEwvyp0DXnY9/edit?usp=sharing&amp;ouid=101750793150395365396&amp;rtpof=true&amp;sd=true">Guia de Aula</a></td>
+<td style="text-align: center; width: 373px;">&nbsp;<a href="https://docs.google.com/document/d/1XPNvwdtahFpw-KPK-agXPP4vlWyp4K6r/edit?usp=sharing&ouid=101750793150395365396&rtpof=true&sd=true">Guia de Aula</a></td>
 </tr>
 <tr>
 <td style="width: 96px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140448624-934b6009-92b1-464c-932d-9b15b100530e.png" alt="" width="30" height="39" /></td>
-<td style="text-align: center; width: 373px;"><a href="https://github.com/Epaminondaslage/Lab-Circuitos-Eletricos/blob/main/img/Aula%20em%20desenvolvimento.pdf">Slides da aula em desenvolvimento</a></td>
+<td style="text-align: center; width: 373px;"><a href="https://drive.google.com/file/d/1dDW8JZyyMsdQVzYoIoefLYEBFUxGkHUU/view?usp=sharing">Slides da aula</a></td>
 </tr>
 </tbody>
 </table>
@@ -554,7 +566,7 @@ A Norma Regulamentadora nº 10 emitida pelo Ministério do Trabalho e Emprego do
 </tr>
 <tr>
 <td style="width: 96px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140448624-934b6009-92b1-464c-932d-9b15b100530e.png" alt="" width="30" height="39" /></td>
-<td style="text-align: center; width: 373px;"><a href="https://github.com/Epaminondaslage/Lab-Circuitos-Eletricos/blob/main/img/Aula%20em%20desenvolvimento.pdf">Slides da aula em desenvolvimento</a></td>
+<td style="text-align: center; width: 373px;"><a href="https://drive.google.com/file/d/18ag7K5aaj3sl1jYlIuWxdzLAVemnv2pg/view?usp=sharing">Slides da aula</a></td>
 </tr>
 </tbody>
 </table>
@@ -571,7 +583,7 @@ A Norma Regulamentadora nº 10 emitida pelo Ministério do Trabalho e Emprego do
 </tr>
 <tr>
 <td style="width: 96px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140448624-934b6009-92b1-464c-932d-9b15b100530e.png" alt="" width="30" height="39" /></td>
-<td style="text-align: center; width: 373px;"><a href="https://github.com/Epaminondaslage/Lab-Circuitos-Eletricos/blob/main/img/Aula%20em%20desenvolvimento.pdf">Slides da aula em desenvolvimento</a></td>
+<td style="text-align: center; width: 373px;"><a href="https://drive.google.com/file/d/1EjG92oRnPLN5NeScjBVCB7VMTytSlCew/view?usp=sharing">Slides da aula</a></td>
 </tr>
 </tbody>
 </table>
@@ -586,7 +598,7 @@ A Norma Regulamentadora nº 10 emitida pelo Ministério do Trabalho e Emprego do
 </tr>
 <tr>
 <td style="width: 96px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140448624-934b6009-92b1-464c-932d-9b15b100530e.png" alt="" width="30" height="39" /></td>
-<td style="text-align: center; width: 373px;"><a href="https://github.com/Epaminondaslage/Lab-Circuitos-Eletricos/blob/main/img/Aula%20em%20desenvolvimento.pdf">Slides da aula em desenvolvimento</a></td>
+<td style="text-align: center; width: 373px;"><a href="https://drive.google.com/file/d/15W7PgyRRapN0CmQ-wyr_Fhey4KTVlLC-/view?usp=sharing">Slides da aula</a></td>
 </tr>
 </tbody>
 </table>
@@ -597,11 +609,11 @@ A Norma Regulamentadora nº 10 emitida pelo Ministério do Trabalho e Emprego do
 </tr>
 <tr>
 <td style="width: 96px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140449751-0802cbdb-eabc-42ec-8b9d-99b850d8f7b3.png" alt="" width="39" height="39" /></td>
-<td style="text-align: center; width: 373px;">&nbsp;<a href="https://docs.google.com/document/d/1d-1rJdbkM1Q1qquP-2dvSJK7LVVESFiZ/edit?usp=sharing&amp;ouid=101750793150395365396&amp;rtpof=true&amp;sd=true">Guia de Aula</a></td>
+<td style="text-align: center; width: 373px;">&nbsp;<a href="https://docs.google.com/document/d/1xYJ0Mc3WowNZxk5Y-VRqjJFNVowzZdyZ/edit?usp=sharing&ouid=101750793150395365396&rtpof=true&sd=true">Guia de Aula</a></td>
 </tr>
 <tr>
 <td style="width: 96px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140448624-934b6009-92b1-464c-932d-9b15b100530e.png" alt="" width="30" height="39" /></td>
-<td style="text-align: center; width: 373px;"><a href="https://github.com/Epaminondaslage/Lab-Circuitos-Eletricos/blob/main/img/Aula%20em%20desenvolvimento.pdf">Slides da aula em desenvolvimento</a></td>
+<td style="text-align: center; width: 373px;"><a href="https://drive.google.com/file/d/1tAkmmMrpS3aG6t82RCHZcTj3hdUMKZH6/view?usp=sharing">Slides da aula</a></td>
 </tr>
 </tbody>
 </table>
@@ -612,11 +624,11 @@ A Norma Regulamentadora nº 10 emitida pelo Ministério do Trabalho e Emprego do
 </tr>
 <tr>
 <td style="width: 96px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140449751-0802cbdb-eabc-42ec-8b9d-99b850d8f7b3.png" alt="" width="39" height="39" /></td>
-<td style="text-align: center; width: 373px;">&nbsp;<a href="https://docs.google.com/document/d/1qmF0wSD9SatWIhxg08LVJCC1sSIcIKeE/edit?usp=sharing&amp;ouid=101750793150395365396&amp;rtpof=true&amp;sd=true">Guia de Aula</a></td>
+<td style="text-align: center; width: 373px;">&nbsp;<a href="https://docs.google.com/document/d/1lTnWD2yRhm8MkaEjNRkFoaWCDwdhZx65/edit?usp=sharing&ouid=101750793150395365396&rtpof=true&sd=true">Guia de Aula</a></td>
 </tr>
 <tr>
 <td style="width: 96px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140448624-934b6009-92b1-464c-932d-9b15b100530e.png" alt="" width="30" height="39" /></td>
-<td style="text-align: center; width: 373px;"><a href="https://github.com/Epaminondaslage/Lab-Circuitos-Eletricos/blob/main/img/Aula%20em%20desenvolvimento.pdf">Slides da aula em desenvolvimento</a></td>
+<td style="text-align: center; width: 373px;"><a href="https://drive.google.com/file/d/10GSb8Hr4Im1hV6JT6-JeJnKQVxR4rmMe/view?usp=sharing">Slides da aula</a></td>
 </tr>
 </tbody>
 </table>
@@ -627,11 +639,11 @@ A Norma Regulamentadora nº 10 emitida pelo Ministério do Trabalho e Emprego do
 </tr>
 <tr>
 <td style="width: 96px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140449751-0802cbdb-eabc-42ec-8b9d-99b850d8f7b3.png" alt="" width="39" height="39" /></td>
-<td style="text-align: center; width: 373px;">&nbsp;<a href="https://docs.google.com/document/d/1lhsMszKIRhlUyqQ7Cupia7ZfhzX8tOIQ/edit?usp=sharing&amp;ouid=101750793150395365396&amp;rtpof=true&amp;sd=true">Guia de Aula</a></td>
+<td style="text-align: center; width: 373px;">&nbsp;<a href="https://docs.google.com/document/d/1tVjbuBZtVuSSdHvfnpfNk26PrCB2XmLE/edit?usp=sharing&ouid=101750793150395365396&rtpof=true&sd=true">Guia de Aula</a></td>
 </tr>
 <tr>
 <td style="width: 96px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140448624-934b6009-92b1-464c-932d-9b15b100530e.png" alt="" width="30" height="39" /></td>
-<td style="text-align: center; width: 373px;"><a href="https://github.com/Epaminondaslage/Lab-Circuitos-Eletricos/blob/main/img/Aula%20em%20desenvolvimento.pdf">Slides da aula em desenvolvimento</a></td>
+<td style="text-align: center; width: 373px;"><a href="https://drive.google.com/file/d/1RIZcrJ-g7BY4F5X1Rc2vYnVolpROXljJ/view?usp=sharing">Slides da aula</a></td>
 </tr>
 </tbody>
 </table>
@@ -639,7 +651,7 @@ A Norma Regulamentadora nº 10 emitida pelo Ministério do Trabalho e Emprego do
 <tbody>
 <tr>
 <td style="text-align: center; width: 469px;" colspan="2">
-<p>27&ordf; Aula Pr&aacute;tica: An&aacute;lise de Redes em Circuito RLC usando Tens&atilde;o Nodal</p>
+<p>27&ordf; Aula Pr&aacute;tica: Análise de Redes em Circuito RLC usando Corrente Laço</p>
 </td>
 </tr>
 <tr>
@@ -648,7 +660,7 @@ A Norma Regulamentadora nº 10 emitida pelo Ministério do Trabalho e Emprego do
 </tr>
 <tr>
 <td style="width: 96px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140448624-934b6009-92b1-464c-932d-9b15b100530e.png" alt="" width="30" height="39" /></td>
-<td style="text-align: center; width: 373px;"><a href="https://github.com/Epaminondaslage/Lab-Circuitos-Eletricos/blob/main/img/Aula%20em%20desenvolvimento.pdf">Slides da aula em desenvolvimento</a></td>
+<td style="text-align: center; width: 373px;"><a href="https://drive.google.com/file/d/1tLCgc4sOSKH5VqV70k-W12qu7alSwHTa/view?usp=sharing">Slides da aula</a></td>
 </tr>
 </tbody>
 </table>
@@ -661,11 +673,11 @@ A Norma Regulamentadora nº 10 emitida pelo Ministério do Trabalho e Emprego do
 </tr>
 <tr>
 <td style="width: 96px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140449751-0802cbdb-eabc-42ec-8b9d-99b850d8f7b3.png" alt="" width="39" height="39" /></td>
-<td style="text-align: center; width: 373px;">&nbsp;<a href="https://docs.google.com/document/d/15ZC1JXt6atjlsUdKMz6uXU0xg9tLJ-_p/edit?usp=sharing&amp;ouid=101750793150395365396&amp;rtpof=true&amp;sd=true">Guia de Aula</a></td>
+<td style="text-align: center; width: 373px;">&nbsp;<a href="https://docs.google.com/document/d/1n0IG4matUhOb_EusiaBelG76axnlUugn/edit?usp=sharing&ouid=101750793150395365396&rtpof=true&sd=true">Guia de Aula</a></td>
 </tr>
 <tr>
 <td style="width: 96px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140448624-934b6009-92b1-464c-932d-9b15b100530e.png" alt="" width="30" height="39" /></td>
-<td style="text-align: center; width: 373px;"><a href="https://github.com/Epaminondaslage/Lab-Circuitos-Eletricos/blob/main/img/Aula%20em%20desenvolvimento.pdf">Slides da aula em desenvolvimento</a></td>
+<td style="text-align: center; width: 373px;"><a href="https://drive.google.com/file/d/14XA9GFaZIysaMqWLNwCPYJgg5Fn_8BS1/view?usp=sharing">Slides da aula</a></td>
 </tr>
 </tbody>
 </table>
@@ -678,11 +690,11 @@ A Norma Regulamentadora nº 10 emitida pelo Ministério do Trabalho e Emprego do
 </tr>
 <tr>
 <td style="width: 96px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140449751-0802cbdb-eabc-42ec-8b9d-99b850d8f7b3.png" alt="" width="39" height="39" /></td>
-<td style="text-align: center; width: 373px;">&nbsp;<a href="https://docs.google.com/document/d/1-5EWV4rI7mADln57cgn_0tOzkAzPszed/edit?usp=sharing&amp;ouid=101750793150395365396&amp;rtpof=true&amp;sd=true">Guia de Aula</a></td>
+<td style="text-align: center; width: 373px;">&nbsp;<a href="https://docs.google.com/document/d/1VxGXN2rJBCU3qizxz-JSujKgDwK0TDIr/edit?usp=sharing&ouid=101750793150395365396&rtpof=true&sd=true">Guia de Aula</a></td>
 </tr>
 <tr>
 <td style="width: 96px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140448624-934b6009-92b1-464c-932d-9b15b100530e.png" alt="" width="30" height="39" /></td>
-<td style="text-align: center; width: 373px;"><a href="https://github.com/Epaminondaslage/Lab-Circuitos-Eletricos/blob/main/img/Aula%20em%20desenvolvimento.pdf">Slides da aula em desenvolvimento</a></td>
+<td style="text-align: center; width: 373px;"><a href="https://drive.google.com/file/d/1O6JkAwXL8XCkMp1iblYpRhbtSo4cDIDe/view?usp=sharing">Slides da aula</a></td>
 </tr>
 </tbody>
 </table>
@@ -699,7 +711,7 @@ A Norma Regulamentadora nº 10 emitida pelo Ministério do Trabalho e Emprego do
 </tr>
 <tr>
 <td style="width: 96px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140448624-934b6009-92b1-464c-932d-9b15b100530e.png" alt="" width="30" height="39" /></td>
-<td style="text-align: center; width: 373px;"><a href="https://github.com/Epaminondaslage/Lab-Circuitos-Eletricos/blob/main/img/Aula%20em%20desenvolvimento.pdf">Slides da aula em desenvolvimento</a></td>
+<td style="text-align: center; width: 373px;"><a href="https://drive.google.com/file/d/1uBDtP8IsPgdxdp8G_yht7vUsLh7pI-dd/view?usp=sharing">Slides da aula</a></td>
 </tr>
 </tbody>
 </table>
@@ -707,7 +719,7 @@ A Norma Regulamentadora nº 10 emitida pelo Ministério do Trabalho e Emprego do
 <tbody>
 <tr>
 <td style="text-align: center; width: 469px;" colspan="2">
-<p>31&ordf; Aula Pr&aacute;tica: Liga&ccedil;&atilde;o Tri&acirc;ngulo Desequilibrado</p>
+<p>31&ordf; Aula Pr&aacute;tica: Liga&ccedil;&atilde;o Tri&acirc;ngulo Equilibrado</p>
 </td>
 </tr>
 <tr>
@@ -716,7 +728,7 @@ A Norma Regulamentadora nº 10 emitida pelo Ministério do Trabalho e Emprego do
 </tr>
 <tr>
 <td style="width: 96px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140448624-934b6009-92b1-464c-932d-9b15b100530e.png" alt="" width="30" height="39" /></td>
-<td style="text-align: center; width: 373px;"><a href="https://github.com/Epaminondaslage/Lab-Circuitos-Eletricos/blob/main/img/Aula%20em%20desenvolvimento.pdf">Slides da aula em desenvolvimento</a></td>
+<td style="text-align: center; width: 373px;"><a href="https://drive.google.com/file/d/1_j7CP-vGqErRmthiNzUqryCj4-X1QIGV/view?usp=sharing">Slides da aula </a></td>
 </tr>
 </tbody>
 </table>
@@ -724,7 +736,7 @@ A Norma Regulamentadora nº 10 emitida pelo Ministério do Trabalho e Emprego do
 <tbody>
 <tr>
 <td style="text-align: center; width: 469px;" colspan="2">
-<p>32&ordf; Aula Pr&aacute;tica: Liga&ccedil;&atilde;o Estrela Desequilibrado a 3 fios</p>
+<p>32&ordf; Aula Pr&aacute;tica: Liga&ccedil;&atilde;o Estrela Desequilibrado a 4 fios</p>
 </td>
 </tr>
 <tr>
@@ -733,7 +745,7 @@ A Norma Regulamentadora nº 10 emitida pelo Ministério do Trabalho e Emprego do
 </tr>
 <tr>
 <td style="width: 96px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140448624-934b6009-92b1-464c-932d-9b15b100530e.png" alt="" width="30" height="39" /></td>
-<td style="text-align: center; width: 373px;"><a href="https://github.com/Epaminondaslage/Lab-Circuitos-Eletricos/blob/main/img/Aula%20em%20desenvolvimento.pdf">Slides da aula em desenvolvimento</a></td>
+<td style="text-align: center; width: 373px;"><a href="https://drive.google.com/file/d/1LQFizK-JCwb9V4bOCo_VMWE0yq_wY3p3/view?usp=sharing">Slides da aula</a></td>
 </tr>
 </tbody>
 </table>
@@ -741,7 +753,7 @@ A Norma Regulamentadora nº 10 emitida pelo Ministério do Trabalho e Emprego do
 <tbody>
 <tr>
 <td style="text-align: center; width: 469px;" colspan="2">
-<p>33&ordf; Aula Pr&aacute;tica: Liga&ccedil;&atilde;o Tri&acirc;ngulo Desequilibrado com Imped&acirc;ncia na Linha</p>
+<p>33&ordf; Aula Pr&aacute;tica:  Ligação Triângulo Desequilibrado</p>
 </td>
 </tr>
 <tr>
@@ -758,7 +770,7 @@ A Norma Regulamentadora nº 10 emitida pelo Ministério do Trabalho e Emprego do
 <tbody>
 <tr>
 <td style="text-align: center; width: 469px;" colspan="2">
-<p>34&ordf; Aula Pr&aacute;tica: Liga&ccedil;&atilde;o Estrela Desequilibrado com Imped&acirc;ncia na Linha</p>
+<p>34&ordf; Aula Pr&aacute;tica: Ligação Estrela Desequilibrado a 3 fios </p>
 </td>
 </tr>
 <tr>
@@ -775,7 +787,7 @@ A Norma Regulamentadora nº 10 emitida pelo Ministério do Trabalho e Emprego do
 <tbody>
 <tr>
 <td style="text-align: center; width: 469px;" colspan="2">
-<p>35&ordf; Aula Pr&aacute;tica: Liga&ccedil;&atilde;o Estrela e Tri&acirc;ngulo Equilibrado em paralelo na rede</p>
+<p>35&ordf; Aula Pr&aacute;tica: Ligação Triângulo Desequilibrado com Impedância na Linha </p>
 </td>
 </tr>
 <tr>
