@@ -728,7 +728,7 @@ A Norma Regulamentadora nº 10 emitida pelo Ministério do Trabalho e Emprego do
 </tr>
 <tr>
 <td style="width: 96px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140448624-934b6009-92b1-464c-932d-9b15b100530e.png" alt="" width="30" height="39" /></td>
-<td style="text-align: center; width: 373px;"><a href="https://drive.google.com/file/d/1_j7CP-vGqErRmthiNzUqryCj4-X1QIGV/view?usp=sharing">Slides da aula </a></td>
+<td style="text-align: center; width: 373px;"><a href="https://drive.google.com/file/d/1H7SLBa7kHzCNE_S9CEYWQuWNqLZyi3JV/view?usp=sharing">Slides da aula </a></td>
 </tr>
 </tbody>
 </table>
@@ -745,7 +745,7 @@ A Norma Regulamentadora nº 10 emitida pelo Ministério do Trabalho e Emprego do
 </tr>
 <tr>
 <td style="width: 96px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140448624-934b6009-92b1-464c-932d-9b15b100530e.png" alt="" width="30" height="39" /></td>
-<td style="text-align: center; width: 373px;"><a href="https://drive.google.com/file/d/1LQFizK-JCwb9V4bOCo_VMWE0yq_wY3p3/view?usp=sharing">Slides da aula</a></td>
+<td style="text-align: center; width: 373px;"><a href="https://drive.google.com/file/d/179vijHvQMUgLpC_Lx36fs9OTlrtFB3Cl/view?usp=sharing">Slides da aula</a></td>
 </tr>
 </tbody>
 </table>
@@ -762,7 +762,7 @@ A Norma Regulamentadora nº 10 emitida pelo Ministério do Trabalho e Emprego do
 </tr>
 <tr>
 <td style="width: 96px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140448624-934b6009-92b1-464c-932d-9b15b100530e.png" alt="" width="30" height="39" /></td>
-<td style="text-align: center; width: 373px;"><a href="https://github.com/Epaminondaslage/Lab-Circuitos-Eletricos/blob/main/img/Aula%20em%20desenvolvimento.pdf">Slides da aula em desenvolvimento</a></td>
+<td style="text-align: center; width: 373px;"><a href="https://drive.google.com/file/d/1aLwnvR7bwrjJA9Af9dsLNwLkZ8xYhQHG/view?usp=sharing">Slides da aula</a></td>
 </tr>
 </tbody>
 </table>
