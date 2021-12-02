@@ -517,7 +517,7 @@ A Norma Regulamentadora nº 10 emitida pelo Ministério do Trabalho e Emprego do
 </tr>
 <tr>
 <td style="width: 96px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140448624-934b6009-92b1-464c-932d-9b15b100530e.png" alt="" width="30" height="39" /></td>
-<td style="text-align: center; width: 373px;"><a href="https://drive.google.com/file/d/1sBNje5byRhXfZZuSzM-7vRu05DipG6BF/view?usp=sharing">Slides da aula</a></td>
+<td style="text-align: center; width: 373px;"><a href="https://drive.google.com/file/d/1Ug4ilAVkm3EbrNGbSl8fLOOGM-7cbLsn/view?usp=sharing">Slides da aula</a></td>
 </tr>
 <tr>
 <td style="width: 96px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140448624-934b6009-92b1-464c-932d-9b15b100530e.png" alt="" width="30" height="39" /></td>
@@ -536,7 +536,7 @@ A Norma Regulamentadora nº 10 emitida pelo Ministério do Trabalho e Emprego do
 </tr>
 <tr>
 <td style="width: 96px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140448624-934b6009-92b1-464c-932d-9b15b100530e.png" alt="" width="30" height="39" /></td>
-<td style="text-align: center; width: 373px;"><a href="https://drive.google.com/file/d/1nl2whFQ1YTSdFLzx-zpBI--gu_j8kP4V/view?usp=sharing">Slides da aula</a></td>
+<td style="text-align: center; width: 373px;"><a href="https://drive.google.com/file/d/1rypmoFAeNQoVy7jREsCPngP8cMn7fqF4/view?usp=sharing">Slides da aula</a></td>
 </tr>
 </tbody>
 </table>
@@ -551,7 +551,7 @@ A Norma Regulamentadora nº 10 emitida pelo Ministério do Trabalho e Emprego do
 </tr>
 <tr>
 <td style="width: 96px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140448624-934b6009-92b1-464c-932d-9b15b100530e.png" alt="" width="30" height="39" /></td>
-<td style="text-align: center; width: 373px;"><a href="https://drive.google.com/file/d/1dDW8JZyyMsdQVzYoIoefLYEBFUxGkHUU/view?usp=sharing">Slides da aula</a></td>
+<td style="text-align: center; width: 373px;"><a href="https://drive.google.com/file/d/1J6975vwmqCgwfbkA9bgR-oYbKDXz9B9v/view?usp=sharing">Slides da aula</a></td>
 </tr>
 </tbody>
 </table>
