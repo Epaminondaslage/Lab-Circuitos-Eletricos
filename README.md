@@ -792,11 +792,11 @@ A Norma Regulamentadora nº 10 emitida pelo Ministério do Trabalho e Emprego do
 </tr>
 <tr>
 <td style="width: 96px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140449751-0802cbdb-eabc-42ec-8b9d-99b850d8f7b3.png" alt="" width="39" height="39" /></td>
-<td style="text-align: center; width: 373px;">&nbsp;<a href="https://docs.google.com/document/d/1mDtNVFLAnM5_Pv22Z5JpZcp-rh5TcVxm/edit?usp=sharing&amp;ouid=101750793150395365396&amp;rtpof=true&amp;sd=true">Guia de Aula</a></td>
+<td style="text-align: center; width: 373px;">&nbsp;<a href="https://docs.google.com/document/d/1Z8nD3f0buMLVEniAAVs5qPpc9gmLlpJw/edit?usp=sharing&ouid=101750793150395365396&rtpof=true&sd=true">Guia de Aula</a></td>
 </tr>
 <tr>
 <td style="width: 96px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140448624-934b6009-92b1-464c-932d-9b15b100530e.png" alt="" width="30" height="39" /></td>
-<td style="text-align: center; width: 373px;"><a href="https://github.com/Epaminondaslage/Lab-Circuitos-Eletricos/blob/main/img/Aula%20em%20desenvolvimento.pdf">Slides da aula em desenvolvimento</a></td>
+<td style="text-align: center; width: 373px;"><a href="https://drive.google.com/file/d/1UDhS4QUHoLavxPUS6A1VIlBXcSOuTCiM/view?usp=sharing">Slides da aula</a></td>
 </tr>
 </tbody>
 </table>
