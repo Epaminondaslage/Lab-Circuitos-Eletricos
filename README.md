@@ -4,7 +4,8 @@
 <p><strong><span style="color: #0000ff;">Disciplina Prática de Laboratório de Circuitos Elétricos</span></strong></p>
 <p><strong><span style="color: #0000ff;">Prof Epaminondas Lage</span></strong></p>
 <a href="http://lattes.cnpq.br/7787341723868111"> Currículo Lattes LAGE, E. S.</a> 
-
+Agradecimento ao Prof Célio Sérgio Vieira pela elaboração do Guia de Aulas Práticas da Disciplina Prática de Laboratório de Eletrotécnica
+<a href="http://lattes.cnpq.br/4432862799465667"> Currículo Lattes VIEIRA, C. S.</a> 
 # Regras básicas de segurança do Laboratório de Circuitos Elétricos
 
 A palavra “laboratório” significa labor = trabalho + oratium (ou oratorium) = local de reflexão. Portanto, laboratório refere-se a um local de trabalho e concentração, não necessariamente perigoso, desde que sejam tomadas certas precauções.
