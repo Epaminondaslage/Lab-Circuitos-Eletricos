@@ -5,7 +5,7 @@
 <p><strong><span style="color: #0000ff;">Prof Epaminondas Lage</span></strong></p>
 <a href="http://lattes.cnpq.br/7787341723868111"> Currículo Lattes LAGE, E. S.</a> 
 </p>
-<p><strong><span style="color: #0000ff;">Agradecimento ao Prof Célio Sérgio Vieira pela elaboração do Guia de Aulas Práticas da Disciplina Prática de Laboratório de Eletrotécnica</p>
+<p><strong><span style="color: #0000ff;">Agradecimento ao Prof Célio Sérgio Vieira pela elaboração do Guia de Aulas Práticas da Disciplina Prática de Laboratório de Eletrotécnica</span></strong></p>
 <a href="http://lattes.cnpq.br/4432862799465667"> Currículo Lattes VIEIRA, C. S.</a> 
  </p>
 # Regras básicas de segurança do Laboratório de Circuitos Elétricos
