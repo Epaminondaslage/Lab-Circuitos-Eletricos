@@ -841,3 +841,4 @@ A Norma Regulamentadora nº 10 emitida pelo Ministério do Trabalho e Emprego do
 
 # Simbologia elétrica aplicada na disciplina
 ___<td style="width: 60%;"><img src="https://github.com/Epaminondaslage/Lab-Circuitos-Eletricos/blob/main/img/simbologia.png" width="60%" /></td>
+
