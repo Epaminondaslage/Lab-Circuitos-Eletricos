@@ -1,5 +1,6 @@
-
+<td style="width: 10%;">
     <img src="https://raw.githubusercontent.com/Epaminondaslage/Lab-IoT-ELE-CEFET/master/img/Logo_CEFET-MG.png" width="20%" />
+</td>
 
 <p><strong><span style="color: #0000ff;">Departamento de Engenharia Elétrica - CEFETMG</span></strong></p>
 <p><strong><span style="color: #0000ff;">Coordenação do Curso de Eletrotécnica</span></strong></p>
@@ -57,7 +58,7 @@ A Norma Regulamentadora nº 10 emitida pelo Ministério do Trabalho e Emprego do
 <table style="width: 461px;" border="1">
 <tbody>
 <tr>
-
+<td style="text-align: center; width: 451px;">
 <div class="page" title="Page 4">
 <div class="layoutArea">
 <div class="column">
@@ -69,25 +70,25 @@ A Norma Regulamentadora nº 10 emitida pelo Ministério do Trabalho e Emprego do
 </div>
 </div>
 </div>
-
+</td>
 </tr>
 <tr>
-
+<td style="text-align: center; width: 451px;">
 <div class="page" title="Page 4">
 <div class="layoutArea">
 <div class="column">
 <p style="text-align: justify;"><strong>Falstad</strong></p>
 <p style="text-align: justify;"><strong><img style="display: block; margin-left: auto; margin-right: auto;" src="https://github.com/Epaminondaslage/Lab-Circuitos-Eletricos/blob/main/img/falstad.png" alt="https://github.com/Epaminondaslage/Lab-Circuitos-Eletricos/blob/main/img/falstad.png" width="166" height="166" /></strong></p>
 <p style="text-align: justify;">Circuit Simulator Applet (CSA), uma poderosa ferramenta que cont&eacute;m simula&ccedil;&otilde;es computacionais para experimentos de eletrodin&acirc;mica e trata-se de um software aberto, que possui uma interface gr&aacute;fica simples, mas com uma grande variedade de simula&ccedil;&otilde;es.</p>
-<p style="text-align: justify;"> <br />Nos meuns superiors encontram-se as ferramentas que v&atilde;o permitir alterar os par&acirc;metros da aplica&ccedil;&atilde;o, desenhar os circuitos, visualizar diversas simula&ccedil;&otilde;es j&aacute; prontas e at&eacute; mesmo exportar e importar projetos feitos no CSA. N&atilde;o existe  dificuldade em desenhar circuitos pr&oacute;prios da criatividade do usu&aacute;rio.</p>
+<p style="text-align: justify;">&nbsp;<br />Nos meuns superiors encontram-se as ferramentas que v&atilde;o permitir alterar os par&acirc;metros da aplica&ccedil;&atilde;o, desenhar os circuitos, visualizar diversas simula&ccedil;&otilde;es j&aacute; prontas e at&eacute; mesmo exportar e importar projetos feitos no CSA. N&atilde;o existe&nbsp; dificuldade em desenhar circuitos pr&oacute;prios da criatividade do usu&aacute;rio.</p>
 <p style="text-align: justify;">Link para utilizar :<a href="http://falstad.com/circuit/">http://falstad.com/circuit/</a></p>
 </div>
 </div>
 </div>
-
+</td>
 </tr>
 <tr>
-
+<td style="text-align: center; width: 451px;">
 <div class="page" title="Page 4">
 <div class="layoutArea">
 <div class="column">
@@ -99,7 +100,7 @@ A Norma Regulamentadora nº 10 emitida pelo Ministério do Trabalho e Emprego do
 </div>
 </div>
 </div>
-
+</td>
 </tr>
 </tbody>
 </table>
@@ -109,19 +110,19 @@ A Norma Regulamentadora nº 10 emitida pelo Ministério do Trabalho e Emprego do
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
-Disciplina: Laborat&oacute;rio de Eletrot&eacute;cnica
+<td style="width: 100%;">Disciplina: Laborat&oacute;rio de Eletrot&eacute;cnica</td>
 </tr>
 </tbody>
 </table>
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
-Carga hor&aacute;ria semanal: 2 horas‐aula
-Carga hor&aacute;ria total: 80 hora‐aula
+<td style="width: 50%;">Carga hor&aacute;ria semanal: 2 horas‐aula</td>
+<td style="width: 50%;">Carga hor&aacute;ria total: 80 hora‐aula</td>
 </tr>
 <tr>
-Série:2a
- 
+<td style="width: 50%;">Série:2a</td>
+<td style="width: 50%;">&nbsp;</td>
 </tr>
 </tbody>
 </table>
@@ -178,65 +179,65 @@ Série:2a
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
-<img width="300" alt="image" src="https://github.com/Epaminondaslage/Lab-Circuitos-Eletricos/blob/main/img/lab1.png">
-<img width="200" alt="image" src="https://github.com/Epaminondaslage/Lab-Circuitos-Eletricos/blob/main/img/predio%2019.jpg" >
-<img width="300" alt="image" src="https://github.com/Epaminondaslage/Lab-Circuitos-Eletricos/blob/main/img/lab2.jpg">
+<td style="width: 33.3333%; text-align: center;"><img width="300" alt="image" src="https://github.com/Epaminondaslage/Lab-Circuitos-Eletricos/blob/main/img/lab1.png"></td>
+<td style="width: 33.3333%; text-align: center;"><img width="200" alt="image" src="https://github.com/Epaminondaslage/Lab-Circuitos-Eletricos/blob/main/img/predio%2019.jpg" ></td>
+<td style="width: 33.3333%; text-align: center;"><img width="300" alt="image" src="https://github.com/Epaminondaslage/Lab-Circuitos-Eletricos/blob/main/img/lab2.jpg"></td>
 </tr>
 </tbody>
 </table>
 
 # Principais Instrumentos de Medidas
-<img src="https://github.com/Epaminondaslage/Lab-Circuitos-Eletricos/blob/main/img/fluke%20179.png" width="10%" />
+<td style="width: 10%;"><img src="https://raw.githubusercontent.com/Epaminondaslage/Lab-Circuitos-Eletricos/main/img/fluke%20179.png" width="10%" /></td>
 <ul>
 <li><p>Multímetro Fluke 179 ESFP True RMS. Clique <a href="https://github.com/Epaminondaslage/Lab-Circuitos-Eletricos/blob/main/img/manual_170.pdf">aqui</a> para baixar o manual de utilização.</p></li>
 </ul>
-<img src="https://github.com/Epaminondaslage/Lab-Circuitos-Eletricos/blob/main/img/minipa%204091.png" width="10%" />
+<td style="width: 10%;"><img src="https://raw.githubusercontent.com/Epaminondaslage/Lab-Circuitos-Eletricos/main/img/minipa%204091.png" width="10%" /></td>
 <ul>
 <li><p>Alicate Wattímetro Digital - MINIPA-ET-4091. Clique <a href="https://github.com/Epaminondaslage/Lab-Circuitos-Eletricos/blob/main/img/ET-4091-1100-BR.pdf">aqui</a> para baixar o manual de utilização.</p></li>
 </ul>
-<img src="https://github.com/Epaminondaslage/Lab-Circuitos-Eletricos/blob/main/img/equipam 1.png" width="30%" />
+<td style="width: 30%;"><img src="https://raw.githubusercontent.com/Epaminondaslage/Lab-Circuitos-Eletricos/main/img/equipam 1.png" width="30%" /></td>
 <ul>
 <li><p>Armários contendo fontes de CC, resistores, bobinas, reostatos.</p></li>
 </ul>
 </ul>
-<img src="https://github.com/Epaminondaslage/Lab-Circuitos-Eletricos/blob/main/img/equipam 2.jpg" width="20%" />
+<td style="width: 20%;"><img src="https://raw.githubusercontent.com/Epaminondaslage/Lab-Circuitos-Eletricos/main/img/equipam 2.jpg" width="20%" /></td>
 <ul>
 <li><p>Armário contendo capacitores e instrumentos analógicos.</p></li>
 </ul>
 
 # Painel Elétrico da Bancada
-<img src="https://github.com/Epaminondaslage/Lab-Circuitos-Eletricos/blob/main/img/bancada.png" width="50%" />
+<td style="width: 50%;"><img src="https://raw.githubusercontent.com/Epaminondaslage/Lab-Circuitos-Eletricos/main/img/bancada.png" width="50%" /></td>
 
 # Conteúdo das Aulas Práticas
 <table style="height: 164px; width: 485px;" border="1">
 <tbody>
 <tr>
-
+<td style="text-align: center; width: 469px;" colspan="2">
 <p>Aula Introdut&oacute;ria - Laborat&oacute;rio de Circuitos El&eacute;tricos </p>
-
+</td>
 </tr>
 <tr>
-<img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140448624-934b6009-92b1-464c-932d-9b15b100530e.png" alt="" width="30" height="39" />
- <a href="https://drive.google.com/file/d/1Jam5WOrMupbiF1XVdmIrHyqQD9K0u4-g/view?usp=sharing">Normas de uso do laboratório</a>
+<td style="width: 96px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140448624-934b6009-92b1-464c-932d-9b15b100530e.png" alt="" width="30" height="39" /></td>
+<td style="text-align: center; width: 373px;">&nbsp;<a href="https://drive.google.com/file/d/1Jam5WOrMupbiF1XVdmIrHyqQD9K0u4-g/view?usp=sharing">Normas de uso do laboratório</a></td>
 </tr>
 <tr>
-<img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140448624-934b6009-92b1-464c-932d-9b15b100530e.png" alt="" width="30" height="39" />
-<a href="https://drive.google.com/file/d/15-e8w66IDW6GQ7uLKFE-W6ClPJs2jThm/view?usp=sharing">Conceitos Fundamentais de instumentos de medidas el&eacute;tricas</a>
+<td style="width: 96px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140448624-934b6009-92b1-464c-932d-9b15b100530e.png" alt="" width="30" height="39" /></td>
+<td style="text-align: center; width: 373px;"><a href="https://drive.google.com/file/d/15-e8w66IDW6GQ7uLKFE-W6ClPJs2jThm/view?usp=sharing">Conceitos Fundamentais de instumentos de medidas el&eacute;tricas</a></td>
 </tr>
 </tbody>
 </table>
 <table style="height: 164px;" width="378" border="1">
 <tbody>
 <tr>
-1&ordf; Aula Pr&aacute;tica: Lei de Ohm
+<td colspan="2" style="text-align: center;">1&ordf; Aula Pr&aacute;tica: Lei de Ohm</td>
 </tr>
 <tr>
-<img src="https://user-images.githubusercontent.com/44790000/140449751-0802cbdb-eabc-42ec-8b9d-99b850d8f7b3.png" alt="" style="display: block; margin-left: auto; margin-right: auto;" width="39" height="39" />
- <a href="https://docs.google.com/document/d/1t6lzC3xAJNeE0kHSC44sZB9X00cMj9Oe/edit?usp=sharing&ouid=101750793150395365396&rtpof=true&sd=true">Guia de Aula</a>
+<td><img src="https://user-images.githubusercontent.com/44790000/140449751-0802cbdb-eabc-42ec-8b9d-99b850d8f7b3.png" alt="" style="display: block; margin-left: auto; margin-right: auto;" width="39" height="39" /></td>
+<td style="text-align: center; width: 266px;">&nbsp;<a href="https://docs.google.com/document/d/1t6lzC3xAJNeE0kHSC44sZB9X00cMj9Oe/edit?usp=sharing&ouid=101750793150395365396&rtpof=true&sd=true">Guia de Aula</a></td>
 </tr>
 <tr>
-<img src="https://user-images.githubusercontent.com/44790000/140448624-934b6009-92b1-464c-932d-9b15b100530e.png" alt="" style="display: block; margin-left: auto; margin-right: auto;" width="30" height="39" />
-   <a href="https://drive.google.com/file/d/1yHeckOk_LMVFPwKUEPu-W_bR5PqHtDZ_/view?usp=sharing">Slides da Aula</a>
+<td><img src="https://user-images.githubusercontent.com/44790000/140448624-934b6009-92b1-464c-932d-9b15b100530e.png" alt="" style="display: block; margin-left: auto; margin-right: auto;" width="30" height="39" /></td>
+<td style="text-align: center;">&nbsp;&nbsp; <a href="https://drive.google.com/file/d/1yHeckOk_LMVFPwKUEPu-W_bR5PqHtDZ_/view?usp=sharing">Slides da Aula</a></td>
 </tr>
 </tbody>
 </table>
@@ -244,131 +245,131 @@ Série:2a
 <table style="height: 164px;" width="378" border="1">
 <tbody>
 <tr>
-2&ordf; Aula Pr&aacute;tica: Circuito Puramente Resistivo S&eacute;rie
+<td colspan="2" style="text-align: center;">2&ordf; Aula Pr&aacute;tica: Circuito Puramente Resistivo S&eacute;rie</td>
 </tr>
 <tr>
-<img src="https://user-images.githubusercontent.com/44790000/140449751-0802cbdb-eabc-42ec-8b9d-99b850d8f7b3.png" alt="" style="display: block; margin-left: auto; margin-right: auto;" width="39" height="39" />
- <a href="https://docs.google.com/document/d/1-LhBey0oV9fLtwNeDNTWVA3YxqHhG7Cl/edit?usp=sharing&ouid=101750793150395365396&rtpof=true&sd=true">Guia de Aula</a>
+<td><img src="https://user-images.githubusercontent.com/44790000/140449751-0802cbdb-eabc-42ec-8b9d-99b850d8f7b3.png" alt="" style="display: block; margin-left: auto; margin-right: auto;" width="39" height="39" /></td>
+<td style="text-align: center; width: 266px;">&nbsp;<a href="https://docs.google.com/document/d/1-LhBey0oV9fLtwNeDNTWVA3YxqHhG7Cl/edit?usp=sharing&ouid=101750793150395365396&rtpof=true&sd=true">Guia de Aula</a></td>
 </tr>
 <tr>
-<img src="https://user-images.githubusercontent.com/44790000/140448624-934b6009-92b1-464c-932d-9b15b100530e.png" alt="" style="display: block; margin-left: auto; margin-right: auto;" width="30" height="39" />
-<a href="https://drive.google.com/file/d/1mP1Ki5fUclkCiqjYlnrfXS5Mx3OJe6Pn/view?usp=sharing">Slides da Aula</a>
-</tr>
-</tbody>
-</table>
-<table style="height: 164px; width: 413px;" border="1">
-<tbody>
-<tr>
-3&ordf; Aula Pr&aacute;tica: Circuito Puramente Resistivo Paralelo
-</tr>
-<tr>
-<img src="https://user-images.githubusercontent.com/44790000/140449751-0802cbdb-eabc-42ec-8b9d-99b850d8f7b3.png" alt="" style="display: block; margin-left: auto; margin-right: auto;" width="39" height="39" />
- <a href="https://docs.google.com/document/d/1M_Qt4myOGsjd2_egwB7pwnXnPmJ6kG6D/edit?usp=sharing&ouid=101750793150395365396&rtpof=true&sd=true">Guia de Aula</a>
-</tr>
-<tr>
-<img src="https://user-images.githubusercontent.com/44790000/140448624-934b6009-92b1-464c-932d-9b15b100530e.png" alt="" style="display: block; margin-left: auto; margin-right: auto;" width="30" height="39" />
- <a href="https://drive.google.com/file/d/11cYhaxbvu9VZ7SSa4HS6Ac_Gfp1xXmij/view?usp=sharing)">Slides da Aula</a>
+<td><img src="https://user-images.githubusercontent.com/44790000/140448624-934b6009-92b1-464c-932d-9b15b100530e.png" alt="" style="display: block; margin-left: auto; margin-right: auto;" width="30" height="39" /></td>
+<td style="text-align: center;"><a href="https://drive.google.com/file/d/1mP1Ki5fUclkCiqjYlnrfXS5Mx3OJe6Pn/view?usp=sharing">Slides da Aula</a></td>
 </tr>
 </tbody>
 </table>
 <table style="height: 164px; width: 413px;" border="1">
 <tbody>
 <tr>
-4&ordf; Aula Pr&aacute;tica: Circuito Puramente Resistivo misto
+<td colspan="2" style="text-align: center; width: 397px;">3&ordf; Aula Pr&aacute;tica: Circuito Puramente Resistivo Paralelo</td>
 </tr>
 <tr>
-<img src="https://user-images.githubusercontent.com/44790000/140449751-0802cbdb-eabc-42ec-8b9d-99b850d8f7b3.png" alt="" style="display: block; margin-left: auto; margin-right: auto;" width="39" height="39" />
- <a href="https://docs.google.com/document/d/18THzb9tjTaQnOG9MSRB_-ICQ7DNv1V7r/edit?usp=sharing&ouid=101750793150395365396&rtpof=true&sd=true">Guia de Aula</a>
+<td style="width: 96px;"><img src="https://user-images.githubusercontent.com/44790000/140449751-0802cbdb-eabc-42ec-8b9d-99b850d8f7b3.png" alt="" style="display: block; margin-left: auto; margin-right: auto;" width="39" height="39" /></td>
+<td style="text-align: center; width: 301px;">&nbsp;<a href="https://docs.google.com/document/d/1M_Qt4myOGsjd2_egwB7pwnXnPmJ6kG6D/edit?usp=sharing&ouid=101750793150395365396&rtpof=true&sd=true">Guia de Aula</a></td>
 </tr>
 <tr>
-<img src="https://user-images.githubusercontent.com/44790000/140448624-934b6009-92b1-464c-932d-9b15b100530e.png" alt="" style="display: block; margin-left: auto; margin-right: auto;" width="30" height="39" />
-<a href="https://drive.google.com/file/d/1jHC-nAlrVzK9iozhI2aWAKL_iEwTNprk/view?usp=sharing">Slides da Aula</a>
+<td style="width: 96px;"><img src="https://user-images.githubusercontent.com/44790000/140448624-934b6009-92b1-464c-932d-9b15b100530e.png" alt="" style="display: block; margin-left: auto; margin-right: auto;" width="30" height="39" /></td>
+<td style="text-align: center; width: 301px;"> <a href="https://drive.google.com/file/d/11cYhaxbvu9VZ7SSa4HS6Ac_Gfp1xXmij/view?usp=sharing)">Slides da Aula</a></td>
+</tr>
+</tbody>
+</table>
+<table style="height: 164px; width: 413px;" border="1">
+<tbody>
+<tr>
+<td colspan="2" style="text-align: center; width: 397px;">4&ordf; Aula Pr&aacute;tica: Circuito Puramente Resistivo misto</td>
+</tr>
+<tr>
+<td style="width: 96px;"><img src="https://user-images.githubusercontent.com/44790000/140449751-0802cbdb-eabc-42ec-8b9d-99b850d8f7b3.png" alt="" style="display: block; margin-left: auto; margin-right: auto;" width="39" height="39" /></td>
+<td style="text-align: center; width: 301px;">&nbsp;<a href="https://docs.google.com/document/d/18THzb9tjTaQnOG9MSRB_-ICQ7DNv1V7r/edit?usp=sharing&ouid=101750793150395365396&rtpof=true&sd=true">Guia de Aula</a></td>
+</tr>
+<tr>
+<td style="width: 96px;"><img src="https://user-images.githubusercontent.com/44790000/140448624-934b6009-92b1-464c-932d-9b15b100530e.png" alt="" style="display: block; margin-left: auto; margin-right: auto;" width="30" height="39" /></td>
+<td style="text-align: center; width: 301px;"><a href="https://drive.google.com/file/d/1jHC-nAlrVzK9iozhI2aWAKL_iEwTNprk/view?usp=sharing">Slides da Aula</a></td>
 </tr>
 </tbody>
 </table>
 <table style="height: 73px; width: 485px;" border="1">
 <tbody>
 <tr style="height: 18px;">
-
+<td style="text-align: center; width: 475px; height: 18px;" colspan="2">
 <p>Aula Pr&aacute;tica 04A: Divisores de tensão e de corrente</p>
-
+</td>
 </tr>
 <tr style="height: 55px;">
-<img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140448624-934b6009-92b1-464c-932d-9b15b100530e.png" alt="" width="30" height="39" />
- <a href="https://drive.google.com/file/d/1zoGCXg04eEa8uMIgynWO5f7Js2E1IV3C/view?usp=sharing">Slides da Aula</a>
+<td style="width: 96px; height: 55px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140448624-934b6009-92b1-464c-932d-9b15b100530e.png" alt="" width="30" height="39" /></td>
+<td style="text-align: center; width: 373px; height: 55px;">&nbsp;<a href="https://drive.google.com/file/d/1zoGCXg04eEa8uMIgynWO5f7Js2E1IV3C/view?usp=sharing">Slides da Aula</a></td>
 </tr>
 </tbody>
 </table>
 <table style="height: 164px; width: 485px;" border="1">
 <tbody>
 <tr>
-5&ordf; Aula Pr&aacute;tica: Redes de Kirchhoff: M&eacute;todo Corrente de Ramos
+<td colspan="2" style="text-align: center; width: 469px;">5&ordf; Aula Pr&aacute;tica: Redes de Kirchhoff: M&eacute;todo Corrente de Ramos</td>
 </tr>
 <tr>
-<img src="https://user-images.githubusercontent.com/44790000/140449751-0802cbdb-eabc-42ec-8b9d-99b850d8f7b3.png" alt="" style="display: block; margin-left: auto; margin-right: auto;" width="39" height="39" />
- <a href="https://docs.google.com/document/d/1_V_DpnUuseFULioBe9KIMuvSy7_dP1t5/edit?usp=sharing&ouid=101750793150395365396&rtpof=true&sd=true">Guia de Aula</a>
+<td style="width: 96px;"><img src="https://user-images.githubusercontent.com/44790000/140449751-0802cbdb-eabc-42ec-8b9d-99b850d8f7b3.png" alt="" style="display: block; margin-left: auto; margin-right: auto;" width="39" height="39" /></td>
+<td style="text-align: center; width: 373px;">&nbsp;<a href="https://docs.google.com/document/d/1_V_DpnUuseFULioBe9KIMuvSy7_dP1t5/edit?usp=sharing&ouid=101750793150395365396&rtpof=true&sd=true">Guia de Aula</a></td>
 </tr>
 <tr>
-<img src="https://user-images.githubusercontent.com/44790000/140448624-934b6009-92b1-464c-932d-9b15b100530e.png" alt="" style="display: block; margin-left: auto; margin-right: auto;" width="30" height="39" />
-<a href="https://drive.google.com/file/d/1e1eEVmp4JR2LjKDTIOlREfN-cfH_Vydh/view?usp=sharing">Slides da Aula</a>
-</tr>
-</tbody>
-</table>
-<table style="height: 164px; width: 485px;" border="1">
-<tbody>
-<tr>
-6&ordf; Aula Pr&aacute;tica: Redes de Kirchhoff: M&eacute;todo Corrente Auxiliar
-</tr>
-<tr>
-<img src="https://user-images.githubusercontent.com/44790000/140449751-0802cbdb-eabc-42ec-8b9d-99b850d8f7b3.png" alt="" style="display: block; margin-left: auto; margin-right: auto;" width="39" height="39" />
- <a href="https://docs.google.com/document/d/1_TKlMJG0cxCw_SKmso12DP3Ple1Jx0XU/edit?usp=sharing&ouid=101750793150395365396&rtpof=true&sd=true">Guia de Aula</a>
-</tr>
-<tr>
-<img src="https://user-images.githubusercontent.com/44790000/140448624-934b6009-92b1-464c-932d-9b15b100530e.png" alt="" style="display: block; margin-left: auto; margin-right: auto;" width="30" height="39" />
-<a href="https://drive.google.com/file/d/1QMkDPuo7CAygELp_RxeajV0wjAvj7zWe/view?usp=sharing">Slides da Aula</a>
+<td style="width: 96px;"><img src="https://user-images.githubusercontent.com/44790000/140448624-934b6009-92b1-464c-932d-9b15b100530e.png" alt="" style="display: block; margin-left: auto; margin-right: auto;" width="30" height="39" /></td>
+<td style="text-align: center; width: 373px;"><a href="https://drive.google.com/file/d/1e1eEVmp4JR2LjKDTIOlREfN-cfH_Vydh/view?usp=sharing">Slides da Aula</a></td>
 </tr>
 </tbody>
 </table>
 <table style="height: 164px; width: 485px;" border="1">
 <tbody>
 <tr>
-7&ordf; Aula Pr&aacute;tica: Analise de Redes-Tensao Nodal 
+<td colspan="2" style="text-align: center; width: 469px;">6&ordf; Aula Pr&aacute;tica: Redes de Kirchhoff: M&eacute;todo Corrente Auxiliar</td>
 </tr>
 <tr>
-<img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140449751-0802cbdb-eabc-42ec-8b9d-99b850d8f7b3.png" alt="" width="39" height="39" />
- <a href="https://docs.google.com/document/d/1XCLOexL9KMtSPuAXve5h40v-bDAXQCTl/edit?usp=sharing&amp;ouid=101750793150395365396&amp;rtpof=true&amp;sd=true">Guia de Aula</a>
+<td style="width: 96px;"><img src="https://user-images.githubusercontent.com/44790000/140449751-0802cbdb-eabc-42ec-8b9d-99b850d8f7b3.png" alt="" style="display: block; margin-left: auto; margin-right: auto;" width="39" height="39" /></td>
+<td style="text-align: center; width: 373px;">&nbsp;<a href="https://docs.google.com/document/d/1_TKlMJG0cxCw_SKmso12DP3Ple1Jx0XU/edit?usp=sharing&ouid=101750793150395365396&rtpof=true&sd=true">Guia de Aula</a></td>
 </tr>
 <tr>
-<img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140448624-934b6009-92b1-464c-932d-9b15b100530e.png" alt="" width="30" height="39" />
-<a href="https://drive.google.com/file/d/1NkCtlhyELeM81ksLcUkXheZWPVqVRVYk/view?usp=sharing">Slides da Aula</a>
+<td style="width: 96px;"><img src="https://user-images.githubusercontent.com/44790000/140448624-934b6009-92b1-464c-932d-9b15b100530e.png" alt="" style="display: block; margin-left: auto; margin-right: auto;" width="30" height="39" /></td>
+<td style="text-align: center; width: 373px;"><a href="https://drive.google.com/file/d/1QMkDPuo7CAygELp_RxeajV0wjAvj7zWe/view?usp=sharing">Slides da Aula</a></td>
 </tr>
 </tbody>
 </table>
 <table style="height: 164px; width: 485px;" border="1">
 <tbody>
 <tr>
-8&ordf; Aula Pr&aacute;tica: Teorema da Superposi&ccedil;&atilde;o 
+<td style="text-align: center; width: 469px;" colspan="2">7&ordf; Aula Pr&aacute;tica: Analise de Redes-Tensao Nodal </td>
 </tr>
 <tr>
-<img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140449751-0802cbdb-eabc-42ec-8b9d-99b850d8f7b3.png" alt="" width="39" height="39" />
- <a href="https://docs.google.com/document/d/1mRiI8BJvtniJh-Fhd8n1BomRFZOzFHJs/edit?usp=sharing&amp;ouid=101750793150395365396&amp;rtpof=true&amp;sd=true">Guia de Aula</a>
+<td style="width: 96px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140449751-0802cbdb-eabc-42ec-8b9d-99b850d8f7b3.png" alt="" width="39" height="39" /></td>
+<td style="text-align: center; width: 373px;">&nbsp;<a href="https://docs.google.com/document/d/1XCLOexL9KMtSPuAXve5h40v-bDAXQCTl/edit?usp=sharing&amp;ouid=101750793150395365396&amp;rtpof=true&amp;sd=true">Guia de Aula</a></td>
 </tr>
 <tr>
-<img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140448624-934b6009-92b1-464c-932d-9b15b100530e.png" alt="" width="30" height="39" />
-<a href="https://drive.google.com/file/d/1VO8jUQ3HJbil9ZYUJrF_jMBLz-JW7k87/view?usp=sharing">Slides da Aula</a>
+<td style="width: 96px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140448624-934b6009-92b1-464c-932d-9b15b100530e.png" alt="" width="30" height="39" /></td>
+<td style="text-align: center; width: 373px;"><a href="https://drive.google.com/file/d/1NkCtlhyELeM81ksLcUkXheZWPVqVRVYk/view?usp=sharing">Slides da Aula</a></td>
+</tr>
+</tbody>
+</table>
+<table style="height: 164px; width: 485px;" border="1">
+<tbody>
+<tr>
+<td style="text-align: center; width: 469px;" colspan="2">8&ordf; Aula Pr&aacute;tica: Teorema da Superposi&ccedil;&atilde;o </td>
+</tr>
+<tr>
+<td style="width: 96px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140449751-0802cbdb-eabc-42ec-8b9d-99b850d8f7b3.png" alt="" width="39" height="39" /></td>
+<td style="text-align: center; width: 373px;">&nbsp;<a href="https://docs.google.com/document/d/1mRiI8BJvtniJh-Fhd8n1BomRFZOzFHJs/edit?usp=sharing&amp;ouid=101750793150395365396&amp;rtpof=true&amp;sd=true">Guia de Aula</a></td>
+</tr>
+<tr>
+<td style="width: 96px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140448624-934b6009-92b1-464c-932d-9b15b100530e.png" alt="" width="30" height="39" /></td>
+<td style="text-align: center; width: 373px;"><a href="https://drive.google.com/file/d/1VO8jUQ3HJbil9ZYUJrF_jMBLz-JW7k87/view?usp=sharing">Slides da Aula</a></td>
 </tr>
 </tbody>
 </table>
 <table style="height: 73px; width: 485px;" border="1">
 <tbody>
 <tr style="height: 18px;">
-
+<td style="text-align: center; width: 475px; height: 18px;" colspan="2">
 <p>Aula Pr&aacute;tica 08A - Fontes de Corrente x Fontes de Tens&atilde;o</p>
-
+</td>
 </tr>
 <tr style="height: 55px;">
-<img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140448624-934b6009-92b1-464c-932d-9b15b100530e.png" alt="" width="30" height="39" />
- <a href="https://drive.google.com/file/d/10ObLPMow2TDOJ7g_AvQz5JKaWc45BS4J/view?usp=sharing">Slides da Aula</a>
+<td style="width: 96px; height: 55px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140448624-934b6009-92b1-464c-932d-9b15b100530e.png" alt="" width="30" height="39" /></td>
+<td style="text-align: center; width: 373px; height: 55px;">&nbsp;<a href="https://drive.google.com/file/d/10ObLPMow2TDOJ7g_AvQz5JKaWc45BS4J/view?usp=sharing">Slides da Aula</a></td>
 </tr>
 </tbody>
 </table>
@@ -376,471 +377,471 @@ Série:2a
 <table style="height: 164px; width: 485px;" border="1">
 <tbody>
 <tr>
-9&ordf; Aula Pr&aacute;tica: An&aacute;lise de Redes: Teorema de Th&eacute;venin e Norton 
+<td style="text-align: center; width: 469px;" colspan="2">9&ordf; Aula Pr&aacute;tica: An&aacute;lise de Redes: Teorema de Th&eacute;venin e Norton </td>
 </tr>
 <tr>
-<img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140449751-0802cbdb-eabc-42ec-8b9d-99b850d8f7b3.png" alt="" width="39" height="39" />
-<a href="https://docs.google.com/document/d/111lmprhQIGqu_X2iywEeK7lay5QVrSY4/edit?usp=sharing&amp;ouid=101750793150395365396&amp;rtpof=true&amp;sd=true"> Guia de Aula</a>
+<td style="width: 96px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140449751-0802cbdb-eabc-42ec-8b9d-99b850d8f7b3.png" alt="" width="39" height="39" /></td>
+<td style="text-align: center; width: 373px;"><a href="https://docs.google.com/document/d/111lmprhQIGqu_X2iywEeK7lay5QVrSY4/edit?usp=sharing&amp;ouid=101750793150395365396&amp;rtpof=true&amp;sd=true">&nbsp;Guia de Aula</a></td>
 </tr>
 <tr>
-<img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140448624-934b6009-92b1-464c-932d-9b15b100530e.png" alt="" width="30" height="39" />
-<a href="https://drive.google.com/file/d/1tiR9L8OOLGS7Yy1b8oIK8sG26cH4SCIu/view?usp=sharing">Slides da Aula</a>
-</tr>
-</tbody>
-</table>
-<table style="height: 164px; width: 485px;" border="1">
-<tbody>
-<tr>
-10&ordf; Aula Pr&aacute;tica: Teorema da M&aacute;xima Transfer&ecirc;ncia de Pot&ecirc;ncia
-</tr>
-<tr>
-<img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140449751-0802cbdb-eabc-42ec-8b9d-99b850d8f7b3.png" alt="" width="39" height="39" />
-<a href="https://docs.google.com/document/d/1boNek0yyhtBfEm0g_nOJs1qEXr6RjQRP/edit?usp=sharing&amp;ouid=101750793150395365396&amp;rtpof=true&amp;sd=true">Guia de Aula</a>
-</tr>
-<tr>
-<img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140448624-934b6009-92b1-464c-932d-9b15b100530e.png" alt="" width="30" height="39" />
-<a href="https://drive.google.com/file/d/1snLiFJmIsB-t-Br25rAd5KuoKOwFyqDi/view?usp=sharing">Slides da Aula</a>
+<td style="width: 96px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140448624-934b6009-92b1-464c-932d-9b15b100530e.png" alt="" width="30" height="39" /></td>
+<td style="text-align: center; width: 373px;"><a href="https://drive.google.com/file/d/1tiR9L8OOLGS7Yy1b8oIK8sG26cH4SCIu/view?usp=sharing">Slides da Aula</a></td>
 </tr>
 </tbody>
 </table>
 <table style="height: 164px; width: 485px;" border="1">
 <tbody>
 <tr>
-11&ordf; Aula Pr&aacute;tica: Transforma&ccedil;&atilde;o Triangulo --&gt; Estrela (∆/Y)
+<td style="text-align: center; width: 469px;" colspan="2">10&ordf; Aula Pr&aacute;tica: Teorema da M&aacute;xima Transfer&ecirc;ncia de Pot&ecirc;ncia</td>
 </tr>
 <tr>
-<img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140449751-0802cbdb-eabc-42ec-8b9d-99b850d8f7b3.png" alt="" width="39" height="39" />
-<a href="https://docs.google.com/document/d/1Xq5qtjzRM_3ws7ccM7nxQ3LGqJFgdk-X/edit?usp=sharing&amp;ouid=101750793150395365396&amp;rtpof=true&amp;sd=true">Guia de Aula</a>
+<td style="width: 96px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140449751-0802cbdb-eabc-42ec-8b9d-99b850d8f7b3.png" alt="" width="39" height="39" /></td>
+<td style="text-align: center; width: 373px;"><a href="https://docs.google.com/document/d/1boNek0yyhtBfEm0g_nOJs1qEXr6RjQRP/edit?usp=sharing&amp;ouid=101750793150395365396&amp;rtpof=true&amp;sd=true">Guia de Aula</a></td>
 </tr>
 <tr>
-<img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140448624-934b6009-92b1-464c-932d-9b15b100530e.png" alt="" width="30" height="39" />
-<a href="https://drive.google.com/file/d/1EpMeaQBNpY03ya4nlZIUOy6LRy6v9owO/view?usp=sharing">Slides da Aula</a>
+<td style="width: 96px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140448624-934b6009-92b1-464c-932d-9b15b100530e.png" alt="" width="30" height="39" /></td>
+<td style="text-align: center; width: 373px;"><a href="https://drive.google.com/file/d/1snLiFJmIsB-t-Br25rAd5KuoKOwFyqDi/view?usp=sharing">Slides da Aula</a></td>
 </tr>
 </tbody>
 </table>
 <table style="height: 164px; width: 485px;" border="1">
 <tbody>
 <tr>
-12&ordf; Aula Pr&aacute;tica: Circuito Resistivo e Capacitivo Misto - CC
+<td style="text-align: center; width: 469px;" colspan="2">11&ordf; Aula Pr&aacute;tica: Transforma&ccedil;&atilde;o Triangulo --&gt; Estrela (∆/Y)</td>
 </tr>
 <tr>
-<img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140449751-0802cbdb-eabc-42ec-8b9d-99b850d8f7b3.png" alt="" width="39" height="39" />
-<a href="https://docs.google.com/document/d/1gWRaPi1kYz0_wKekWnBs2Ov7o27J0SFA/edit?usp=sharing&amp;ouid=101750793150395365396&amp;rtpof=true&amp;sd=true">Guia de Aula</a>
+<td style="width: 96px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140449751-0802cbdb-eabc-42ec-8b9d-99b850d8f7b3.png" alt="" width="39" height="39" /></td>
+<td style="text-align: center; width: 373px;"><a href="https://docs.google.com/document/d/1Xq5qtjzRM_3ws7ccM7nxQ3LGqJFgdk-X/edit?usp=sharing&amp;ouid=101750793150395365396&amp;rtpof=true&amp;sd=true">Guia de Aula</a></td>
 </tr>
 <tr>
-<img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140448624-934b6009-92b1-464c-932d-9b15b100530e.png" alt="" width="30" height="39" />
-<a href="https://drive.google.com/file/d/135BtOSb44y_Zz3QAi-RhvjH25jKV0Dww/view?usp=sharing">Slides da Aula</a>
+<td style="width: 96px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140448624-934b6009-92b1-464c-932d-9b15b100530e.png" alt="" width="30" height="39" /></td>
+<td style="text-align: center; width: 373px;"><a href="https://drive.google.com/file/d/1EpMeaQBNpY03ya4nlZIUOy6LRy6v9owO/view?usp=sharing">Slides da Aula</a></td>
+</tr>
+</tbody>
+</table>
+<table style="height: 164px; width: 485px;" border="1">
+<tbody>
+<tr>
+<td style="text-align: center; width: 469px;" colspan="2">12&ordf; Aula Pr&aacute;tica: Circuito Resistivo e Capacitivo Misto - CC</td>
+</tr>
+<tr>
+<td style="width: 96px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140449751-0802cbdb-eabc-42ec-8b9d-99b850d8f7b3.png" alt="" width="39" height="39" /></td>
+<td style="text-align: center; width: 373px;"><a href="https://docs.google.com/document/d/1gWRaPi1kYz0_wKekWnBs2Ov7o27J0SFA/edit?usp=sharing&amp;ouid=101750793150395365396&amp;rtpof=true&amp;sd=true">Guia de Aula</a></td>
+</tr>
+<tr>
+<td style="width: 96px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140448624-934b6009-92b1-464c-932d-9b15b100530e.png" alt="" width="30" height="39" /></td>
+<td style="text-align: center; width: 373px;"><a href="https://drive.google.com/file/d/135BtOSb44y_Zz3QAi-RhvjH25jKV0Dww/view?usp=sharing">Slides da Aula</a></td>
 </tr>
 </tbody>
 </table>
 <table style="height: 164px; width: 473px;" border="1">
 <tbody>
 <tr>
-13&ordf; Aula Pr&aacute;tica: Transit&oacute;rio da Carga e Descarga do Capacitor em C.C. 
+<td style="text-align: center; width: 463px;" colspan="2">13&ordf; Aula Pr&aacute;tica: Transit&oacute;rio da Carga e Descarga do Capacitor em C.C. </td>
 </tr>
 <tr>
-<img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140449751-0802cbdb-eabc-42ec-8b9d-99b850d8f7b3.png" alt="" width="39" height="39" />
-<a href="https://docs.google.com/document/d/1RBmFoN6RXx1laCFAaxKKBcbmu1nnWImc/edit?usp=sharing&amp;ouid=101750793150395365396&amp;rtpof=true&amp;sd=true">Guia de Aula</a>
+<td style="width: 90.8px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140449751-0802cbdb-eabc-42ec-8b9d-99b850d8f7b3.png" alt="" width="39" height="39" /></td>
+<td style="text-align: center; width: 366.2px;"><a href="https://docs.google.com/document/d/1RBmFoN6RXx1laCFAaxKKBcbmu1nnWImc/edit?usp=sharing&amp;ouid=101750793150395365396&amp;rtpof=true&amp;sd=true">Guia de Aula</a></td>
 </tr>
 <tr>
-<img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140448624-934b6009-92b1-464c-932d-9b15b100530e.png" alt="" width="30" height="39" />
-<a href="https://drive.google.com/file/d/1jFEEjHsoNILFBA_mxuUelAsIvfnMGjB3/view?usp=sharing">Slides da Aula</a>
+<td style="width: 90.8px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140448624-934b6009-92b1-464c-932d-9b15b100530e.png" alt="" width="30" height="39" /></td>
+<td style="text-align: center; width: 366.2px;"><a href="https://drive.google.com/file/d/1jFEEjHsoNILFBA_mxuUelAsIvfnMGjB3/view?usp=sharing">Slides da Aula</a></td>
 </tr>
 </tbody>
 </table>
 <table style="height: 164px; width: 485px;" border="1">
 <tbody>
 <tr>
-14&ordf; Aula Pr&aacute;tica: Levantamento da Curva de Magnetiza&ccedil;&atilde;o ou Satura&ccedil;&atilde;o Magn&eacute;tica
+<td style="text-align: center; width: 469px;" colspan="2">14&ordf; Aula Pr&aacute;tica: Levantamento da Curva de Magnetiza&ccedil;&atilde;o ou Satura&ccedil;&atilde;o Magn&eacute;tica</td>
 </tr>
 <tr>
-<img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140449751-0802cbdb-eabc-42ec-8b9d-99b850d8f7b3.png" alt="" width="39" height="39" />
- <a href="https://docs.google.com/document/d/1XkGVtEFKp5RwZvUs0vodDyKqw9UzbZAX/edit?usp=sharing&amp;ouid=101750793150395365396&amp;rtpof=true&amp;sd=true">Guia de Aula</a>
+<td style="width: 96px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140449751-0802cbdb-eabc-42ec-8b9d-99b850d8f7b3.png" alt="" width="39" height="39" /></td>
+<td style="text-align: center; width: 373px;">&nbsp;<a href="https://docs.google.com/document/d/1XkGVtEFKp5RwZvUs0vodDyKqw9UzbZAX/edit?usp=sharing&amp;ouid=101750793150395365396&amp;rtpof=true&amp;sd=true">Guia de Aula</a></td>
 </tr>
  <tr>
-<img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140449751-0802cbdb-eabc-42ec-8b9d-99b850d8f7b3.png" alt="" width="39" height="39" />
- <a href="https://docs.google.com/document/d/1yBOSdGnp9GLFGNZS7gdMI1AqpDBGq8vM/edit?usp=sharing&ouid=101750793150395365396&rtpof=true&sd=true">Levantamento de dados práticos para montagem do relatório</a>
+<td style="width: 96px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140449751-0802cbdb-eabc-42ec-8b9d-99b850d8f7b3.png" alt="" width="39" height="39" /></td>
+<td style="text-align: center; width: 373px;">&nbsp;<a href="https://docs.google.com/document/d/1yBOSdGnp9GLFGNZS7gdMI1AqpDBGq8vM/edit?usp=sharing&ouid=101750793150395365396&rtpof=true&sd=true">Levantamento de dados práticos para montagem do relatório</a></td>
 </tr>
 <tr>
-<img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140448624-934b6009-92b1-464c-932d-9b15b100530e.png" alt="" width="30" height="39" />
-<a href="https://drive.google.com/file/d/1RN3LS_YEI7xiCN_YH3CzL7tclGXvHRRH/view?usp=sharing">Slides da Aula</a>
-</tr>
-</tbody>
-</table>
-<table style="height: 164px; width: 485px;" border="1">
-<tbody>
-<tr>
-15&ordf; Aula Pr&aacute;tica: Estudo dos Circuitos Magn&eacute;ticos com Entreferro
-</tr>
-<tr>
-<img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140449751-0802cbdb-eabc-42ec-8b9d-99b850d8f7b3.png" alt="" width="39" height="39" />
- <a href="https://docs.google.com/document/d/1sKOwQKaKCS-T-nOXtonJG05lW_KGUaBh/edit?usp=sharing&amp;ouid=101750793150395365396&amp;rtpof=true&amp;sd=true">Guia de Aula</a>
-</tr>
-<tr>
-<img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140448624-934b6009-92b1-464c-932d-9b15b100530e.png" alt="" width="30" height="39" />
-<a href="https://drive.google.com/file/d/1uF9o76ER2ZeM3udJYPmQp5TA_m6u9CU9/view?usp=sharing">Slides da Aula</a>
+<td style="width: 96px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140448624-934b6009-92b1-464c-932d-9b15b100530e.png" alt="" width="30" height="39" /></td>
+<td style="text-align: center; width: 373px;"><a href="https://drive.google.com/file/d/1RN3LS_YEI7xiCN_YH3CzL7tclGXvHRRH/view?usp=sharing">Slides da Aula</a></td>
 </tr>
 </tbody>
 </table>
 <table style="height: 164px; width: 485px;" border="1">
 <tbody>
 <tr>
-16&ordf; Aula Pr&aacute;tica: Circuito Resistivo e Indutivo s&eacute;rie &ndash; Transit&oacute;rio da carga - CC
+<td style="text-align: center; width: 469px;" colspan="2">15&ordf; Aula Pr&aacute;tica: Estudo dos Circuitos Magn&eacute;ticos com Entreferro</td>
 </tr>
 <tr>
-<img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140449751-0802cbdb-eabc-42ec-8b9d-99b850d8f7b3.png" alt="" width="39" height="39" />
- <a href="https://docs.google.com/document/d/1ah8KiUQhuvlzmJdPt3FftiWxBOt8w5UZ/edit?usp=sharing&amp;ouid=101750793150395365396&amp;rtpof=true&amp;sd=true">Guia de Aula</a>
+<td style="width: 96px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140449751-0802cbdb-eabc-42ec-8b9d-99b850d8f7b3.png" alt="" width="39" height="39" /></td>
+<td style="text-align: center; width: 373px;">&nbsp;<a href="https://docs.google.com/document/d/1sKOwQKaKCS-T-nOXtonJG05lW_KGUaBh/edit?usp=sharing&amp;ouid=101750793150395365396&amp;rtpof=true&amp;sd=true">Guia de Aula</a></td>
 </tr>
 <tr>
-<img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140448624-934b6009-92b1-464c-932d-9b15b100530e.png" alt="" width="30" height="39" />
-<a href="https://drive.google.com/file/d/1fg9F8b3cORbx9t4U8btiweAlgdZIBeLo/view?usp=sharing">Slides da Aula</a>
-</tr>
-</tbody>
-</table>
-<table style="height: 164px; width: 485px;" border="1">
-<tbody>
-<tr>
-17&ordf; Aula Pr&aacute;tica: Transit&oacute;rio da Carga e Descarga do circuito RL - CC
-</tr>
-<tr>
-<img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140449751-0802cbdb-eabc-42ec-8b9d-99b850d8f7b3.png" alt="" width="39" height="39" />
- <a href="https://docs.google.com/document/d/1wqXiPLqwKEfR3sqS4fRi0B32uhEvPgoo/edit?usp=sharing&amp;ouid=101750793150395365396&amp;rtpof=true&amp;sd=true">Guia de Aula</a>
-</tr>
-<tr>
-<img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140448624-934b6009-92b1-464c-932d-9b15b100530e.png" alt="" width="30" height="39" />
-<a href="https://drive.google.com/file/d/1DRS_1lcVBaMqMj4-x4zou1IJ7xcXaUkS/view?usp=sharing">Slides da aula</a>
+<td style="width: 96px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140448624-934b6009-92b1-464c-932d-9b15b100530e.png" alt="" width="30" height="39" /></td>
+<td style="text-align: center; width: 373px;"><a href="https://drive.google.com/file/d/1uF9o76ER2ZeM3udJYPmQp5TA_m6u9CU9/view?usp=sharing">Slides da Aula</a></td>
 </tr>
 </tbody>
 </table>
 <table style="height: 164px; width: 485px;" border="1">
 <tbody>
 <tr>
-18&ordf; Aula Pr&aacute;tica: Circuito Puramente Resistivo s&eacute;rie - CA
+<td style="text-align: center; width: 469px;" colspan="2">16&ordf; Aula Pr&aacute;tica: Circuito Resistivo e Indutivo s&eacute;rie &ndash; Transit&oacute;rio da carga - CC</td>
 </tr>
 <tr>
-<img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140449751-0802cbdb-eabc-42ec-8b9d-99b850d8f7b3.png" alt="" width="39" height="39" />
- <a href="https://docs.google.com/document/d/1OcGk4HC5Md8U_FY_wCUPb4fH4gIfSQsW/edit?usp=sharing&ouid=101750793150395365396&rtpof=true&sd=true">Guia de Aula</a>
+<td style="width: 96px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140449751-0802cbdb-eabc-42ec-8b9d-99b850d8f7b3.png" alt="" width="39" height="39" /></td>
+<td style="text-align: center; width: 373px;">&nbsp;<a href="https://docs.google.com/document/d/1ah8KiUQhuvlzmJdPt3FftiWxBOt8w5UZ/edit?usp=sharing&amp;ouid=101750793150395365396&amp;rtpof=true&amp;sd=true">Guia de Aula</a></td>
 </tr>
 <tr>
-<img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140448624-934b6009-92b1-464c-932d-9b15b100530e.png" alt="" width="30" height="39" />
-<a href="https://drive.google.com/file/d/1Ug4ilAVkm3EbrNGbSl8fLOOGM-7cbLsn/view?usp=sharing">Slides da aula</a>
-</tr>
-<tr>
-<img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140448624-934b6009-92b1-464c-932d-9b15b100530e.png" alt="" width="30" height="39" />
-<a href="https://drive.google.com/file/d/10dHGxDO74CdbxnocBfidNqf-JT3PJT8W/view?usp=sharing">Revisão: Números Complexos</a>
+<td style="width: 96px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140448624-934b6009-92b1-464c-932d-9b15b100530e.png" alt="" width="30" height="39" /></td>
+<td style="text-align: center; width: 373px;"><a href="https://drive.google.com/file/d/1fg9F8b3cORbx9t4U8btiweAlgdZIBeLo/view?usp=sharing">Slides da Aula</a></td>
 </tr>
 </tbody>
 </table>
 <table style="height: 164px; width: 485px;" border="1">
 <tbody>
 <tr>
-19&ordf; Aula Pr&aacute;tica: Circuito Resistivo e Indutivo S&eacute;rie - CA
+<td style="text-align: center; width: 469px;" colspan="2">17&ordf; Aula Pr&aacute;tica: Transit&oacute;rio da Carga e Descarga do circuito RL - CC</td>
 </tr>
 <tr>
-<img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140449751-0802cbdb-eabc-42ec-8b9d-99b850d8f7b3.png" alt="" width="39" height="39" />
- <a href="https://docs.google.com/document/d/1VbRvvhpUGktB3QWQZWbVe6Bo14yxIS4c/edit?usp=sharing&ouid=101750793150395365396&rtpof=true&sd=true">Guia de Aula</a>
+<td style="width: 96px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140449751-0802cbdb-eabc-42ec-8b9d-99b850d8f7b3.png" alt="" width="39" height="39" /></td>
+<td style="text-align: center; width: 373px;">&nbsp;<a href="https://docs.google.com/document/d/1wqXiPLqwKEfR3sqS4fRi0B32uhEvPgoo/edit?usp=sharing&amp;ouid=101750793150395365396&amp;rtpof=true&amp;sd=true">Guia de Aula</a></td>
 </tr>
 <tr>
-<img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140448624-934b6009-92b1-464c-932d-9b15b100530e.png" alt="" width="30" height="39" />
-<a href="https://drive.google.com/file/d/1rypmoFAeNQoVy7jREsCPngP8cMn7fqF4/view?usp=sharing">Slides da aula</a>
-</tr>
-</tbody>
-</table>
-<table style="height: 164px; width: 485px;" border="1">
-<tbody>
-<tr>
-20&ordf; Aula Pr&aacute;tica: Circuito Resistivo e Capacitivo S&eacute;rie - CA
-</tr>
-<tr>
-<img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140449751-0802cbdb-eabc-42ec-8b9d-99b850d8f7b3.png" alt="" width="39" height="39" />
- <a href="https://docs.google.com/document/d/1XPNvwdtahFpw-KPK-agXPP4vlWyp4K6r/edit?usp=sharing&ouid=101750793150395365396&rtpof=true&sd=true">Guia de Aula</a>
-</tr>
-<tr>
-<img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140448624-934b6009-92b1-464c-932d-9b15b100530e.png" alt="" width="30" height="39" />
-<a href="https://drive.google.com/file/d/1J6975vwmqCgwfbkA9bgR-oYbKDXz9B9v/view?usp=sharing">Slides da aula</a>
+<td style="width: 96px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140448624-934b6009-92b1-464c-932d-9b15b100530e.png" alt="" width="30" height="39" /></td>
+<td style="text-align: center; width: 373px;"><a href="https://drive.google.com/file/d/1DRS_1lcVBaMqMj4-x4zou1IJ7xcXaUkS/view?usp=sharing">Slides da aula</a></td>
 </tr>
 </tbody>
 </table>
 <table style="height: 164px; width: 485px;" border="1">
 <tbody>
 <tr>
-21&ordf; Aula Pr&aacute;tica: Circuito Resistivo, Indutivo e Capacitivo S&eacute;rie - CA
+<td style="text-align: center; width: 469px;" colspan="2">18&ordf; Aula Pr&aacute;tica: Circuito Puramente Resistivo s&eacute;rie - CA</td>
 </tr>
 <tr>
-<img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140449751-0802cbdb-eabc-42ec-8b9d-99b850d8f7b3.png" alt="" width="39" height="39" />
- <a href="https://docs.google.com/document/d/1YpiU5nwfVPTFZ4jZqWE4Zi9Tb45UVujZ/edit?usp=sharing&amp;ouid=101750793150395365396&amp;rtpof=true&amp;sd=true">Guia de Aula</a>
+<td style="width: 96px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140449751-0802cbdb-eabc-42ec-8b9d-99b850d8f7b3.png" alt="" width="39" height="39" /></td>
+<td style="text-align: center; width: 373px;">&nbsp;<a href="https://docs.google.com/document/d/1OcGk4HC5Md8U_FY_wCUPb4fH4gIfSQsW/edit?usp=sharing&ouid=101750793150395365396&rtpof=true&sd=true">Guia de Aula</a></td>
 </tr>
 <tr>
-<img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140448624-934b6009-92b1-464c-932d-9b15b100530e.png" alt="" width="30" height="39" />
-<a href="https://drive.google.com/file/d/18ag7K5aaj3sl1jYlIuWxdzLAVemnv2pg/view?usp=sharing">Slides da aula</a>
+<td style="width: 96px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140448624-934b6009-92b1-464c-932d-9b15b100530e.png" alt="" width="30" height="39" /></td>
+<td style="text-align: center; width: 373px;"><a href="https://drive.google.com/file/d/1Ug4ilAVkm3EbrNGbSl8fLOOGM-7cbLsn/view?usp=sharing">Slides da aula</a></td>
+</tr>
+<tr>
+<td style="width: 96px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140448624-934b6009-92b1-464c-932d-9b15b100530e.png" alt="" width="30" height="39" /></td>
+<td style="text-align: center; width: 373px;"><a href="https://drive.google.com/file/d/10dHGxDO74CdbxnocBfidNqf-JT3PJT8W/view?usp=sharing">Revisão: Números Complexos</a></td>
 </tr>
 </tbody>
 </table>
 <table style="height: 164px; width: 485px;" border="1">
 <tbody>
 <tr>
-
+<td style="text-align: center; width: 469px;" colspan="2">19&ordf; Aula Pr&aacute;tica: Circuito Resistivo e Indutivo S&eacute;rie - CA</td>
+</tr>
+<tr>
+<td style="width: 96px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140449751-0802cbdb-eabc-42ec-8b9d-99b850d8f7b3.png" alt="" width="39" height="39" /></td>
+<td style="text-align: center; width: 373px;">&nbsp;<a href="https://docs.google.com/document/d/1VbRvvhpUGktB3QWQZWbVe6Bo14yxIS4c/edit?usp=sharing&ouid=101750793150395365396&rtpof=true&sd=true">Guia de Aula</a></td>
+</tr>
+<tr>
+<td style="width: 96px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140448624-934b6009-92b1-464c-932d-9b15b100530e.png" alt="" width="30" height="39" /></td>
+<td style="text-align: center; width: 373px;"><a href="https://drive.google.com/file/d/1rypmoFAeNQoVy7jREsCPngP8cMn7fqF4/view?usp=sharing">Slides da aula</a></td>
+</tr>
+</tbody>
+</table>
+<table style="height: 164px; width: 485px;" border="1">
+<tbody>
+<tr>
+<td style="text-align: center; width: 469px;" colspan="2">20&ordf; Aula Pr&aacute;tica: Circuito Resistivo e Capacitivo S&eacute;rie - CA</td>
+</tr>
+<tr>
+<td style="width: 96px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140449751-0802cbdb-eabc-42ec-8b9d-99b850d8f7b3.png" alt="" width="39" height="39" /></td>
+<td style="text-align: center; width: 373px;">&nbsp;<a href="https://docs.google.com/document/d/1XPNvwdtahFpw-KPK-agXPP4vlWyp4K6r/edit?usp=sharing&ouid=101750793150395365396&rtpof=true&sd=true">Guia de Aula</a></td>
+</tr>
+<tr>
+<td style="width: 96px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140448624-934b6009-92b1-464c-932d-9b15b100530e.png" alt="" width="30" height="39" /></td>
+<td style="text-align: center; width: 373px;"><a href="https://drive.google.com/file/d/1J6975vwmqCgwfbkA9bgR-oYbKDXz9B9v/view?usp=sharing">Slides da aula</a></td>
+</tr>
+</tbody>
+</table>
+<table style="height: 164px; width: 485px;" border="1">
+<tbody>
+<tr>
+<td style="text-align: center; width: 469px;" colspan="2">21&ordf; Aula Pr&aacute;tica: Circuito Resistivo, Indutivo e Capacitivo S&eacute;rie - CA</td>
+</tr>
+<tr>
+<td style="width: 96px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140449751-0802cbdb-eabc-42ec-8b9d-99b850d8f7b3.png" alt="" width="39" height="39" /></td>
+<td style="text-align: center; width: 373px;">&nbsp;<a href="https://docs.google.com/document/d/1YpiU5nwfVPTFZ4jZqWE4Zi9Tb45UVujZ/edit?usp=sharing&amp;ouid=101750793150395365396&amp;rtpof=true&amp;sd=true">Guia de Aula</a></td>
+</tr>
+<tr>
+<td style="width: 96px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140448624-934b6009-92b1-464c-932d-9b15b100530e.png" alt="" width="30" height="39" /></td>
+<td style="text-align: center; width: 373px;"><a href="https://drive.google.com/file/d/18ag7K5aaj3sl1jYlIuWxdzLAVemnv2pg/view?usp=sharing">Slides da aula</a></td>
+</tr>
+</tbody>
+</table>
+<table style="height: 164px; width: 485px;" border="1">
+<tbody>
+<tr>
+<td style="text-align: center; width: 469px;" colspan="2">
 <p>22&ordf; Aula Pr&aacute;tica - Correção do Fator de Potência</p>
-
+</td>
 </tr>
 <tr>
-<img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140449751-0802cbdb-eabc-42ec-8b9d-99b850d8f7b3.png" alt="" width="39" height="39" />
- <a href="https://docs.google.com/document/d/1Da5pnk7dzHRwDtQ8Y-mqXlegbS5vrINr/edit?usp=sharing&amp;ouid=101750793150395365396&amp;rtpof=true&amp;sd=true">Guia de Aula</a>
+<td style="width: 96px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140449751-0802cbdb-eabc-42ec-8b9d-99b850d8f7b3.png" alt="" width="39" height="39" /></td>
+<td style="text-align: center; width: 373px;">&nbsp;<a href="https://docs.google.com/document/d/1Da5pnk7dzHRwDtQ8Y-mqXlegbS5vrINr/edit?usp=sharing&amp;ouid=101750793150395365396&amp;rtpof=true&amp;sd=true">Guia de Aula</a></td>
 </tr>
 <tr>
-<img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140448624-934b6009-92b1-464c-932d-9b15b100530e.png" alt="" width="30" height="39" />
-<a href="https://drive.google.com/file/d/1EjG92oRnPLN5NeScjBVCB7VMTytSlCew/view?usp=sharing">Slides da aula</a>
-</tr>
-</tbody>
-</table>
-<table style="height: 164px; width: 485px;" border="1">
-<tbody>
-<tr>
-23&ordf; Aula Pr&aacute;tica: Circuito Resistivo( R ), Indutivo( L ) e Capacitivo( C ) Paralelo - CA
-</tr>
-<tr>
-<img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140449751-0802cbdb-eabc-42ec-8b9d-99b850d8f7b3.png" alt="" width="39" height="39" />
- <a href="https://docs.google.com/document/d/1xcV4TDI4GHzGpCUBWe3YiUtSqePsyv49/edit?usp=sharing&amp;ouid=101750793150395365396&amp;rtpof=true&amp;sd=true">Guia de Aula</a>
-</tr>
-<tr>
-<img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140448624-934b6009-92b1-464c-932d-9b15b100530e.png" alt="" width="30" height="39" />
-<a href="https://drive.google.com/file/d/15W7PgyRRapN0CmQ-wyr_Fhey4KTVlLC-/view?usp=sharing">Slides da aula</a>
+<td style="width: 96px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140448624-934b6009-92b1-464c-932d-9b15b100530e.png" alt="" width="30" height="39" /></td>
+<td style="text-align: center; width: 373px;"><a href="https://drive.google.com/file/d/1EjG92oRnPLN5NeScjBVCB7VMTytSlCew/view?usp=sharing">Slides da aula</a></td>
 </tr>
 </tbody>
 </table>
 <table style="height: 164px; width: 485px;" border="1">
 <tbody>
 <tr>
-24&ordf; Aula Pr&aacute;tica: Circuito Resistivo( R ), Indutivo( L ) e Capacitivo ( C ) Misto - CA
+<td style="text-align: center; width: 469px;" colspan="2">23&ordf; Aula Pr&aacute;tica: Circuito Resistivo( R ), Indutivo( L ) e Capacitivo( C ) Paralelo - CA</td>
 </tr>
 <tr>
-<img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140449751-0802cbdb-eabc-42ec-8b9d-99b850d8f7b3.png" alt="" width="39" height="39" />
- <a href="https://docs.google.com/document/d/1xYJ0Mc3WowNZxk5Y-VRqjJFNVowzZdyZ/edit?usp=sharing&ouid=101750793150395365396&rtpof=true&sd=true">Guia de Aula</a>
+<td style="width: 96px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140449751-0802cbdb-eabc-42ec-8b9d-99b850d8f7b3.png" alt="" width="39" height="39" /></td>
+<td style="text-align: center; width: 373px;">&nbsp;<a href="https://docs.google.com/document/d/1xcV4TDI4GHzGpCUBWe3YiUtSqePsyv49/edit?usp=sharing&amp;ouid=101750793150395365396&amp;rtpof=true&amp;sd=true">Guia de Aula</a></td>
 </tr>
 <tr>
-<img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140448624-934b6009-92b1-464c-932d-9b15b100530e.png" alt="" width="30" height="39" />
-<a href="https://drive.google.com/file/d/1tAkmmMrpS3aG6t82RCHZcTj3hdUMKZH6/view?usp=sharing">Slides da aula</a>
-</tr>
-</tbody>
-</table>
-<table style="height: 164px; width: 485px;" border="1">
-<tbody>
-<tr>
-25&ordf; Aula Pr&aacute;tica: Resson&acirc;ncia do circuito RLC &ndash; Paralelo - CA
-</tr>
-<tr>
-<img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140449751-0802cbdb-eabc-42ec-8b9d-99b850d8f7b3.png" alt="" width="39" height="39" />
- <a href="https://docs.google.com/document/d/1lTnWD2yRhm8MkaEjNRkFoaWCDwdhZx65/edit?usp=sharing&ouid=101750793150395365396&rtpof=true&sd=true">Guia de Aula</a>
-</tr>
-<tr>
-<img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140448624-934b6009-92b1-464c-932d-9b15b100530e.png" alt="" width="30" height="39" />
-<a href="https://drive.google.com/file/d/10GSb8Hr4Im1hV6JT6-JeJnKQVxR4rmMe/view?usp=sharing">Slides da aula</a>
+<td style="width: 96px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140448624-934b6009-92b1-464c-932d-9b15b100530e.png" alt="" width="30" height="39" /></td>
+<td style="text-align: center; width: 373px;"><a href="https://drive.google.com/file/d/15W7PgyRRapN0CmQ-wyr_Fhey4KTVlLC-/view?usp=sharing">Slides da aula</a></td>
 </tr>
 </tbody>
 </table>
 <table style="height: 164px; width: 485px;" border="1">
 <tbody>
 <tr>
-26&ordf; Aula Pr&aacute;tica: An&aacute;lise de Redes Complexa com 3 fontes CA
+<td style="text-align: center; width: 469px;" colspan="2">24&ordf; Aula Pr&aacute;tica: Circuito Resistivo( R ), Indutivo( L ) e Capacitivo ( C ) Misto - CA</td>
 </tr>
 <tr>
-<img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140449751-0802cbdb-eabc-42ec-8b9d-99b850d8f7b3.png" alt="" width="39" height="39" />
- <a href="https://docs.google.com/document/d/1tVjbuBZtVuSSdHvfnpfNk26PrCB2XmLE/edit?usp=sharing&ouid=101750793150395365396&rtpof=true&sd=true">Guia de Aula</a>
+<td style="width: 96px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140449751-0802cbdb-eabc-42ec-8b9d-99b850d8f7b3.png" alt="" width="39" height="39" /></td>
+<td style="text-align: center; width: 373px;">&nbsp;<a href="https://docs.google.com/document/d/1xYJ0Mc3WowNZxk5Y-VRqjJFNVowzZdyZ/edit?usp=sharing&ouid=101750793150395365396&rtpof=true&sd=true">Guia de Aula</a></td>
 </tr>
 <tr>
-<img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140448624-934b6009-92b1-464c-932d-9b15b100530e.png" alt="" width="30" height="39" />
-<a href="https://drive.google.com/file/d/1RIZcrJ-g7BY4F5X1Rc2vYnVolpROXljJ/view?usp=sharing">Slides da aula</a>
+<td style="width: 96px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140448624-934b6009-92b1-464c-932d-9b15b100530e.png" alt="" width="30" height="39" /></td>
+<td style="text-align: center; width: 373px;"><a href="https://drive.google.com/file/d/1tAkmmMrpS3aG6t82RCHZcTj3hdUMKZH6/view?usp=sharing">Slides da aula</a></td>
 </tr>
 </tbody>
 </table>
 <table style="height: 164px; width: 485px;" border="1">
 <tbody>
 <tr>
-
+<td style="text-align: center; width: 469px;" colspan="2">25&ordf; Aula Pr&aacute;tica: Resson&acirc;ncia do circuito RLC &ndash; Paralelo - CA</td>
+</tr>
+<tr>
+<td style="width: 96px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140449751-0802cbdb-eabc-42ec-8b9d-99b850d8f7b3.png" alt="" width="39" height="39" /></td>
+<td style="text-align: center; width: 373px;">&nbsp;<a href="https://docs.google.com/document/d/1lTnWD2yRhm8MkaEjNRkFoaWCDwdhZx65/edit?usp=sharing&ouid=101750793150395365396&rtpof=true&sd=true">Guia de Aula</a></td>
+</tr>
+<tr>
+<td style="width: 96px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140448624-934b6009-92b1-464c-932d-9b15b100530e.png" alt="" width="30" height="39" /></td>
+<td style="text-align: center; width: 373px;"><a href="https://drive.google.com/file/d/10GSb8Hr4Im1hV6JT6-JeJnKQVxR4rmMe/view?usp=sharing">Slides da aula</a></td>
+</tr>
+</tbody>
+</table>
+<table style="height: 164px; width: 485px;" border="1">
+<tbody>
+<tr>
+<td style="text-align: center; width: 469px;" colspan="2">26&ordf; Aula Pr&aacute;tica: An&aacute;lise de Redes Complexa com 3 fontes CA</td>
+</tr>
+<tr>
+<td style="width: 96px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140449751-0802cbdb-eabc-42ec-8b9d-99b850d8f7b3.png" alt="" width="39" height="39" /></td>
+<td style="text-align: center; width: 373px;">&nbsp;<a href="https://docs.google.com/document/d/1tVjbuBZtVuSSdHvfnpfNk26PrCB2XmLE/edit?usp=sharing&ouid=101750793150395365396&rtpof=true&sd=true">Guia de Aula</a></td>
+</tr>
+<tr>
+<td style="width: 96px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140448624-934b6009-92b1-464c-932d-9b15b100530e.png" alt="" width="30" height="39" /></td>
+<td style="text-align: center; width: 373px;"><a href="https://drive.google.com/file/d/1RIZcrJ-g7BY4F5X1Rc2vYnVolpROXljJ/view?usp=sharing">Slides da aula</a></td>
+</tr>
+</tbody>
+</table>
+<table style="height: 164px; width: 485px;" border="1">
+<tbody>
+<tr>
+<td style="text-align: center; width: 469px;" colspan="2">
 <p>27&ordf; Aula Pr&aacute;tica: Análise de Redes em Circuito RLC usando Corrente Laço</p>
-
+</td>
 </tr>
 <tr>
-<img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140449751-0802cbdb-eabc-42ec-8b9d-99b850d8f7b3.png" alt="" width="39" height="39" />
- <a href="https://docs.google.com/document/d/1n5i3DlLjVUrp2vhxuh-cBCCkAcwxxn9g/edit?usp=sharing&amp;ouid=101750793150395365396&amp;rtpof=true&amp;sd=true">Guia de Aula</a>
+<td style="width: 96px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140449751-0802cbdb-eabc-42ec-8b9d-99b850d8f7b3.png" alt="" width="39" height="39" /></td>
+<td style="text-align: center; width: 373px;">&nbsp;<a href="https://docs.google.com/document/d/1n5i3DlLjVUrp2vhxuh-cBCCkAcwxxn9g/edit?usp=sharing&amp;ouid=101750793150395365396&amp;rtpof=true&amp;sd=true">Guia de Aula</a></td>
 </tr>
 <tr>
-<img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140448624-934b6009-92b1-464c-932d-9b15b100530e.png" alt="" width="30" height="39" />
-<a href="https://drive.google.com/file/d/1tLCgc4sOSKH5VqV70k-W12qu7alSwHTa/view?usp=sharing">Slides da aula</a>
+<td style="width: 96px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140448624-934b6009-92b1-464c-932d-9b15b100530e.png" alt="" width="30" height="39" /></td>
+<td style="text-align: center; width: 373px;"><a href="https://drive.google.com/file/d/1tLCgc4sOSKH5VqV70k-W12qu7alSwHTa/view?usp=sharing">Slides da aula</a></td>
 </tr>
 </tbody>
 </table>
 <table style="height: 164px; width: 485px;" border="1">
 <tbody>
 <tr>
-
+<td style="text-align: center; width: 469px;" colspan="2">
 <p>28&ordf; Aula Pr&aacute;tica: An&aacute;lise de Redes CA usando Teorema de Th&eacute;venin e Norton</p>
-
+</td>
 </tr>
 <tr>
-<img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140449751-0802cbdb-eabc-42ec-8b9d-99b850d8f7b3.png" alt="" width="39" height="39" />
- <a href="https://docs.google.com/document/d/1n0IG4matUhOb_EusiaBelG76axnlUugn/edit?usp=sharing&ouid=101750793150395365396&rtpof=true&sd=true">Guia de Aula</a>
+<td style="width: 96px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140449751-0802cbdb-eabc-42ec-8b9d-99b850d8f7b3.png" alt="" width="39" height="39" /></td>
+<td style="text-align: center; width: 373px;">&nbsp;<a href="https://docs.google.com/document/d/1n0IG4matUhOb_EusiaBelG76axnlUugn/edit?usp=sharing&ouid=101750793150395365396&rtpof=true&sd=true">Guia de Aula</a></td>
 </tr>
 <tr>
-<img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140448624-934b6009-92b1-464c-932d-9b15b100530e.png" alt="" width="30" height="39" />
-<a href="https://drive.google.com/file/d/14XA9GFaZIysaMqWLNwCPYJgg5Fn_8BS1/view?usp=sharing">Slides da aula</a>
+<td style="width: 96px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140448624-934b6009-92b1-464c-932d-9b15b100530e.png" alt="" width="30" height="39" /></td>
+<td style="text-align: center; width: 373px;"><a href="https://drive.google.com/file/d/14XA9GFaZIysaMqWLNwCPYJgg5Fn_8BS1/view?usp=sharing">Slides da aula</a></td>
 </tr>
 </tbody>
 </table>
 <table style="height: 164px; width: 485px;" border="1">
 <tbody>
 <tr>
-
+<td style="text-align: center; width: 469px;" colspan="2">
 <p>29&ordf; Aula Pr&aacute;tica: Teorema da M&aacute;xima Transfer&ecirc;ncia de Pot&ecirc;ncia - CA</p>
-
+</td>
 </tr>
 <tr>
-<img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140449751-0802cbdb-eabc-42ec-8b9d-99b850d8f7b3.png" alt="" width="39" height="39" />
- <a href="https://docs.google.com/document/d/1VxGXN2rJBCU3qizxz-JSujKgDwK0TDIr/edit?usp=sharing&ouid=101750793150395365396&rtpof=true&sd=true">Guia de Aula</a>
+<td style="width: 96px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140449751-0802cbdb-eabc-42ec-8b9d-99b850d8f7b3.png" alt="" width="39" height="39" /></td>
+<td style="text-align: center; width: 373px;">&nbsp;<a href="https://docs.google.com/document/d/1VxGXN2rJBCU3qizxz-JSujKgDwK0TDIr/edit?usp=sharing&ouid=101750793150395365396&rtpof=true&sd=true">Guia de Aula</a></td>
 </tr>
 <tr>
-<img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140448624-934b6009-92b1-464c-932d-9b15b100530e.png" alt="" width="30" height="39" />
-<a href="https://drive.google.com/file/d/1O6JkAwXL8XCkMp1iblYpRhbtSo4cDIDe/view?usp=sharing">Slides da aula</a>
+<td style="width: 96px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140448624-934b6009-92b1-464c-932d-9b15b100530e.png" alt="" width="30" height="39" /></td>
+<td style="text-align: center; width: 373px;"><a href="https://drive.google.com/file/d/1O6JkAwXL8XCkMp1iblYpRhbtSo4cDIDe/view?usp=sharing">Slides da aula</a></td>
 </tr>
 </tbody>
 </table>
 <table style="height: 164px; width: 485px;" border="1">
 <tbody>
 <tr>
-
+<td style="text-align: center; width: 469px;" colspan="2">
 <p>30&ordf; Aula Pr&aacute;tica: Liga&ccedil;&atilde;o Estrela Equilibrado a 4 fios</p>
-
+</td>
 </tr>
 <tr>
-<img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140449751-0802cbdb-eabc-42ec-8b9d-99b850d8f7b3.png" alt="" width="39" height="39" />
- <a href="https://docs.google.com/document/d/1Yjofgwf10Km5P782SxPXSXvy-NDRVM5H/edit?usp=sharing&amp;ouid=101750793150395365396&amp;rtpof=true&amp;sd=true">Guia de Aula</a>
+<td style="width: 96px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140449751-0802cbdb-eabc-42ec-8b9d-99b850d8f7b3.png" alt="" width="39" height="39" /></td>
+<td style="text-align: center; width: 373px;">&nbsp;<a href="https://docs.google.com/document/d/1Yjofgwf10Km5P782SxPXSXvy-NDRVM5H/edit?usp=sharing&amp;ouid=101750793150395365396&amp;rtpof=true&amp;sd=true">Guia de Aula</a></td>
 </tr>
 <tr>
-<img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140448624-934b6009-92b1-464c-932d-9b15b100530e.png" alt="" width="30" height="39" />
-<a href="https://drive.google.com/file/d/14Nucb_3NDHqjHC7hAIApNksw1vanWmS7/view?usp=sharing">Slides da aula</a>
+<td style="width: 96px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140448624-934b6009-92b1-464c-932d-9b15b100530e.png" alt="" width="30" height="39" /></td>
+<td style="text-align: center; width: 373px;"><a href="https://drive.google.com/file/d/14Nucb_3NDHqjHC7hAIApNksw1vanWmS7/view?usp=sharing">Slides da aula</a></td>
 </tr>
 </tbody>
 </table>
 <table style="height: 164px; width: 485px;" border="1">
 <tbody>
 <tr>
-
+<td style="text-align: center; width: 469px;" colspan="2">
 <p>31&ordf; Aula Pr&aacute;tica: Liga&ccedil;&atilde;o Tri&acirc;ngulo Equilibrado</p>
-
+</td>
 </tr>
 <tr>
-<img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140449751-0802cbdb-eabc-42ec-8b9d-99b850d8f7b3.png" alt="" width="39" height="39" />
- <a href="https://docs.google.com/document/d/1-7kpnkHkwSg7JCnUVGNuK5jWS7kVJte3/edit?usp=sharing&amp;ouid=101750793150395365396&amp;rtpof=true&amp;sd=true">Guia de Aula</a>
+<td style="width: 96px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140449751-0802cbdb-eabc-42ec-8b9d-99b850d8f7b3.png" alt="" width="39" height="39" /></td>
+<td style="text-align: center; width: 373px;">&nbsp;<a href="https://docs.google.com/document/d/1-7kpnkHkwSg7JCnUVGNuK5jWS7kVJte3/edit?usp=sharing&amp;ouid=101750793150395365396&amp;rtpof=true&amp;sd=true">Guia de Aula</a></td>
 </tr>
 <tr>
-<img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140448624-934b6009-92b1-464c-932d-9b15b100530e.png" alt="" width="30" height="39" />
-<a href="https://drive.google.com/file/d/1-BkXmnzw_aEsAOm4pCx1d03sGyNDVyOx/view?usp=sharing">Slides da aula </a>
+<td style="width: 96px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140448624-934b6009-92b1-464c-932d-9b15b100530e.png" alt="" width="30" height="39" /></td>
+<td style="text-align: center; width: 373px;"><a href="https://drive.google.com/file/d/1-BkXmnzw_aEsAOm4pCx1d03sGyNDVyOx/view?usp=sharing">Slides da aula </a></td>
 </tr>
 </tbody>
 </table>
 <table style="height: 164px; width: 485px;" border="1">
 <tbody>
 <tr>
-
+<td style="text-align: center; width: 469px;" colspan="2">
 <p>32&ordf; Aula Pr&aacute;tica: Liga&ccedil;&atilde;o Estrela Desequilibrado a 4 fios</p>
-
+</td>
 </tr>
 <tr>
-<img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140449751-0802cbdb-eabc-42ec-8b9d-99b850d8f7b3.png" alt="" width="39" height="39" />
- <a href="https://docs.google.com/document/d/1pn96yC3zJi-IATbwTYEAQi3q_VaMWqU8/edit?usp=sharing&amp;ouid=101750793150395365396&amp;rtpof=true&amp;sd=true">Guia de Aula</a>
+<td style="width: 96px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140449751-0802cbdb-eabc-42ec-8b9d-99b850d8f7b3.png" alt="" width="39" height="39" /></td>
+<td style="text-align: center; width: 373px;">&nbsp;<a href="https://docs.google.com/document/d/1pn96yC3zJi-IATbwTYEAQi3q_VaMWqU8/edit?usp=sharing&amp;ouid=101750793150395365396&amp;rtpof=true&amp;sd=true">Guia de Aula</a></td>
 </tr>
 <tr>
-<img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140448624-934b6009-92b1-464c-932d-9b15b100530e.png" alt="" width="30" height="39" />
-<a href="https://drive.google.com/file/d/179vijHvQMUgLpC_Lx36fs9OTlrtFB3Cl/view?usp=sharing">Slides da aula</a>
+<td style="width: 96px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140448624-934b6009-92b1-464c-932d-9b15b100530e.png" alt="" width="30" height="39" /></td>
+<td style="text-align: center; width: 373px;"><a href="https://drive.google.com/file/d/179vijHvQMUgLpC_Lx36fs9OTlrtFB3Cl/view?usp=sharing">Slides da aula</a></td>
 </tr>
 </tbody>
 </table>
 <table style="height: 164px; width: 485px;" border="1">
 <tbody>
 <tr>
-
+<td style="text-align: center; width: 469px;" colspan="2">
 <p>33&ordf; Aula Pr&aacute;tica:  Ligação Triângulo Desequilibrado</p>
-
+</td>
 </tr>
 <tr>
-<img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140449751-0802cbdb-eabc-42ec-8b9d-99b850d8f7b3.png" alt="" width="39" height="39" />
- <a href="https://docs.google.com/document/d/1jSpb7gleUSt6rebDtn25ygkp_KajZfKT/edit?usp=sharing&amp;ouid=101750793150395365396&amp;rtpof=true&amp;sd=true">Guia de Aula</a>
+<td style="width: 96px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140449751-0802cbdb-eabc-42ec-8b9d-99b850d8f7b3.png" alt="" width="39" height="39" /></td>
+<td style="text-align: center; width: 373px;">&nbsp;<a href="https://docs.google.com/document/d/1jSpb7gleUSt6rebDtn25ygkp_KajZfKT/edit?usp=sharing&amp;ouid=101750793150395365396&amp;rtpof=true&amp;sd=true">Guia de Aula</a></td>
 </tr>
 <tr>
-<img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140448624-934b6009-92b1-464c-932d-9b15b100530e.png" alt="" width="30" height="39" />
-<a href="https://drive.google.com/file/d/1aLwnvR7bwrjJA9Af9dsLNwLkZ8xYhQHG/view?usp=sharing">Slides da aula</a>
+<td style="width: 96px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140448624-934b6009-92b1-464c-932d-9b15b100530e.png" alt="" width="30" height="39" /></td>
+<td style="text-align: center; width: 373px;"><a href="https://drive.google.com/file/d/1aLwnvR7bwrjJA9Af9dsLNwLkZ8xYhQHG/view?usp=sharing">Slides da aula</a></td>
 </tr>
 </tbody>
 </table>
 <table style="height: 164px; width: 485px;" border="1">
 <tbody>
 <tr>
-
+<td style="text-align: center; width: 469px;" colspan="2">
 <p>34&ordf; Aula Pr&aacute;tica: Ligação Estrela Desequilibrado a 3 fios </p>
-
+</td>
 </tr>
 <tr>
-<img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140449751-0802cbdb-eabc-42ec-8b9d-99b850d8f7b3.png" alt="" width="39" height="39" />
- <a href="https://docs.google.com/document/d/19TTsyy3A397qols65fqYYnKouDR0Sslr/edit?usp=sharing&amp;ouid=101750793150395365396&amp;rtpof=true&amp;sd=true">Guia de Aula</a>
+<td style="width: 96px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140449751-0802cbdb-eabc-42ec-8b9d-99b850d8f7b3.png" alt="" width="39" height="39" /></td>
+<td style="text-align: center; width: 373px;">&nbsp;<a href="https://docs.google.com/document/d/19TTsyy3A397qols65fqYYnKouDR0Sslr/edit?usp=sharing&amp;ouid=101750793150395365396&amp;rtpof=true&amp;sd=true">Guia de Aula</a></td>
 </tr>
 <tr>
-<img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140448624-934b6009-92b1-464c-932d-9b15b100530e.png" alt="" width="30" height="39" />
-<a href="https://drive.google.com/file/d/1NiAZRa7asGMDm0QNFiRYRt48HqOIxjlu/view?usp=sharing">Slides da aula</a>
+<td style="width: 96px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140448624-934b6009-92b1-464c-932d-9b15b100530e.png" alt="" width="30" height="39" /></td>
+<td style="text-align: center; width: 373px;"><a href="https://drive.google.com/file/d/1NiAZRa7asGMDm0QNFiRYRt48HqOIxjlu/view?usp=sharing">Slides da aula</a></td>
 </tr>
 </tbody>
 </table>
 <table style="height: 164px; width: 485px;" border="1">
 <tbody>
 <tr>
-
+<td style="text-align: center; width: 469px;" colspan="2">
 <p>35&ordf; Aula Pr&aacute;tica: Ligação Triângulo Desequilibrado com Impedância na Linha </p>
-
+</td>
 </tr>
 <tr>
-<img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140449751-0802cbdb-eabc-42ec-8b9d-99b850d8f7b3.png" alt="" width="39" height="39" />
- <a href="https://docs.google.com/document/d/1Z8nD3f0buMLVEniAAVs5qPpc9gmLlpJw/edit?usp=sharing&ouid=101750793150395365396&rtpof=true&sd=true">Guia de Aula</a>
+<td style="width: 96px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140449751-0802cbdb-eabc-42ec-8b9d-99b850d8f7b3.png" alt="" width="39" height="39" /></td>
+<td style="text-align: center; width: 373px;">&nbsp;<a href="https://docs.google.com/document/d/1Z8nD3f0buMLVEniAAVs5qPpc9gmLlpJw/edit?usp=sharing&ouid=101750793150395365396&rtpof=true&sd=true">Guia de Aula</a></td>
 </tr>
 <tr>
-<img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140448624-934b6009-92b1-464c-932d-9b15b100530e.png" alt="" width="30" height="39" />
-<a href="https://drive.google.com/file/d/1UDhS4QUHoLavxPUS6A1VIlBXcSOuTCiM/view?usp=sharing">Slides da aula</a>
+<td style="width: 96px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140448624-934b6009-92b1-464c-932d-9b15b100530e.png" alt="" width="30" height="39" /></td>
+<td style="text-align: center; width: 373px;"><a href="https://drive.google.com/file/d/1UDhS4QUHoLavxPUS6A1VIlBXcSOuTCiM/view?usp=sharing">Slides da aula</a></td>
 </tr>
 </tbody>
 </table>
 <table style="height: 164px; width: 485px;" border="1">
 <tbody>
 <tr>
-
+<td style="text-align: center; width: 469px;" colspan="2">
 <p>36&ordf; Aula Pr&aacute;tica - Ligação Estrela Desequilibrado com Impedância na Linha</p>
-
+</td>
 </tr>
 <tr>
-<img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140449751-0802cbdb-eabc-42ec-8b9d-99b850d8f7b3.png" alt="" width="39" height="39" />
- <a href="https://docs.google.com/document/d/1ihx1rLeydzgt_h1XAvoSLE8H2Hhu8Hnh/edit?usp=sharing&amp;ouid=101750793150395365396&amp;rtpof=true&amp;sd=true">Guia de Aula</a>
+<td style="width: 96px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140449751-0802cbdb-eabc-42ec-8b9d-99b850d8f7b3.png" alt="" width="39" height="39" /></td>
+<td style="text-align: center; width: 373px;">&nbsp;<a href="https://docs.google.com/document/d/1ihx1rLeydzgt_h1XAvoSLE8H2Hhu8Hnh/edit?usp=sharing&amp;ouid=101750793150395365396&amp;rtpof=true&amp;sd=true">Guia de Aula</a></td>
 </tr>
 <tr>
-<img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140448624-934b6009-92b1-464c-932d-9b15b100530e.png" alt="" width="30" height="39" />
-<a href="https://drive.google.com/file/d/17OwHL-DL3BCpba7tEmwBQb1e1WtsvLtm/view?usp=sharing">Slides da aula</a>
+<td style="width: 96px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140448624-934b6009-92b1-464c-932d-9b15b100530e.png" alt="" width="30" height="39" /></td>
+<td style="text-align: center; width: 373px;"><a href="https://drive.google.com/file/d/17OwHL-DL3BCpba7tEmwBQb1e1WtsvLtm/view?usp=sharing">Slides da aula</a></td>
 </tr>
 </tbody>
 </table>
 <table style="height: 164px; width: 485px;" border="1">
 <tbody>
 <tr>
-
-<p>37&ordf; Aula Pr&aacute;tica -  Ligação Estrela e Triângulo Equilibrado em paralelo na rede</p>
-
+<td style="text-align: center; width: 469px;" colspan="2">
+<p>37&ordf; Aula Pr&aacute;tica -&nbsp; Ligação Estrela e Triângulo Equilibrado em paralelo na rede</p>
+</td>
 </tr>
 <tr>
-<img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140449751-0802cbdb-eabc-42ec-8b9d-99b850d8f7b3.png" alt="" width="39" height="39" />
- <a href="https://docs.google.com/document/d/1xhkb6-T5AsocibdegPAM8gd0EXRK_GDu/edit?usp=sharing&amp;ouid=101750793150395365396&amp;rtpof=true&amp;sd=true">Guia de Aula</a>
+<td style="width: 96px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140449751-0802cbdb-eabc-42ec-8b9d-99b850d8f7b3.png" alt="" width="39" height="39" /></td>
+<td style="text-align: center; width: 373px;">&nbsp;<a href="https://docs.google.com/document/d/1xhkb6-T5AsocibdegPAM8gd0EXRK_GDu/edit?usp=sharing&amp;ouid=101750793150395365396&amp;rtpof=true&amp;sd=true">Guia de Aula</a></td>
 </tr>
 <tr>
-<img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140448624-934b6009-92b1-464c-932d-9b15b100530e.png" alt="" width="30" height="39" />
-<a href="https://drive.google.com/file/d/11JHbVYec0Do1uYdHjazWGJo_NXPaZaK8/view?usp=sharing">Slides da aula</a>
+<td style="width: 96px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/44790000/140448624-934b6009-92b1-464c-932d-9b15b100530e.png" alt="" width="30" height="39" /></td>
+<td style="text-align: center; width: 373px;"><a href="https://drive.google.com/file/d/11JHbVYec0Do1uYdHjazWGJo_NXPaZaK8/view?usp=sharing">Slides da aula</a></td>
 </tr>
 </tbody>
 </table>
 
 # Simbologia elétrica aplicada na disciplina
-___<img src="https://github.com/Epaminondaslage/Lab-Circuitos-Eletricos/blob/main/img/simbologia.png" width="60%" />
+___<td style="width: 60%;"><img src="https://raw.githubusercontent.com/Epaminondaslage/Lab-Circuitos-Eletricos/main/img/simbologia.png" width="60%" /></td>
 
