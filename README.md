@@ -63,7 +63,7 @@ A Norma Regulamentadora nº 10 emitida pelo Ministério do Trabalho e Emprego do
 <div class="layoutArea">
 <div class="column">
 <p style="text-align: justify;"><strong>EveryCircuit</strong></p>
-<p><strong><img style="display: block; margin-left: auto; margin-right: auto;" src="https://github.com/Epaminondaslage/Lab-Circuitos-Eletricos/blob/main/img/everycircuit.png" alt="https://github.com/Epaminondaslage/Lab-Circuitos-Eletricos/blob/main/img/everycircuit.png" width="155" height="155" /></strong></p>
+<p><strong><img style="display: block; margin-left: auto; margin-right: auto;" src="https://raw.githubusercontent.com/Epaminondaslage/Lab-Circuitos-Eletricos/main/img/everycircuit.png" alt="https://raw.githubusercontent.com/Epaminondaslage/Lab-Circuitos-Eletricos/main/img/everycircuit.png" width="155" height="155" /></strong></p>
 <p style="text-align: justify;">O programa EveryCircuit &eacute; um software simulador de circuitos el&eacute;tricos desenvolvido principalmente para fins educacionais. Ele possui uma plataforma que permite a utiliza&ccedil;&atilde;o online sem a necessidade de instala&ccedil;&atilde;o via computador ou tamb&eacute;m para dispositivos m&oacute;veis como tablets e smartphones, via aplicativos que podem ser adquiridos em lojas virtuais como googleplay e applestore. O programa possui uma vers&atilde;o demonstrativa gratuita com algumas funcionalidades limitadas e tamb&eacute;m possui uma vers&atilde;o paga que d&aacute; acesso a todas as funcionalidades do programa.</p>
 <p style="text-align: justify;">Link para utilizar :<a href="https://everycircuit.com/">http://everycircuit.com/</a></p>
 <p style="text-align: justify;">O usu&aacute;rio pode fazer o uso do programa, construir e explorar os circuitos el&eacute;tricos a partir dos elementos dispon&iacute;veis.</p>
@@ -78,7 +78,7 @@ A Norma Regulamentadora nº 10 emitida pelo Ministério do Trabalho e Emprego do
 <div class="layoutArea">
 <div class="column">
 <p style="text-align: justify;"><strong>Falstad</strong></p>
-<p style="text-align: justify;"><strong><img style="display: block; margin-left: auto; margin-right: auto;" src="https://github.com/Epaminondaslage/Lab-Circuitos-Eletricos/blob/main/img/falstad.png" alt="https://github.com/Epaminondaslage/Lab-Circuitos-Eletricos/blob/main/img/falstad.png" width="166" height="166" /></strong></p>
+<p style="text-align: justify;"><strong><img style="display: block; margin-left: auto; margin-right: auto;" src="https://raw.githubusercontent.com/Epaminondaslage/Lab-Circuitos-Eletricos/main/img/falstad.png" alt="https://raw.githubusercontent.com/Epaminondaslage/Lab-Circuitos-Eletricos/main/img/falstad.png" width="166" height="166" /></strong></p>
 <p style="text-align: justify;">Circuit Simulator Applet (CSA), uma poderosa ferramenta que cont&eacute;m simula&ccedil;&otilde;es computacionais para experimentos de eletrodin&acirc;mica e trata-se de um software aberto, que possui uma interface gr&aacute;fica simples, mas com uma grande variedade de simula&ccedil;&otilde;es.</p>
 <p style="text-align: justify;">&nbsp;<br />Nos meuns superiors encontram-se as ferramentas que v&atilde;o permitir alterar os par&acirc;metros da aplica&ccedil;&atilde;o, desenhar os circuitos, visualizar diversas simula&ccedil;&otilde;es j&aacute; prontas e at&eacute; mesmo exportar e importar projetos feitos no CSA. N&atilde;o existe&nbsp; dificuldade em desenhar circuitos pr&oacute;prios da criatividade do usu&aacute;rio.</p>
 <p style="text-align: justify;">Link para utilizar :<a href="http://falstad.com/circuit/">http://falstad.com/circuit/</a></p>
@@ -93,7 +93,7 @@ A Norma Regulamentadora nº 10 emitida pelo Ministério do Trabalho e Emprego do
 <div class="layoutArea">
 <div class="column">
 <p style="text-align: justify;"><strong>Scilab</strong></p>
-<p><strong><img style="display: block; margin-left: auto; margin-right: auto;" src="https://github.com/Epaminondaslage/Lab-Circuitos-Eletricos/blob/main/img/scilab-logo.png" alt="https://github.com/Epaminondaslage/Lab-Circuitos-Eletricos/blob/main/img/scilab-logo.png" width="200" height="" /></strong></p>
+<p><strong><img style="display: block; margin-left: auto; margin-right: auto;" src="https://raw.githubusercontent.com/Epaminondaslage/Lab-Circuitos-Eletricos/main/img/scilab-logo.png" alt="https://raw.githubusercontent.com/Epaminondaslage/Lab-Circuitos-Eletricos/main/img/scilab-logo.png" width="200" height="" /></strong></p>
 <p style="text-align: justify;">O Scilab &eacute; um software cient&iacute;fico para computa&ccedil;&atilde;o num&eacute;rica, de codigo aberto, semelhante ao MATLAB que fornece um poderoso ambiente computacional aberto para aplica&ccedil;&otilde;es cient&iacute;ficas.</p>
 <p style="text-align: justify;">linguagem de programa&ccedil;&atilde;o de alto n&iacute;vel, orientada &agrave; an&aacute;lise num&eacute;rica. A linguagem prov&ecirc; um ambiente para interpreta&ccedil;&atilde;o, com diversas ferramentas num&eacute;ricas. Algoritmos complexos podem ser criados em poucas linhas de c&oacute;digo, em compara&ccedil;&atilde;o com outras linguagens como C ou C++.</p>
 <p style="text-align: justify;">Link para donwload: <a href="https://www.scilab.org/">https://www.scilab.org/</a></p>
@@ -179,9 +179,9 @@ A Norma Regulamentadora nº 10 emitida pelo Ministério do Trabalho e Emprego do
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
-<td style="width: 33.3333%; text-align: center;"><img width="300" alt="image" src="https://github.com/Epaminondaslage/Lab-Circuitos-Eletricos/blob/main/img/lab1.png"></td>
-<td style="width: 33.3333%; text-align: center;"><img width="200" alt="image" src="https://github.com/Epaminondaslage/Lab-Circuitos-Eletricos/blob/main/img/predio%2019.jpg" ></td>
-<td style="width: 33.3333%; text-align: center;"><img width="300" alt="image" src="https://github.com/Epaminondaslage/Lab-Circuitos-Eletricos/blob/main/img/lab2.jpg"></td>
+<td style="width: 33.3333%; text-align: center;"><img width="300" alt="image" src="https://raw.githubusercontent.com/Epaminondaslage/Lab-Circuitos-Eletricos/main/img/lab1.png"></td>
+<td style="width: 33.3333%; text-align: center;"><img width="200" alt="image" src="https://raw.githubusercontent.com/Epaminondaslage/Lab-Circuitos-Eletricos/main/img/predio%2019.jpg" ></td>
+<td style="width: 33.3333%; text-align: center;"><img width="300" alt="image" src="https://raw.githubusercontent.com/Epaminondaslage/Lab-Circuitos-Eletricos/main/img/lab2.jpg"></td>
 </tr>
 </tbody>
 </table>
